@@ -1,0 +1,95 @@
+{
+  "config": {
+    "data_root": "new_train_audio",
+    "files_per_label": 100,
+    "sample_rate": 32000,
+    "n_fft": 1024,
+    "hop_length": 320,
+    "target_seconds": 20.0,
+    "pca_components": 64
+  },
+  "metrics": {
+    "train_accuracy": 0.2425,
+    "test_accuracy": 0.13,
+    "n_train": 800,
+    "n_test": 200,
+    "n_features": 64,
+    "n_classes": 10,
+    "classification_report": {
+      "Antbird": {
+        "precision": 0.2727272727272727,
+        "recall": 0.15,
+        "f1-score": 0.1935483870967742,
+        "support": 20.0
+      },
+      "Bird of prey": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 20.0
+      },
+      "Flycatcher": {
+        "precision": 0.06666666666666667,
+        "recall": 0.05,
+        "f1-score": 0.05714285714285714,
+        "support": 20.0
+      },
+      "Ground bird": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 20.0
+      },
+      "Nocturnal bird": {
+        "precision": 0.12,
+        "recall": 0.75,
+        "f1-score": 0.20689655172413793,
+        "support": 20.0
+      },
+      "Other non-passerine bird": {
+        "precision": 0.2,
+        "recall": 0.1,
+        "f1-score": 0.13333333333333333,
+        "support": 20.0
+      },
+      "Other songbird": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 20.0
+      },
+      "Parrot": {
+        "precision": 0.16666666666666666,
+        "recall": 0.05,
+        "f1-score": 0.07692307692307693,
+        "support": 20.0
+      },
+      "Tanager": {
+        "precision": 0.2857142857142857,
+        "recall": 0.1,
+        "f1-score": 0.14814814814814814,
+        "support": 20.0
+      },
+      "Water-associated bird": {
+        "precision": 0.2222222222222222,
+        "recall": 0.1,
+        "f1-score": 0.13793103448275862,
+        "support": 20.0
+      },
+      "accuracy": 0.13,
+      "macro avg": {
+        "precision": 0.1333997113997114,
+        "recall": 0.13000000000000003,
+        "f1-score": 0.09539233888510863,
+        "support": 200.0
+      },
+      "weighted avg": {
+        "precision": 0.1333997113997114,
+        "recall": 0.13,
+        "f1-score": 0.09539233888510865,
+        "support": 200.0
+      }
+    },
+    "explained_variance_ratio_sum": 0.94358891248703
+  }
+}

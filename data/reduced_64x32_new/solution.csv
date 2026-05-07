@@ -1,0 +1,5455 @@
+file_name,Usage,label
+1.png,Private,Flycatcher
+2.png,Public,Bird of prey
+3.png,Private,Flycatcher
+4.png,Private,Flycatcher
+5.png,Public,Flycatcher
+6.png,Public,Parrot
+7.png,Public,Flycatcher
+8.png,Public,Other non-passerine bird
+9.png,Public,Nocturnal bird
+10.png,Public,Other non-passerine bird
+11.png,Private,Antbird
+12.png,Private,Nocturnal bird
+13.png,Public,Parrot
+14.png,Private,Flycatcher
+15.png,Public,Other non-passerine bird
+16.png,Private,Water-associated bird
+17.png,Private,Other non-passerine bird
+18.png,Private,Antbird
+19.png,Private,Nocturnal bird
+20.png,Private,Nocturnal bird
+21.png,Private,Flycatcher
+22.png,Private,Flycatcher
+23.png,Public,Other non-passerine bird
+24.png,Private,Other non-passerine bird
+25.png,Public,Other non-passerine bird
+26.png,Private,Flycatcher
+27.png,Private,Tanager
+28.png,Public,Other non-passerine bird
+29.png,Private,Parrot
+30.png,Private,Flycatcher
+31.png,Private,Flycatcher
+32.png,Private,Other non-passerine bird
+33.png,Public,Bird of prey
+34.png,Public,Flycatcher
+35.png,Public,Flycatcher
+36.png,Private,Bird of prey
+37.png,Private,Bird of prey
+38.png,Private,Flycatcher
+39.png,Private,Flycatcher
+40.png,Public,Other non-passerine bird
+41.png,Public,Flycatcher
+42.png,Private,Flycatcher
+43.png,Private,Other non-passerine bird
+44.png,Private,Tanager
+45.png,Public,Other non-passerine bird
+46.png,Private,Antbird
+47.png,Public,Flycatcher
+48.png,Public,Water-associated bird
+49.png,Public,Water-associated bird
+50.png,Public,Antbird
+51.png,Public,Other non-passerine bird
+52.png,Public,Tanager
+53.png,Private,Ground bird
+54.png,Private,Parrot
+55.png,Private,Tanager
+56.png,Private,Other non-passerine bird
+57.png,Private,Water-associated bird
+58.png,Private,Ground bird
+59.png,Public,Nocturnal bird
+60.png,Public,Flycatcher
+61.png,Public,Flycatcher
+62.png,Private,Tanager
+63.png,Private,Water-associated bird
+64.png,Public,Flycatcher
+65.png,Private,Parrot
+66.png,Private,Bird of prey
+67.png,Private,Flycatcher
+68.png,Private,Tanager
+69.png,Private,Other non-passerine bird
+70.png,Public,Flycatcher
+71.png,Public,Ground bird
+72.png,Public,Parrot
+73.png,Private,Nocturnal bird
+74.png,Public,Nocturnal bird
+75.png,Private,Other non-passerine bird
+76.png,Private,Bird of prey
+77.png,Public,Tanager
+78.png,Private,Other non-passerine bird
+79.png,Private,Other non-passerine bird
+80.png,Private,Nocturnal bird
+81.png,Public,Parrot
+82.png,Private,Other non-passerine bird
+83.png,Public,Tanager
+84.png,Public,Flycatcher
+85.png,Public,Nocturnal bird
+86.png,Private,Nocturnal bird
+87.png,Private,Other non-passerine bird
+88.png,Private,Bird of prey
+89.png,Public,Other non-passerine bird
+90.png,Private,Other non-passerine bird
+91.png,Private,Flycatcher
+92.png,Public,Flycatcher
+93.png,Private,Flycatcher
+94.png,Private,Other non-passerine bird
+95.png,Public,Tanager
+96.png,Public,Tanager
+97.png,Private,Other non-passerine bird
+98.png,Public,Flycatcher
+99.png,Public,Antbird
+100.png,Private,Flycatcher
+101.png,Public,Other non-passerine bird
+102.png,Private,Water-associated bird
+103.png,Public,Flycatcher
+104.png,Public,Other non-passerine bird
+105.png,Private,Antbird
+106.png,Private,Tanager
+107.png,Private,Water-associated bird
+108.png,Private,Other non-passerine bird
+109.png,Private,Nocturnal bird
+110.png,Public,Bird of prey
+111.png,Public,Other non-passerine bird
+112.png,Private,Bird of prey
+113.png,Public,Water-associated bird
+114.png,Private,Other non-passerine bird
+115.png,Public,Parrot
+116.png,Private,Parrot
+117.png,Public,Parrot
+118.png,Public,Tanager
+119.png,Public,Nocturnal bird
+120.png,Public,Ground bird
+121.png,Public,Water-associated bird
+122.png,Public,Ground bird
+123.png,Public,Other non-passerine bird
+124.png,Private,Flycatcher
+125.png,Private,Other non-passerine bird
+126.png,Public,Antbird
+127.png,Public,Antbird
+128.png,Public,Antbird
+129.png,Public,Flycatcher
+130.png,Public,Flycatcher
+131.png,Public,Bird of prey
+132.png,Private,Nocturnal bird
+133.png,Private,Flycatcher
+134.png,Private,Other non-passerine bird
+135.png,Public,Water-associated bird
+136.png,Public,Antbird
+137.png,Private,Other non-passerine bird
+138.png,Public,Bird of prey
+139.png,Private,Other non-passerine bird
+140.png,Public,Tanager
+141.png,Private,Bird of prey
+142.png,Public,Flycatcher
+143.png,Public,Bird of prey
+144.png,Private,Nocturnal bird
+145.png,Private,Flycatcher
+146.png,Private,Tanager
+147.png,Public,Water-associated bird
+148.png,Public,Ground bird
+149.png,Private,Parrot
+150.png,Private,Bird of prey
+151.png,Public,Tanager
+152.png,Private,Other non-passerine bird
+153.png,Private,Nocturnal bird
+154.png,Private,Water-associated bird
+155.png,Public,Water-associated bird
+156.png,Public,Flycatcher
+157.png,Private,Bird of prey
+158.png,Public,Other non-passerine bird
+159.png,Public,Antbird
+160.png,Public,Nocturnal bird
+161.png,Public,Nocturnal bird
+162.png,Private,Tanager
+163.png,Private,Other non-passerine bird
+164.png,Private,Flycatcher
+165.png,Private,Nocturnal bird
+166.png,Private,Bird of prey
+167.png,Private,Bird of prey
+168.png,Public,Nocturnal bird
+169.png,Public,Bird of prey
+170.png,Public,Flycatcher
+171.png,Private,Nocturnal bird
+172.png,Private,Water-associated bird
+173.png,Public,Flycatcher
+174.png,Public,Bird of prey
+175.png,Public,Other non-passerine bird
+176.png,Private,Tanager
+177.png,Public,Bird of prey
+178.png,Public,Flycatcher
+179.png,Private,Other non-passerine bird
+180.png,Private,Other non-passerine bird
+181.png,Private,Parrot
+182.png,Private,Water-associated bird
+183.png,Public,Nocturnal bird
+184.png,Public,Bird of prey
+185.png,Public,Tanager
+186.png,Public,Other non-passerine bird
+187.png,Public,Tanager
+188.png,Private,Tanager
+189.png,Private,Other non-passerine bird
+190.png,Public,Other non-passerine bird
+191.png,Public,Flycatcher
+192.png,Private,Flycatcher
+193.png,Private,Flycatcher
+194.png,Private,Parrot
+195.png,Private,Flycatcher
+196.png,Private,Other non-passerine bird
+197.png,Private,Flycatcher
+198.png,Private,Bird of prey
+199.png,Public,Parrot
+200.png,Private,Other non-passerine bird
+201.png,Private,Ground bird
+202.png,Public,Flycatcher
+203.png,Private,Antbird
+204.png,Private,Flycatcher
+205.png,Private,Bird of prey
+206.png,Private,Flycatcher
+207.png,Public,Water-associated bird
+208.png,Private,Bird of prey
+209.png,Private,Bird of prey
+210.png,Public,Bird of prey
+211.png,Public,Bird of prey
+212.png,Private,Bird of prey
+213.png,Private,Antbird
+214.png,Public,Water-associated bird
+215.png,Public,Bird of prey
+216.png,Private,Water-associated bird
+217.png,Private,Nocturnal bird
+218.png,Public,Bird of prey
+219.png,Private,Flycatcher
+220.png,Private,Nocturnal bird
+221.png,Public,Ground bird
+222.png,Private,Antbird
+223.png,Private,Other non-passerine bird
+224.png,Public,Bird of prey
+225.png,Public,Other non-passerine bird
+226.png,Private,Ground bird
+227.png,Private,Other non-passerine bird
+228.png,Private,Other non-passerine bird
+229.png,Private,Other non-passerine bird
+230.png,Private,Ground bird
+231.png,Public,Bird of prey
+232.png,Private,Other non-passerine bird
+233.png,Private,Antbird
+234.png,Private,Antbird
+235.png,Private,Antbird
+236.png,Private,Other non-passerine bird
+237.png,Public,Flycatcher
+238.png,Public,Flycatcher
+239.png,Public,Flycatcher
+240.png,Private,Flycatcher
+241.png,Private,Tanager
+242.png,Private,Other non-passerine bird
+243.png,Public,Water-associated bird
+244.png,Public,Other non-passerine bird
+245.png,Public,Flycatcher
+246.png,Public,Parrot
+247.png,Public,Antbird
+248.png,Public,Bird of prey
+249.png,Private,Parrot
+250.png,Private,Antbird
+251.png,Private,Antbird
+252.png,Public,Flycatcher
+253.png,Private,Flycatcher
+254.png,Public,Bird of prey
+255.png,Public,Parrot
+256.png,Public,Antbird
+257.png,Public,Antbird
+258.png,Public,Flycatcher
+259.png,Private,Ground bird
+260.png,Private,Nocturnal bird
+261.png,Private,Nocturnal bird
+262.png,Public,Flycatcher
+263.png,Public,Antbird
+264.png,Private,Other non-passerine bird
+265.png,Public,Other non-passerine bird
+266.png,Private,Parrot
+267.png,Public,Bird of prey
+268.png,Private,Nocturnal bird
+269.png,Private,Parrot
+270.png,Public,Bird of prey
+271.png,Private,Other non-passerine bird
+272.png,Private,Other non-passerine bird
+273.png,Private,Other non-passerine bird
+274.png,Public,Flycatcher
+275.png,Private,Tanager
+276.png,Public,Flycatcher
+277.png,Public,Bird of prey
+278.png,Private,Other non-passerine bird
+279.png,Private,Parrot
+280.png,Public,Nocturnal bird
+281.png,Private,Other non-passerine bird
+282.png,Private,Flycatcher
+283.png,Public,Flycatcher
+284.png,Public,Ground bird
+285.png,Private,Ground bird
+286.png,Public,Other non-passerine bird
+287.png,Private,Other non-passerine bird
+288.png,Private,Antbird
+289.png,Public,Antbird
+290.png,Private,Antbird
+291.png,Private,Other non-passerine bird
+292.png,Private,Flycatcher
+293.png,Private,Other non-passerine bird
+294.png,Public,Ground bird
+295.png,Private,Parrot
+296.png,Private,Water-associated bird
+297.png,Public,Water-associated bird
+298.png,Private,Other non-passerine bird
+299.png,Public,Bird of prey
+300.png,Public,Flycatcher
+301.png,Public,Other non-passerine bird
+302.png,Public,Other non-passerine bird
+303.png,Public,Other non-passerine bird
+304.png,Public,Other non-passerine bird
+305.png,Private,Other non-passerine bird
+306.png,Private,Ground bird
+307.png,Public,Tanager
+308.png,Public,Nocturnal bird
+309.png,Private,Water-associated bird
+310.png,Private,Water-associated bird
+311.png,Public,Other non-passerine bird
+312.png,Private,Other non-passerine bird
+313.png,Public,Bird of prey
+314.png,Private,Nocturnal bird
+315.png,Public,Water-associated bird
+316.png,Private,Flycatcher
+317.png,Private,Ground bird
+318.png,Private,Other non-passerine bird
+319.png,Public,Other non-passerine bird
+320.png,Public,Flycatcher
+321.png,Private,Water-associated bird
+322.png,Public,Tanager
+323.png,Public,Tanager
+324.png,Private,Ground bird
+325.png,Private,Bird of prey
+326.png,Public,Nocturnal bird
+327.png,Public,Flycatcher
+328.png,Public,Flycatcher
+329.png,Public,Nocturnal bird
+330.png,Public,Bird of prey
+331.png,Private,Parrot
+332.png,Private,Water-associated bird
+333.png,Public,Tanager
+334.png,Private,Water-associated bird
+335.png,Private,Water-associated bird
+336.png,Private,Water-associated bird
+337.png,Private,Water-associated bird
+338.png,Private,Flycatcher
+339.png,Private,Other non-passerine bird
+340.png,Private,Other non-passerine bird
+341.png,Public,Bird of prey
+342.png,Private,Bird of prey
+343.png,Private,Flycatcher
+344.png,Public,Water-associated bird
+345.png,Public,Nocturnal bird
+346.png,Private,Other non-passerine bird
+347.png,Private,Antbird
+348.png,Private,Water-associated bird
+349.png,Public,Water-associated bird
+350.png,Public,Other non-passerine bird
+351.png,Private,Bird of prey
+352.png,Public,Other non-passerine bird
+353.png,Public,Parrot
+354.png,Public,Flycatcher
+355.png,Private,Flycatcher
+356.png,Private,Flycatcher
+357.png,Private,Flycatcher
+358.png,Private,Bird of prey
+359.png,Public,Parrot
+360.png,Public,Flycatcher
+361.png,Private,Flycatcher
+362.png,Private,Bird of prey
+363.png,Public,Tanager
+364.png,Private,Tanager
+365.png,Private,Ground bird
+366.png,Public,Parrot
+367.png,Private,Water-associated bird
+368.png,Public,Ground bird
+369.png,Public,Nocturnal bird
+370.png,Public,Flycatcher
+371.png,Public,Flycatcher
+372.png,Public,Nocturnal bird
+373.png,Private,Other non-passerine bird
+374.png,Public,Nocturnal bird
+375.png,Private,Other non-passerine bird
+376.png,Private,Other non-passerine bird
+377.png,Public,Flycatcher
+378.png,Private,Ground bird
+379.png,Public,Bird of prey
+380.png,Private,Other non-passerine bird
+381.png,Public,Other non-passerine bird
+382.png,Public,Parrot
+383.png,Public,Parrot
+384.png,Private,Water-associated bird
+385.png,Private,Nocturnal bird
+386.png,Private,Other non-passerine bird
+387.png,Private,Antbird
+388.png,Public,Other non-passerine bird
+389.png,Private,Flycatcher
+390.png,Public,Flycatcher
+391.png,Public,Tanager
+392.png,Public,Bird of prey
+393.png,Public,Flycatcher
+394.png,Private,Water-associated bird
+395.png,Private,Tanager
+396.png,Private,Flycatcher
+397.png,Public,Other non-passerine bird
+398.png,Private,Parrot
+399.png,Private,Other non-passerine bird
+400.png,Private,Water-associated bird
+401.png,Public,Bird of prey
+402.png,Private,Antbird
+403.png,Public,Flycatcher
+404.png,Private,Flycatcher
+405.png,Public,Water-associated bird
+406.png,Private,Flycatcher
+407.png,Public,Nocturnal bird
+408.png,Public,Nocturnal bird
+409.png,Private,Flycatcher
+410.png,Public,Flycatcher
+411.png,Public,Tanager
+412.png,Public,Other non-passerine bird
+413.png,Private,Parrot
+414.png,Public,Flycatcher
+415.png,Private,Antbird
+416.png,Public,Other non-passerine bird
+417.png,Private,Flycatcher
+418.png,Private,Bird of prey
+419.png,Public,Antbird
+420.png,Private,Flycatcher
+421.png,Private,Other non-passerine bird
+422.png,Private,Bird of prey
+423.png,Private,Bird of prey
+424.png,Public,Other non-passerine bird
+425.png,Public,Nocturnal bird
+426.png,Public,Flycatcher
+427.png,Public,Parrot
+428.png,Private,Bird of prey
+429.png,Private,Flycatcher
+430.png,Private,Parrot
+431.png,Private,Bird of prey
+432.png,Public,Flycatcher
+433.png,Public,Flycatcher
+434.png,Public,Flycatcher
+435.png,Private,Flycatcher
+436.png,Private,Flycatcher
+437.png,Private,Nocturnal bird
+438.png,Private,Nocturnal bird
+439.png,Public,Other non-passerine bird
+440.png,Public,Antbird
+441.png,Private,Flycatcher
+442.png,Private,Ground bird
+443.png,Private,Flycatcher
+444.png,Public,Other non-passerine bird
+445.png,Public,Parrot
+446.png,Private,Tanager
+447.png,Public,Flycatcher
+448.png,Public,Tanager
+449.png,Public,Other non-passerine bird
+450.png,Public,Nocturnal bird
+451.png,Public,Other non-passerine bird
+452.png,Private,Flycatcher
+453.png,Public,Other non-passerine bird
+454.png,Public,Tanager
+455.png,Public,Ground bird
+456.png,Private,Other non-passerine bird
+457.png,Public,Flycatcher
+458.png,Public,Tanager
+459.png,Public,Water-associated bird
+460.png,Public,Flycatcher
+461.png,Public,Water-associated bird
+462.png,Private,Antbird
+463.png,Private,Antbird
+464.png,Public,Flycatcher
+465.png,Private,Water-associated bird
+466.png,Private,Bird of prey
+467.png,Public,Antbird
+468.png,Public,Other non-passerine bird
+469.png,Private,Flycatcher
+470.png,Public,Flycatcher
+471.png,Private,Nocturnal bird
+472.png,Private,Tanager
+473.png,Public,Tanager
+474.png,Private,Other non-passerine bird
+475.png,Public,Flycatcher
+476.png,Private,Antbird
+477.png,Public,Flycatcher
+478.png,Private,Flycatcher
+479.png,Private,Other non-passerine bird
+480.png,Public,Flycatcher
+481.png,Public,Water-associated bird
+482.png,Public,Other non-passerine bird
+483.png,Private,Parrot
+484.png,Public,Ground bird
+485.png,Public,Antbird
+486.png,Public,Water-associated bird
+487.png,Private,Other non-passerine bird
+488.png,Private,Flycatcher
+489.png,Private,Antbird
+490.png,Public,Antbird
+491.png,Private,Other non-passerine bird
+492.png,Private,Tanager
+493.png,Public,Flycatcher
+494.png,Private,Antbird
+495.png,Public,Flycatcher
+496.png,Private,Flycatcher
+497.png,Public,Flycatcher
+498.png,Public,Flycatcher
+499.png,Public,Flycatcher
+500.png,Public,Antbird
+501.png,Private,Antbird
+502.png,Private,Water-associated bird
+503.png,Private,Antbird
+504.png,Private,Ground bird
+505.png,Private,Parrot
+506.png,Private,Water-associated bird
+507.png,Public,Bird of prey
+508.png,Private,Antbird
+509.png,Private,Antbird
+510.png,Public,Nocturnal bird
+511.png,Public,Other non-passerine bird
+512.png,Private,Nocturnal bird
+513.png,Private,Nocturnal bird
+514.png,Public,Water-associated bird
+515.png,Private,Water-associated bird
+516.png,Private,Parrot
+517.png,Private,Tanager
+518.png,Public,Ground bird
+519.png,Public,Flycatcher
+520.png,Public,Parrot
+521.png,Public,Flycatcher
+522.png,Public,Other non-passerine bird
+523.png,Public,Other non-passerine bird
+524.png,Private,Tanager
+525.png,Public,Flycatcher
+526.png,Public,Other non-passerine bird
+527.png,Private,Flycatcher
+528.png,Private,Parrot
+529.png,Private,Other non-passerine bird
+530.png,Private,Tanager
+531.png,Public,Tanager
+532.png,Public,Flycatcher
+533.png,Public,Tanager
+534.png,Public,Tanager
+535.png,Public,Other non-passerine bird
+536.png,Public,Water-associated bird
+537.png,Private,Antbird
+538.png,Private,Flycatcher
+539.png,Private,Ground bird
+540.png,Private,Flycatcher
+541.png,Public,Bird of prey
+542.png,Private,Flycatcher
+543.png,Public,Other non-passerine bird
+544.png,Public,Bird of prey
+545.png,Public,Flycatcher
+546.png,Public,Bird of prey
+547.png,Public,Water-associated bird
+548.png,Public,Flycatcher
+549.png,Private,Water-associated bird
+550.png,Private,Other non-passerine bird
+551.png,Private,Parrot
+552.png,Public,Other non-passerine bird
+553.png,Public,Ground bird
+554.png,Private,Ground bird
+555.png,Private,Flycatcher
+556.png,Public,Bird of prey
+557.png,Private,Nocturnal bird
+558.png,Private,Other non-passerine bird
+559.png,Private,Tanager
+560.png,Public,Tanager
+561.png,Public,Nocturnal bird
+562.png,Public,Antbird
+563.png,Private,Flycatcher
+564.png,Public,Flycatcher
+565.png,Public,Flycatcher
+566.png,Private,Other non-passerine bird
+567.png,Private,Other non-passerine bird
+568.png,Public,Flycatcher
+569.png,Private,Water-associated bird
+570.png,Public,Other non-passerine bird
+571.png,Public,Other non-passerine bird
+572.png,Public,Water-associated bird
+573.png,Public,Water-associated bird
+574.png,Public,Tanager
+575.png,Private,Nocturnal bird
+576.png,Private,Parrot
+577.png,Private,Parrot
+578.png,Private,Flycatcher
+579.png,Private,Bird of prey
+580.png,Private,Flycatcher
+581.png,Private,Other non-passerine bird
+582.png,Private,Other non-passerine bird
+583.png,Public,Water-associated bird
+584.png,Public,Other non-passerine bird
+585.png,Private,Antbird
+586.png,Private,Other non-passerine bird
+587.png,Public,Flycatcher
+588.png,Private,Other non-passerine bird
+589.png,Private,Bird of prey
+590.png,Private,Flycatcher
+591.png,Public,Parrot
+592.png,Public,Antbird
+593.png,Private,Flycatcher
+594.png,Public,Parrot
+595.png,Private,Flycatcher
+596.png,Public,Ground bird
+597.png,Private,Water-associated bird
+598.png,Public,Parrot
+599.png,Private,Other non-passerine bird
+600.png,Private,Nocturnal bird
+601.png,Private,Nocturnal bird
+602.png,Public,Parrot
+603.png,Public,Nocturnal bird
+604.png,Public,Other non-passerine bird
+605.png,Public,Bird of prey
+606.png,Public,Bird of prey
+607.png,Public,Antbird
+608.png,Private,Nocturnal bird
+609.png,Public,Flycatcher
+610.png,Public,Bird of prey
+611.png,Private,Antbird
+612.png,Private,Antbird
+613.png,Public,Bird of prey
+614.png,Private,Flycatcher
+615.png,Public,Flycatcher
+616.png,Private,Antbird
+617.png,Private,Tanager
+618.png,Private,Flycatcher
+619.png,Private,Flycatcher
+620.png,Public,Tanager
+621.png,Private,Nocturnal bird
+622.png,Private,Other non-passerine bird
+623.png,Public,Flycatcher
+624.png,Private,Other non-passerine bird
+625.png,Private,Parrot
+626.png,Public,Parrot
+627.png,Private,Water-associated bird
+628.png,Private,Water-associated bird
+629.png,Public,Parrot
+630.png,Private,Antbird
+631.png,Public,Other non-passerine bird
+632.png,Public,Flycatcher
+633.png,Public,Flycatcher
+634.png,Private,Nocturnal bird
+635.png,Public,Flycatcher
+636.png,Private,Other non-passerine bird
+637.png,Public,Parrot
+638.png,Public,Flycatcher
+639.png,Public,Flycatcher
+640.png,Public,Water-associated bird
+641.png,Private,Other non-passerine bird
+642.png,Public,Other non-passerine bird
+643.png,Private,Parrot
+644.png,Private,Bird of prey
+645.png,Public,Bird of prey
+646.png,Private,Tanager
+647.png,Public,Nocturnal bird
+648.png,Public,Flycatcher
+649.png,Public,Flycatcher
+650.png,Private,Other non-passerine bird
+651.png,Public,Flycatcher
+652.png,Private,Other non-passerine bird
+653.png,Public,Flycatcher
+654.png,Public,Flycatcher
+655.png,Private,Nocturnal bird
+656.png,Public,Ground bird
+657.png,Public,Water-associated bird
+658.png,Public,Water-associated bird
+659.png,Public,Tanager
+660.png,Public,Water-associated bird
+661.png,Private,Flycatcher
+662.png,Public,Other non-passerine bird
+663.png,Private,Other non-passerine bird
+664.png,Public,Flycatcher
+665.png,Public,Antbird
+666.png,Public,Ground bird
+667.png,Private,Water-associated bird
+668.png,Private,Other non-passerine bird
+669.png,Private,Other non-passerine bird
+670.png,Public,Flycatcher
+671.png,Public,Bird of prey
+672.png,Private,Other non-passerine bird
+673.png,Private,Flycatcher
+674.png,Public,Flycatcher
+675.png,Private,Ground bird
+676.png,Private,Other non-passerine bird
+677.png,Private,Tanager
+678.png,Private,Nocturnal bird
+679.png,Public,Flycatcher
+680.png,Private,Tanager
+681.png,Public,Bird of prey
+682.png,Public,Water-associated bird
+683.png,Public,Ground bird
+684.png,Public,Bird of prey
+685.png,Private,Water-associated bird
+686.png,Private,Nocturnal bird
+687.png,Private,Parrot
+688.png,Public,Flycatcher
+689.png,Public,Tanager
+690.png,Public,Flycatcher
+691.png,Public,Flycatcher
+692.png,Private,Flycatcher
+693.png,Private,Flycatcher
+694.png,Public,Flycatcher
+695.png,Private,Flycatcher
+696.png,Private,Nocturnal bird
+697.png,Public,Nocturnal bird
+698.png,Private,Flycatcher
+699.png,Public,Flycatcher
+700.png,Private,Flycatcher
+701.png,Private,Other non-passerine bird
+702.png,Public,Parrot
+703.png,Public,Flycatcher
+704.png,Private,Tanager
+705.png,Private,Other non-passerine bird
+706.png,Public,Flycatcher
+707.png,Public,Flycatcher
+708.png,Private,Nocturnal bird
+709.png,Public,Bird of prey
+710.png,Private,Tanager
+711.png,Public,Parrot
+712.png,Public,Parrot
+713.png,Private,Other non-passerine bird
+714.png,Public,Flycatcher
+715.png,Public,Bird of prey
+716.png,Public,Tanager
+717.png,Public,Tanager
+718.png,Public,Other non-passerine bird
+719.png,Private,Flycatcher
+720.png,Public,Flycatcher
+721.png,Private,Flycatcher
+722.png,Private,Tanager
+723.png,Public,Tanager
+724.png,Private,Tanager
+725.png,Private,Other non-passerine bird
+726.png,Private,Other non-passerine bird
+727.png,Private,Nocturnal bird
+728.png,Public,Other non-passerine bird
+729.png,Public,Other non-passerine bird
+730.png,Public,Other non-passerine bird
+731.png,Public,Nocturnal bird
+732.png,Private,Nocturnal bird
+733.png,Public,Nocturnal bird
+734.png,Private,Ground bird
+735.png,Public,Ground bird
+736.png,Public,Nocturnal bird
+737.png,Public,Other non-passerine bird
+738.png,Private,Other non-passerine bird
+739.png,Private,Tanager
+740.png,Public,Water-associated bird
+741.png,Private,Other non-passerine bird
+742.png,Public,Other non-passerine bird
+743.png,Private,Ground bird
+744.png,Private,Water-associated bird
+745.png,Public,Water-associated bird
+746.png,Public,Water-associated bird
+747.png,Private,Flycatcher
+748.png,Public,Flycatcher
+749.png,Public,Flycatcher
+750.png,Private,Nocturnal bird
+751.png,Public,Other non-passerine bird
+752.png,Public,Ground bird
+753.png,Private,Parrot
+754.png,Public,Antbird
+755.png,Public,Parrot
+756.png,Private,Nocturnal bird
+757.png,Private,Parrot
+758.png,Private,Parrot
+759.png,Public,Parrot
+760.png,Public,Other non-passerine bird
+761.png,Public,Other non-passerine bird
+762.png,Private,Antbird
+763.png,Private,Flycatcher
+764.png,Private,Ground bird
+765.png,Public,Water-associated bird
+766.png,Private,Antbird
+767.png,Public,Nocturnal bird
+768.png,Private,Other non-passerine bird
+769.png,Private,Parrot
+770.png,Private,Water-associated bird
+771.png,Private,Parrot
+772.png,Public,Water-associated bird
+773.png,Public,Water-associated bird
+774.png,Public,Other non-passerine bird
+775.png,Private,Ground bird
+776.png,Public,Other non-passerine bird
+777.png,Private,Other non-passerine bird
+778.png,Private,Nocturnal bird
+779.png,Private,Other non-passerine bird
+780.png,Private,Bird of prey
+781.png,Public,Bird of prey
+782.png,Public,Bird of prey
+783.png,Public,Bird of prey
+784.png,Private,Bird of prey
+785.png,Public,Nocturnal bird
+786.png,Public,Nocturnal bird
+787.png,Private,Other non-passerine bird
+788.png,Public,Other non-passerine bird
+789.png,Private,Bird of prey
+790.png,Public,Other non-passerine bird
+791.png,Private,Other non-passerine bird
+792.png,Private,Water-associated bird
+793.png,Private,Water-associated bird
+794.png,Public,Other non-passerine bird
+795.png,Private,Other non-passerine bird
+796.png,Public,Flycatcher
+797.png,Private,Tanager
+798.png,Public,Antbird
+799.png,Private,Antbird
+800.png,Private,Antbird
+801.png,Private,Antbird
+802.png,Public,Tanager
+803.png,Private,Tanager
+804.png,Private,Other non-passerine bird
+805.png,Private,Other non-passerine bird
+806.png,Private,Water-associated bird
+807.png,Public,Parrot
+808.png,Public,Flycatcher
+809.png,Private,Antbird
+810.png,Public,Antbird
+811.png,Public,Nocturnal bird
+812.png,Public,Antbird
+813.png,Public,Antbird
+814.png,Private,Antbird
+815.png,Public,Flycatcher
+816.png,Private,Antbird
+817.png,Public,Tanager
+818.png,Private,Nocturnal bird
+819.png,Private,Flycatcher
+820.png,Private,Water-associated bird
+821.png,Public,Flycatcher
+822.png,Private,Flycatcher
+823.png,Private,Other non-passerine bird
+824.png,Private,Flycatcher
+825.png,Public,Water-associated bird
+826.png,Private,Bird of prey
+827.png,Private,Water-associated bird
+828.png,Private,Tanager
+829.png,Private,Tanager
+830.png,Public,Other non-passerine bird
+831.png,Public,Water-associated bird
+832.png,Private,Flycatcher
+833.png,Public,Tanager
+834.png,Public,Other non-passerine bird
+835.png,Private,Flycatcher
+836.png,Private,Other non-passerine bird
+837.png,Public,Parrot
+838.png,Public,Flycatcher
+839.png,Private,Flycatcher
+840.png,Private,Tanager
+841.png,Public,Flycatcher
+842.png,Private,Parrot
+843.png,Private,Parrot
+844.png,Public,Water-associated bird
+845.png,Public,Other non-passerine bird
+846.png,Private,Bird of prey
+847.png,Public,Other non-passerine bird
+848.png,Private,Parrot
+849.png,Public,Water-associated bird
+850.png,Public,Nocturnal bird
+851.png,Private,Antbird
+852.png,Private,Nocturnal bird
+853.png,Private,Other non-passerine bird
+854.png,Public,Flycatcher
+855.png,Private,Antbird
+856.png,Private,Flycatcher
+857.png,Public,Antbird
+858.png,Private,Other non-passerine bird
+859.png,Public,Other non-passerine bird
+860.png,Public,Flycatcher
+861.png,Public,Flycatcher
+862.png,Public,Flycatcher
+863.png,Public,Flycatcher
+864.png,Private,Flycatcher
+865.png,Public,Tanager
+866.png,Public,Other non-passerine bird
+867.png,Private,Bird of prey
+868.png,Public,Bird of prey
+869.png,Public,Bird of prey
+870.png,Public,Other non-passerine bird
+871.png,Public,Water-associated bird
+872.png,Private,Flycatcher
+873.png,Private,Flycatcher
+874.png,Public,Antbird
+875.png,Public,Antbird
+876.png,Public,Other non-passerine bird
+877.png,Private,Flycatcher
+878.png,Private,Other non-passerine bird
+879.png,Public,Flycatcher
+880.png,Public,Flycatcher
+881.png,Public,Water-associated bird
+882.png,Private,Water-associated bird
+883.png,Private,Bird of prey
+884.png,Public,Nocturnal bird
+885.png,Private,Flycatcher
+886.png,Public,Parrot
+887.png,Private,Tanager
+888.png,Private,Flycatcher
+889.png,Private,Other non-passerine bird
+890.png,Public,Bird of prey
+891.png,Private,Nocturnal bird
+892.png,Private,Antbird
+893.png,Private,Flycatcher
+894.png,Private,Flycatcher
+895.png,Public,Nocturnal bird
+896.png,Private,Other non-passerine bird
+897.png,Public,Water-associated bird
+898.png,Public,Water-associated bird
+899.png,Private,Water-associated bird
+900.png,Public,Water-associated bird
+901.png,Private,Water-associated bird
+902.png,Private,Bird of prey
+903.png,Public,Bird of prey
+904.png,Public,Bird of prey
+905.png,Private,Water-associated bird
+906.png,Private,Water-associated bird
+907.png,Private,Water-associated bird
+908.png,Private,Water-associated bird
+909.png,Private,Water-associated bird
+910.png,Public,Water-associated bird
+911.png,Public,Other non-passerine bird
+912.png,Public,Other non-passerine bird
+913.png,Private,Nocturnal bird
+914.png,Public,Nocturnal bird
+915.png,Public,Nocturnal bird
+916.png,Public,Nocturnal bird
+917.png,Private,Other non-passerine bird
+918.png,Private,Other non-passerine bird
+919.png,Public,Other non-passerine bird
+920.png,Private,Other non-passerine bird
+921.png,Private,Other non-passerine bird
+922.png,Private,Other non-passerine bird
+923.png,Public,Antbird
+924.png,Public,Flycatcher
+925.png,Private,Flycatcher
+926.png,Public,Flycatcher
+927.png,Private,Flycatcher
+928.png,Private,Flycatcher
+929.png,Private,Flycatcher
+930.png,Private,Flycatcher
+931.png,Public,Flycatcher
+932.png,Public,Flycatcher
+933.png,Public,Flycatcher
+934.png,Public,Flycatcher
+935.png,Public,Tanager
+936.png,Private,Tanager
+937.png,Public,Tanager
+938.png,Private,Tanager
+939.png,Public,Tanager
+940.png,Private,Water-associated bird
+941.png,Public,Bird of prey
+942.png,Private,Nocturnal bird
+943.png,Public,Antbird
+944.png,Public,Flycatcher
+945.png,Public,Bird of prey
+946.png,Private,Other non-passerine bird
+947.png,Private,Nocturnal bird
+948.png,Private,Other non-passerine bird
+949.png,Private,Antbird
+950.png,Private,Water-associated bird
+951.png,Private,Ground bird
+952.png,Public,Flycatcher
+953.png,Private,Flycatcher
+954.png,Public,Tanager
+955.png,Public,Flycatcher
+956.png,Public,Nocturnal bird
+957.png,Public,Other non-passerine bird
+958.png,Public,Antbird
+959.png,Private,Antbird
+960.png,Private,Other non-passerine bird
+961.png,Private,Bird of prey
+962.png,Public,Other non-passerine bird
+963.png,Public,Nocturnal bird
+964.png,Public,Other non-passerine bird
+965.png,Private,Flycatcher
+966.png,Private,Tanager
+967.png,Private,Water-associated bird
+968.png,Public,Other non-passerine bird
+969.png,Public,Nocturnal bird
+970.png,Private,Ground bird
+971.png,Public,Nocturnal bird
+972.png,Private,Flycatcher
+973.png,Public,Flycatcher
+974.png,Private,Flycatcher
+975.png,Public,Flycatcher
+976.png,Public,Flycatcher
+977.png,Private,Other non-passerine bird
+978.png,Public,Other non-passerine bird
+979.png,Private,Other non-passerine bird
+980.png,Private,Parrot
+981.png,Private,Flycatcher
+982.png,Public,Water-associated bird
+983.png,Private,Water-associated bird
+984.png,Public,Flycatcher
+985.png,Private,Bird of prey
+986.png,Private,Flycatcher
+987.png,Public,Tanager
+988.png,Private,Other non-passerine bird
+989.png,Private,Other non-passerine bird
+990.png,Private,Flycatcher
+991.png,Public,Tanager
+992.png,Private,Other non-passerine bird
+993.png,Public,Other non-passerine bird
+994.png,Public,Flycatcher
+995.png,Private,Flycatcher
+996.png,Public,Other non-passerine bird
+997.png,Public,Other non-passerine bird
+998.png,Private,Antbird
+999.png,Public,Water-associated bird
+1000.png,Private,Nocturnal bird
+1001.png,Private,Bird of prey
+1002.png,Private,Other non-passerine bird
+1003.png,Private,Water-associated bird
+1004.png,Private,Water-associated bird
+1005.png,Private,Water-associated bird
+1006.png,Public,Flycatcher
+1007.png,Public,Ground bird
+1008.png,Public,Parrot
+1009.png,Private,Nocturnal bird
+1010.png,Public,Flycatcher
+1011.png,Private,Tanager
+1012.png,Private,Flycatcher
+1013.png,Private,Bird of prey
+1014.png,Public,Flycatcher
+1015.png,Private,Ground bird
+1016.png,Private,Nocturnal bird
+1017.png,Private,Nocturnal bird
+1018.png,Private,Tanager
+1019.png,Private,Flycatcher
+1020.png,Public,Flycatcher
+1021.png,Private,Flycatcher
+1022.png,Public,Flycatcher
+1023.png,Private,Flycatcher
+1024.png,Private,Other non-passerine bird
+1025.png,Private,Water-associated bird
+1026.png,Private,Water-associated bird
+1027.png,Public,Flycatcher
+1028.png,Private,Antbird
+1029.png,Public,Bird of prey
+1030.png,Public,Other non-passerine bird
+1031.png,Public,Flycatcher
+1032.png,Private,Nocturnal bird
+1033.png,Private,Nocturnal bird
+1034.png,Public,Flycatcher
+1035.png,Public,Flycatcher
+1036.png,Private,Bird of prey
+1037.png,Private,Flycatcher
+1038.png,Public,Flycatcher
+1039.png,Private,Water-associated bird
+1040.png,Public,Ground bird
+1041.png,Public,Parrot
+1042.png,Public,Water-associated bird
+1043.png,Private,Other non-passerine bird
+1044.png,Private,Antbird
+1045.png,Public,Other non-passerine bird
+1046.png,Private,Other non-passerine bird
+1047.png,Private,Flycatcher
+1048.png,Public,Ground bird
+1049.png,Private,Flycatcher
+1050.png,Public,Bird of prey
+1051.png,Private,Other non-passerine bird
+1052.png,Public,Other non-passerine bird
+1053.png,Public,Other non-passerine bird
+1054.png,Private,Bird of prey
+1055.png,Private,Flycatcher
+1056.png,Private,Flycatcher
+1057.png,Private,Flycatcher
+1058.png,Private,Antbird
+1059.png,Private,Nocturnal bird
+1060.png,Private,Antbird
+1061.png,Private,Ground bird
+1062.png,Public,Flycatcher
+1063.png,Public,Antbird
+1064.png,Public,Flycatcher
+1065.png,Private,Other non-passerine bird
+1066.png,Public,Flycatcher
+1067.png,Public,Parrot
+1068.png,Public,Bird of prey
+1069.png,Public,Tanager
+1070.png,Public,Flycatcher
+1071.png,Private,Tanager
+1072.png,Private,Bird of prey
+1073.png,Private,Other non-passerine bird
+1074.png,Private,Ground bird
+1075.png,Public,Water-associated bird
+1076.png,Public,Flycatcher
+1077.png,Public,Flycatcher
+1078.png,Public,Tanager
+1079.png,Public,Antbird
+1080.png,Private,Nocturnal bird
+1081.png,Private,Bird of prey
+1082.png,Private,Other non-passerine bird
+1083.png,Private,Nocturnal bird
+1084.png,Public,Ground bird
+1085.png,Public,Flycatcher
+1086.png,Public,Antbird
+1087.png,Public,Antbird
+1088.png,Public,Flycatcher
+1089.png,Private,Nocturnal bird
+1090.png,Private,Flycatcher
+1091.png,Public,Tanager
+1092.png,Public,Antbird
+1093.png,Public,Ground bird
+1094.png,Public,Water-associated bird
+1095.png,Private,Water-associated bird
+1096.png,Private,Bird of prey
+1097.png,Private,Other non-passerine bird
+1098.png,Public,Other non-passerine bird
+1099.png,Private,Flycatcher
+1100.png,Public,Parrot
+1101.png,Private,Ground bird
+1102.png,Public,Bird of prey
+1103.png,Public,Nocturnal bird
+1104.png,Private,Antbird
+1105.png,Public,Tanager
+1106.png,Public,Parrot
+1107.png,Private,Antbird
+1108.png,Private,Other non-passerine bird
+1109.png,Public,Other non-passerine bird
+1110.png,Private,Flycatcher
+1111.png,Public,Other non-passerine bird
+1112.png,Private,Flycatcher
+1113.png,Private,Flycatcher
+1114.png,Public,Other non-passerine bird
+1115.png,Private,Tanager
+1116.png,Private,Tanager
+1117.png,Public,Flycatcher
+1118.png,Private,Nocturnal bird
+1119.png,Private,Ground bird
+1120.png,Private,Flycatcher
+1121.png,Private,Other non-passerine bird
+1122.png,Private,Flycatcher
+1123.png,Private,Flycatcher
+1124.png,Private,Tanager
+1125.png,Public,Flycatcher
+1126.png,Public,Other non-passerine bird
+1127.png,Public,Parrot
+1128.png,Public,Other non-passerine bird
+1129.png,Public,Flycatcher
+1130.png,Public,Other non-passerine bird
+1131.png,Public,Tanager
+1132.png,Public,Other non-passerine bird
+1133.png,Private,Other non-passerine bird
+1134.png,Public,Water-associated bird
+1135.png,Public,Tanager
+1136.png,Private,Antbird
+1137.png,Private,Ground bird
+1138.png,Private,Flycatcher
+1139.png,Public,Flycatcher
+1140.png,Private,Ground bird
+1141.png,Private,Other non-passerine bird
+1142.png,Private,Other non-passerine bird
+1143.png,Public,Other non-passerine bird
+1144.png,Public,Flycatcher
+1145.png,Public,Flycatcher
+1146.png,Private,Ground bird
+1147.png,Private,Other non-passerine bird
+1148.png,Public,Parrot
+1149.png,Public,Ground bird
+1150.png,Public,Parrot
+1151.png,Private,Antbird
+1152.png,Private,Other non-passerine bird
+1153.png,Private,Bird of prey
+1154.png,Private,Water-associated bird
+1155.png,Private,Other non-passerine bird
+1156.png,Private,Antbird
+1157.png,Public,Flycatcher
+1158.png,Public,Ground bird
+1159.png,Public,Flycatcher
+1160.png,Private,Other non-passerine bird
+1161.png,Private,Tanager
+1162.png,Public,Other non-passerine bird
+1163.png,Private,Water-associated bird
+1164.png,Private,Flycatcher
+1165.png,Public,Antbird
+1166.png,Private,Other non-passerine bird
+1167.png,Public,Antbird
+1168.png,Public,Ground bird
+1169.png,Private,Antbird
+1170.png,Public,Flycatcher
+1171.png,Public,Other non-passerine bird
+1172.png,Public,Parrot
+1173.png,Public,Parrot
+1174.png,Public,Flycatcher
+1175.png,Private,Water-associated bird
+1176.png,Public,Tanager
+1177.png,Public,Flycatcher
+1178.png,Private,Flycatcher
+1179.png,Private,Flycatcher
+1180.png,Private,Parrot
+1181.png,Private,Water-associated bird
+1182.png,Private,Parrot
+1183.png,Private,Nocturnal bird
+1184.png,Public,Flycatcher
+1185.png,Private,Flycatcher
+1186.png,Public,Antbird
+1187.png,Public,Other non-passerine bird
+1188.png,Private,Antbird
+1189.png,Private,Antbird
+1190.png,Private,Flycatcher
+1191.png,Private,Flycatcher
+1192.png,Public,Flycatcher
+1193.png,Public,Antbird
+1194.png,Public,Flycatcher
+1195.png,Public,Flycatcher
+1196.png,Public,Flycatcher
+1197.png,Public,Water-associated bird
+1198.png,Public,Antbird
+1199.png,Private,Tanager
+1200.png,Public,Tanager
+1201.png,Public,Flycatcher
+1202.png,Public,Antbird
+1203.png,Private,Nocturnal bird
+1204.png,Public,Flycatcher
+1205.png,Private,Flycatcher
+1206.png,Public,Tanager
+1207.png,Private,Nocturnal bird
+1208.png,Private,Ground bird
+1209.png,Private,Other non-passerine bird
+1210.png,Public,Tanager
+1211.png,Private,Other non-passerine bird
+1212.png,Private,Tanager
+1213.png,Public,Other non-passerine bird
+1214.png,Public,Nocturnal bird
+1215.png,Private,Other non-passerine bird
+1216.png,Private,Other non-passerine bird
+1217.png,Public,Nocturnal bird
+1218.png,Public,Bird of prey
+1219.png,Private,Antbird
+1220.png,Private,Other non-passerine bird
+1221.png,Private,Bird of prey
+1222.png,Public,Nocturnal bird
+1223.png,Public,Water-associated bird
+1224.png,Private,Other non-passerine bird
+1225.png,Private,Flycatcher
+1226.png,Private,Antbird
+1227.png,Private,Other non-passerine bird
+1228.png,Public,Flycatcher
+1229.png,Private,Other non-passerine bird
+1230.png,Public,Antbird
+1231.png,Private,Flycatcher
+1232.png,Public,Parrot
+1233.png,Public,Antbird
+1234.png,Public,Flycatcher
+1235.png,Public,Flycatcher
+1236.png,Public,Bird of prey
+1237.png,Private,Bird of prey
+1238.png,Public,Antbird
+1239.png,Private,Antbird
+1240.png,Private,Flycatcher
+1241.png,Private,Parrot
+1242.png,Public,Bird of prey
+1243.png,Public,Flycatcher
+1244.png,Private,Flycatcher
+1245.png,Private,Flycatcher
+1246.png,Private,Flycatcher
+1247.png,Private,Antbird
+1248.png,Private,Antbird
+1249.png,Private,Flycatcher
+1250.png,Private,Other non-passerine bird
+1251.png,Public,Nocturnal bird
+1252.png,Public,Flycatcher
+1253.png,Private,Ground bird
+1254.png,Public,Flycatcher
+1255.png,Public,Antbird
+1256.png,Public,Other non-passerine bird
+1257.png,Private,Other non-passerine bird
+1258.png,Private,Other non-passerine bird
+1259.png,Public,Other non-passerine bird
+1260.png,Private,Tanager
+1261.png,Private,Flycatcher
+1262.png,Public,Water-associated bird
+1263.png,Public,Tanager
+1264.png,Public,Nocturnal bird
+1265.png,Public,Other non-passerine bird
+1266.png,Private,Flycatcher
+1267.png,Private,Other non-passerine bird
+1268.png,Private,Other non-passerine bird
+1269.png,Private,Antbird
+1270.png,Private,Tanager
+1271.png,Public,Other non-passerine bird
+1272.png,Public,Other non-passerine bird
+1273.png,Public,Tanager
+1274.png,Public,Parrot
+1275.png,Private,Parrot
+1276.png,Public,Parrot
+1277.png,Private,Tanager
+1278.png,Private,Other non-passerine bird
+1279.png,Public,Water-associated bird
+1280.png,Public,Bird of prey
+1281.png,Private,Other non-passerine bird
+1282.png,Public,Antbird
+1283.png,Private,Other non-passerine bird
+1284.png,Public,Water-associated bird
+1285.png,Private,Water-associated bird
+1286.png,Private,Water-associated bird
+1287.png,Public,Nocturnal bird
+1288.png,Public,Water-associated bird
+1289.png,Public,Other non-passerine bird
+1290.png,Public,Ground bird
+1291.png,Public,Bird of prey
+1292.png,Private,Other non-passerine bird
+1293.png,Private,Other non-passerine bird
+1294.png,Public,Other non-passerine bird
+1295.png,Private,Flycatcher
+1296.png,Private,Water-associated bird
+1297.png,Public,Water-associated bird
+1298.png,Public,Antbird
+1299.png,Public,Flycatcher
+1300.png,Public,Bird of prey
+1301.png,Private,Antbird
+1302.png,Private,Water-associated bird
+1303.png,Private,Parrot
+1304.png,Private,Water-associated bird
+1305.png,Public,Nocturnal bird
+1306.png,Private,Antbird
+1307.png,Public,Nocturnal bird
+1308.png,Public,Water-associated bird
+1309.png,Public,Tanager
+1310.png,Private,Other non-passerine bird
+1311.png,Public,Tanager
+1312.png,Private,Antbird
+1313.png,Public,Other non-passerine bird
+1314.png,Public,Water-associated bird
+1315.png,Public,Nocturnal bird
+1316.png,Private,Water-associated bird
+1317.png,Public,Other non-passerine bird
+1318.png,Private,Flycatcher
+1319.png,Public,Nocturnal bird
+1320.png,Public,Ground bird
+1321.png,Private,Water-associated bird
+1322.png,Public,Other non-passerine bird
+1323.png,Public,Flycatcher
+1324.png,Private,Antbird
+1325.png,Public,Flycatcher
+1326.png,Private,Other non-passerine bird
+1327.png,Private,Water-associated bird
+1328.png,Public,Water-associated bird
+1329.png,Private,Bird of prey
+1330.png,Public,Water-associated bird
+1331.png,Public,Other non-passerine bird
+1332.png,Private,Other non-passerine bird
+1333.png,Public,Other non-passerine bird
+1334.png,Private,Flycatcher
+1335.png,Private,Bird of prey
+1336.png,Private,Flycatcher
+1337.png,Public,Flycatcher
+1338.png,Public,Flycatcher
+1339.png,Public,Other non-passerine bird
+1340.png,Public,Other non-passerine bird
+1341.png,Private,Other non-passerine bird
+1342.png,Public,Other non-passerine bird
+1343.png,Public,Other non-passerine bird
+1344.png,Private,Tanager
+1345.png,Public,Water-associated bird
+1346.png,Public,Nocturnal bird
+1347.png,Public,Bird of prey
+1348.png,Private,Flycatcher
+1349.png,Private,Other non-passerine bird
+1350.png,Public,Other non-passerine bird
+1351.png,Private,Other non-passerine bird
+1352.png,Public,Other non-passerine bird
+1353.png,Public,Nocturnal bird
+1354.png,Private,Antbird
+1355.png,Public,Other non-passerine bird
+1356.png,Public,Other non-passerine bird
+1357.png,Public,Tanager
+1358.png,Public,Other non-passerine bird
+1359.png,Private,Other non-passerine bird
+1360.png,Public,Ground bird
+1361.png,Public,Bird of prey
+1362.png,Public,Flycatcher
+1363.png,Private,Antbird
+1364.png,Private,Antbird
+1365.png,Public,Other non-passerine bird
+1366.png,Private,Nocturnal bird
+1367.png,Public,Bird of prey
+1368.png,Private,Nocturnal bird
+1369.png,Public,Parrot
+1370.png,Public,Parrot
+1371.png,Public,Antbird
+1372.png,Private,Other non-passerine bird
+1373.png,Private,Water-associated bird
+1374.png,Public,Other non-passerine bird
+1375.png,Public,Antbird
+1376.png,Public,Tanager
+1377.png,Public,Other non-passerine bird
+1378.png,Private,Tanager
+1379.png,Public,Other non-passerine bird
+1380.png,Private,Flycatcher
+1381.png,Private,Water-associated bird
+1382.png,Public,Bird of prey
+1383.png,Public,Other non-passerine bird
+1384.png,Public,Water-associated bird
+1385.png,Private,Other non-passerine bird
+1386.png,Private,Flycatcher
+1387.png,Public,Other non-passerine bird
+1388.png,Private,Flycatcher
+1389.png,Public,Flycatcher
+1390.png,Public,Flycatcher
+1391.png,Private,Other non-passerine bird
+1392.png,Public,Other non-passerine bird
+1393.png,Private,Tanager
+1394.png,Private,Parrot
+1395.png,Private,Other non-passerine bird
+1396.png,Public,Flycatcher
+1397.png,Public,Flycatcher
+1398.png,Public,Flycatcher
+1399.png,Private,Other non-passerine bird
+1400.png,Public,Bird of prey
+1401.png,Public,Bird of prey
+1402.png,Public,Other non-passerine bird
+1403.png,Public,Flycatcher
+1404.png,Private,Tanager
+1405.png,Private,Parrot
+1406.png,Public,Other non-passerine bird
+1407.png,Private,Flycatcher
+1408.png,Public,Flycatcher
+1409.png,Private,Tanager
+1410.png,Public,Bird of prey
+1411.png,Private,Nocturnal bird
+1412.png,Public,Bird of prey
+1413.png,Public,Other non-passerine bird
+1414.png,Public,Water-associated bird
+1415.png,Private,Water-associated bird
+1416.png,Private,Parrot
+1417.png,Public,Other non-passerine bird
+1418.png,Private,Other non-passerine bird
+1419.png,Public,Flycatcher
+1420.png,Private,Ground bird
+1421.png,Private,Flycatcher
+1422.png,Public,Nocturnal bird
+1423.png,Private,Other non-passerine bird
+1424.png,Public,Flycatcher
+1425.png,Public,Tanager
+1426.png,Private,Ground bird
+1427.png,Private,Other non-passerine bird
+1428.png,Public,Parrot
+1429.png,Private,Other non-passerine bird
+1430.png,Private,Flycatcher
+1431.png,Private,Bird of prey
+1432.png,Public,Flycatcher
+1433.png,Public,Nocturnal bird
+1434.png,Public,Bird of prey
+1435.png,Public,Antbird
+1436.png,Public,Ground bird
+1437.png,Private,Nocturnal bird
+1438.png,Private,Tanager
+1439.png,Public,Flycatcher
+1440.png,Public,Flycatcher
+1441.png,Private,Flycatcher
+1442.png,Private,Antbird
+1443.png,Private,Flycatcher
+1444.png,Public,Flycatcher
+1445.png,Private,Bird of prey
+1446.png,Public,Flycatcher
+1447.png,Public,Antbird
+1448.png,Private,Other non-passerine bird
+1449.png,Public,Nocturnal bird
+1450.png,Private,Flycatcher
+1451.png,Public,Water-associated bird
+1452.png,Public,Nocturnal bird
+1453.png,Public,Tanager
+1454.png,Public,Nocturnal bird
+1455.png,Public,Bird of prey
+1456.png,Public,Flycatcher
+1457.png,Public,Flycatcher
+1458.png,Private,Antbird
+1459.png,Public,Flycatcher
+1460.png,Private,Other non-passerine bird
+1461.png,Public,Water-associated bird
+1462.png,Public,Other non-passerine bird
+1463.png,Public,Other non-passerine bird
+1464.png,Public,Nocturnal bird
+1465.png,Private,Other non-passerine bird
+1466.png,Public,Nocturnal bird
+1467.png,Public,Nocturnal bird
+1468.png,Private,Water-associated bird
+1469.png,Private,Other non-passerine bird
+1470.png,Private,Parrot
+1471.png,Public,Tanager
+1472.png,Public,Flycatcher
+1473.png,Public,Bird of prey
+1474.png,Public,Parrot
+1475.png,Private,Other non-passerine bird
+1476.png,Private,Tanager
+1477.png,Private,Other non-passerine bird
+1478.png,Private,Flycatcher
+1479.png,Public,Flycatcher
+1480.png,Public,Nocturnal bird
+1481.png,Public,Other non-passerine bird
+1482.png,Public,Tanager
+1483.png,Private,Water-associated bird
+1484.png,Private,Water-associated bird
+1485.png,Public,Parrot
+1486.png,Private,Tanager
+1487.png,Public,Flycatcher
+1488.png,Public,Flycatcher
+1489.png,Public,Parrot
+1490.png,Private,Other non-passerine bird
+1491.png,Private,Antbird
+1492.png,Private,Flycatcher
+1493.png,Public,Flycatcher
+1494.png,Public,Nocturnal bird
+1495.png,Private,Other non-passerine bird
+1496.png,Private,Parrot
+1497.png,Private,Other non-passerine bird
+1498.png,Public,Nocturnal bird
+1499.png,Private,Nocturnal bird
+1500.png,Public,Other non-passerine bird
+1501.png,Private,Tanager
+1502.png,Private,Antbird
+1503.png,Private,Parrot
+1504.png,Public,Flycatcher
+1505.png,Private,Flycatcher
+1506.png,Private,Antbird
+1507.png,Private,Other non-passerine bird
+1508.png,Public,Nocturnal bird
+1509.png,Public,Other non-passerine bird
+1510.png,Private,Antbird
+1511.png,Private,Flycatcher
+1512.png,Private,Flycatcher
+1513.png,Private,Other non-passerine bird
+1514.png,Public,Nocturnal bird
+1515.png,Private,Nocturnal bird
+1516.png,Private,Water-associated bird
+1517.png,Private,Tanager
+1518.png,Public,Water-associated bird
+1519.png,Public,Water-associated bird
+1520.png,Private,Tanager
+1521.png,Private,Nocturnal bird
+1522.png,Public,Flycatcher
+1523.png,Private,Antbird
+1524.png,Public,Antbird
+1525.png,Private,Bird of prey
+1526.png,Private,Nocturnal bird
+1527.png,Public,Parrot
+1528.png,Private,Flycatcher
+1529.png,Public,Bird of prey
+1530.png,Private,Flycatcher
+1531.png,Private,Antbird
+1532.png,Private,Bird of prey
+1533.png,Private,Other non-passerine bird
+1534.png,Private,Ground bird
+1535.png,Public,Flycatcher
+1536.png,Private,Water-associated bird
+1537.png,Public,Flycatcher
+1538.png,Private,Flycatcher
+1539.png,Private,Ground bird
+1540.png,Public,Water-associated bird
+1541.png,Private,Other non-passerine bird
+1542.png,Public,Water-associated bird
+1543.png,Public,Water-associated bird
+1544.png,Public,Parrot
+1545.png,Private,Antbird
+1546.png,Public,Other non-passerine bird
+1547.png,Public,Ground bird
+1548.png,Private,Nocturnal bird
+1549.png,Public,Other non-passerine bird
+1550.png,Private,Other non-passerine bird
+1551.png,Public,Parrot
+1552.png,Private,Other non-passerine bird
+1553.png,Private,Other non-passerine bird
+1554.png,Public,Antbird
+1555.png,Private,Other non-passerine bird
+1556.png,Public,Tanager
+1557.png,Private,Flycatcher
+1558.png,Public,Water-associated bird
+1559.png,Public,Antbird
+1560.png,Public,Flycatcher
+1561.png,Private,Other non-passerine bird
+1562.png,Private,Parrot
+1563.png,Private,Flycatcher
+1564.png,Private,Flycatcher
+1565.png,Public,Other non-passerine bird
+1566.png,Public,Other non-passerine bird
+1567.png,Private,Ground bird
+1568.png,Public,Parrot
+1569.png,Private,Water-associated bird
+1570.png,Public,Nocturnal bird
+1571.png,Private,Tanager
+1572.png,Private,Flycatcher
+1573.png,Public,Other non-passerine bird
+1574.png,Public,Other non-passerine bird
+1575.png,Public,Other non-passerine bird
+1576.png,Public,Tanager
+1577.png,Public,Tanager
+1578.png,Private,Flycatcher
+1579.png,Private,Ground bird
+1580.png,Public,Antbird
+1581.png,Private,Antbird
+1582.png,Private,Tanager
+1583.png,Private,Other non-passerine bird
+1584.png,Public,Other non-passerine bird
+1585.png,Public,Flycatcher
+1586.png,Public,Flycatcher
+1587.png,Public,Nocturnal bird
+1588.png,Public,Other non-passerine bird
+1589.png,Private,Tanager
+1590.png,Private,Bird of prey
+1591.png,Private,Tanager
+1592.png,Private,Flycatcher
+1593.png,Public,Tanager
+1594.png,Public,Other non-passerine bird
+1595.png,Private,Flycatcher
+1596.png,Private,Other non-passerine bird
+1597.png,Private,Other non-passerine bird
+1598.png,Public,Other non-passerine bird
+1599.png,Public,Other non-passerine bird
+1600.png,Public,Flycatcher
+1601.png,Private,Other non-passerine bird
+1602.png,Private,Other non-passerine bird
+1603.png,Private,Nocturnal bird
+1604.png,Public,Other non-passerine bird
+1605.png,Public,Antbird
+1606.png,Private,Parrot
+1607.png,Private,Flycatcher
+1608.png,Private,Flycatcher
+1609.png,Public,Tanager
+1610.png,Public,Antbird
+1611.png,Public,Ground bird
+1612.png,Public,Ground bird
+1613.png,Private,Flycatcher
+1614.png,Private,Tanager
+1615.png,Public,Other non-passerine bird
+1616.png,Public,Other non-passerine bird
+1617.png,Public,Flycatcher
+1618.png,Private,Flycatcher
+1619.png,Public,Flycatcher
+1620.png,Public,Flycatcher
+1621.png,Private,Other non-passerine bird
+1622.png,Private,Other non-passerine bird
+1623.png,Private,Flycatcher
+1624.png,Public,Flycatcher
+1625.png,Public,Flycatcher
+1626.png,Private,Flycatcher
+1627.png,Public,Flycatcher
+1628.png,Private,Ground bird
+1629.png,Private,Other non-passerine bird
+1630.png,Private,Other non-passerine bird
+1631.png,Private,Other non-passerine bird
+1632.png,Public,Tanager
+1633.png,Public,Flycatcher
+1634.png,Private,Flycatcher
+1635.png,Public,Flycatcher
+1636.png,Private,Flycatcher
+1637.png,Private,Flycatcher
+1638.png,Private,Tanager
+1639.png,Public,Other non-passerine bird
+1640.png,Public,Nocturnal bird
+1641.png,Public,Bird of prey
+1642.png,Private,Ground bird
+1643.png,Public,Other non-passerine bird
+1644.png,Public,Ground bird
+1645.png,Public,Flycatcher
+1646.png,Private,Flycatcher
+1647.png,Private,Nocturnal bird
+1648.png,Public,Other non-passerine bird
+1649.png,Private,Flycatcher
+1650.png,Private,Parrot
+1651.png,Private,Flycatcher
+1652.png,Public,Bird of prey
+1653.png,Private,Nocturnal bird
+1654.png,Private,Flycatcher
+1655.png,Private,Flycatcher
+1656.png,Private,Other non-passerine bird
+1657.png,Public,Flycatcher
+1658.png,Private,Parrot
+1659.png,Private,Other non-passerine bird
+1660.png,Public,Flycatcher
+1661.png,Public,Other non-passerine bird
+1662.png,Public,Antbird
+1663.png,Private,Flycatcher
+1664.png,Public,Flycatcher
+1665.png,Private,Other non-passerine bird
+1666.png,Public,Ground bird
+1667.png,Private,Ground bird
+1668.png,Private,Water-associated bird
+1669.png,Private,Bird of prey
+1670.png,Public,Antbird
+1671.png,Public,Other non-passerine bird
+1672.png,Private,Tanager
+1673.png,Public,Flycatcher
+1674.png,Private,Bird of prey
+1675.png,Public,Flycatcher
+1676.png,Public,Tanager
+1677.png,Public,Antbird
+1678.png,Public,Water-associated bird
+1679.png,Public,Flycatcher
+1680.png,Private,Nocturnal bird
+1681.png,Public,Flycatcher
+1682.png,Private,Other non-passerine bird
+1683.png,Private,Other non-passerine bird
+1684.png,Private,Antbird
+1685.png,Public,Tanager
+1686.png,Public,Other non-passerine bird
+1687.png,Private,Flycatcher
+1688.png,Private,Ground bird
+1689.png,Private,Ground bird
+1690.png,Public,Flycatcher
+1691.png,Private,Nocturnal bird
+1692.png,Public,Bird of prey
+1693.png,Public,Nocturnal bird
+1694.png,Public,Other non-passerine bird
+1695.png,Public,Other non-passerine bird
+1696.png,Public,Antbird
+1697.png,Private,Antbird
+1698.png,Public,Water-associated bird
+1699.png,Public,Other non-passerine bird
+1700.png,Private,Other non-passerine bird
+1701.png,Public,Nocturnal bird
+1702.png,Public,Flycatcher
+1703.png,Private,Other non-passerine bird
+1704.png,Private,Nocturnal bird
+1705.png,Private,Flycatcher
+1706.png,Public,Flycatcher
+1707.png,Private,Flycatcher
+1708.png,Public,Flycatcher
+1709.png,Private,Flycatcher
+1710.png,Private,Ground bird
+1711.png,Public,Flycatcher
+1712.png,Public,Flycatcher
+1713.png,Private,Bird of prey
+1714.png,Public,Flycatcher
+1715.png,Public,Flycatcher
+1716.png,Public,Water-associated bird
+1717.png,Public,Other non-passerine bird
+1718.png,Private,Other non-passerine bird
+1719.png,Public,Parrot
+1720.png,Public,Antbird
+1721.png,Private,Nocturnal bird
+1722.png,Public,Water-associated bird
+1723.png,Private,Water-associated bird
+1724.png,Public,Other non-passerine bird
+1725.png,Private,Antbird
+1726.png,Private,Other non-passerine bird
+1727.png,Public,Ground bird
+1728.png,Private,Ground bird
+1729.png,Public,Other non-passerine bird
+1730.png,Private,Water-associated bird
+1731.png,Private,Water-associated bird
+1732.png,Private,Other non-passerine bird
+1733.png,Private,Flycatcher
+1734.png,Private,Tanager
+1735.png,Public,Other non-passerine bird
+1736.png,Public,Bird of prey
+1737.png,Public,Flycatcher
+1738.png,Private,Other non-passerine bird
+1739.png,Public,Flycatcher
+1740.png,Public,Parrot
+1741.png,Public,Flycatcher
+1742.png,Private,Tanager
+1743.png,Public,Flycatcher
+1744.png,Public,Tanager
+1745.png,Public,Water-associated bird
+1746.png,Public,Nocturnal bird
+1747.png,Private,Nocturnal bird
+1748.png,Public,Nocturnal bird
+1749.png,Public,Flycatcher
+1750.png,Public,Ground bird
+1751.png,Public,Ground bird
+1752.png,Public,Nocturnal bird
+1753.png,Private,Other non-passerine bird
+1754.png,Public,Flycatcher
+1755.png,Public,Flycatcher
+1756.png,Public,Water-associated bird
+1757.png,Private,Other non-passerine bird
+1758.png,Public,Bird of prey
+1759.png,Private,Bird of prey
+1760.png,Private,Parrot
+1761.png,Private,Water-associated bird
+1762.png,Public,Water-associated bird
+1763.png,Private,Nocturnal bird
+1764.png,Private,Flycatcher
+1765.png,Public,Flycatcher
+1766.png,Public,Flycatcher
+1767.png,Public,Flycatcher
+1768.png,Private,Flycatcher
+1769.png,Private,Bird of prey
+1770.png,Private,Other non-passerine bird
+1771.png,Public,Other non-passerine bird
+1772.png,Public,Other non-passerine bird
+1773.png,Public,Water-associated bird
+1774.png,Private,Other non-passerine bird
+1775.png,Private,Bird of prey
+1776.png,Public,Water-associated bird
+1777.png,Private,Flycatcher
+1778.png,Public,Bird of prey
+1779.png,Private,Bird of prey
+1780.png,Private,Water-associated bird
+1781.png,Private,Antbird
+1782.png,Private,Other non-passerine bird
+1783.png,Public,Water-associated bird
+1784.png,Private,Flycatcher
+1785.png,Private,Ground bird
+1786.png,Public,Flycatcher
+1787.png,Private,Flycatcher
+1788.png,Private,Nocturnal bird
+1789.png,Private,Other non-passerine bird
+1790.png,Private,Antbird
+1791.png,Public,Ground bird
+1792.png,Public,Bird of prey
+1793.png,Private,Flycatcher
+1794.png,Public,Nocturnal bird
+1795.png,Private,Bird of prey
+1796.png,Private,Other non-passerine bird
+1797.png,Private,Water-associated bird
+1798.png,Private,Flycatcher
+1799.png,Private,Parrot
+1800.png,Private,Other non-passerine bird
+1801.png,Private,Antbird
+1802.png,Public,Flycatcher
+1803.png,Private,Flycatcher
+1804.png,Public,Other non-passerine bird
+1805.png,Private,Water-associated bird
+1806.png,Private,Parrot
+1807.png,Public,Bird of prey
+1808.png,Private,Water-associated bird
+1809.png,Private,Flycatcher
+1810.png,Private,Tanager
+1811.png,Private,Bird of prey
+1812.png,Public,Parrot
+1813.png,Public,Antbird
+1814.png,Private,Other non-passerine bird
+1815.png,Private,Other non-passerine bird
+1816.png,Public,Other non-passerine bird
+1817.png,Private,Flycatcher
+1818.png,Public,Tanager
+1819.png,Public,Bird of prey
+1820.png,Public,Bird of prey
+1821.png,Public,Flycatcher
+1822.png,Private,Bird of prey
+1823.png,Private,Other non-passerine bird
+1824.png,Public,Other non-passerine bird
+1825.png,Public,Parrot
+1826.png,Public,Flycatcher
+1827.png,Public,Tanager
+1828.png,Private,Flycatcher
+1829.png,Private,Flycatcher
+1830.png,Private,Flycatcher
+1831.png,Public,Antbird
+1832.png,Private,Water-associated bird
+1833.png,Public,Parrot
+1834.png,Private,Flycatcher
+1835.png,Public,Tanager
+1836.png,Private,Parrot
+1837.png,Private,Flycatcher
+1838.png,Public,Ground bird
+1839.png,Public,Flycatcher
+1840.png,Private,Other non-passerine bird
+1841.png,Public,Flycatcher
+1842.png,Private,Antbird
+1843.png,Public,Flycatcher
+1844.png,Private,Nocturnal bird
+1845.png,Public,Parrot
+1846.png,Public,Parrot
+1847.png,Public,Water-associated bird
+1848.png,Public,Flycatcher
+1849.png,Public,Water-associated bird
+1850.png,Private,Nocturnal bird
+1851.png,Private,Tanager
+1852.png,Public,Nocturnal bird
+1853.png,Public,Other non-passerine bird
+1854.png,Private,Ground bird
+1855.png,Private,Other non-passerine bird
+1856.png,Public,Nocturnal bird
+1857.png,Private,Tanager
+1858.png,Public,Water-associated bird
+1859.png,Private,Water-associated bird
+1860.png,Private,Flycatcher
+1861.png,Private,Flycatcher
+1862.png,Public,Other non-passerine bird
+1863.png,Private,Flycatcher
+1864.png,Public,Water-associated bird
+1865.png,Public,Water-associated bird
+1866.png,Public,Water-associated bird
+1867.png,Private,Other non-passerine bird
+1868.png,Private,Other non-passerine bird
+1869.png,Public,Flycatcher
+1870.png,Public,Other non-passerine bird
+1871.png,Public,Bird of prey
+1872.png,Public,Bird of prey
+1873.png,Public,Flycatcher
+1874.png,Private,Flycatcher
+1875.png,Private,Tanager
+1876.png,Private,Tanager
+1877.png,Public,Other non-passerine bird
+1878.png,Private,Antbird
+1879.png,Private,Flycatcher
+1880.png,Private,Other non-passerine bird
+1881.png,Private,Other non-passerine bird
+1882.png,Public,Antbird
+1883.png,Public,Flycatcher
+1884.png,Public,Flycatcher
+1885.png,Public,Nocturnal bird
+1886.png,Private,Antbird
+1887.png,Private,Antbird
+1888.png,Private,Water-associated bird
+1889.png,Public,Parrot
+1890.png,Private,Nocturnal bird
+1891.png,Private,Other non-passerine bird
+1892.png,Public,Water-associated bird
+1893.png,Private,Parrot
+1894.png,Public,Antbird
+1895.png,Public,Flycatcher
+1896.png,Public,Flycatcher
+1897.png,Public,Other non-passerine bird
+1898.png,Public,Ground bird
+1899.png,Public,Antbird
+1900.png,Private,Other non-passerine bird
+1901.png,Public,Other non-passerine bird
+1902.png,Public,Tanager
+1903.png,Private,Bird of prey
+1904.png,Public,Nocturnal bird
+1905.png,Public,Antbird
+1906.png,Public,Flycatcher
+1907.png,Private,Antbird
+1908.png,Private,Other non-passerine bird
+1909.png,Private,Antbird
+1910.png,Public,Other non-passerine bird
+1911.png,Private,Flycatcher
+1912.png,Private,Other non-passerine bird
+1913.png,Public,Bird of prey
+1914.png,Private,Parrot
+1915.png,Public,Flycatcher
+1916.png,Private,Antbird
+1917.png,Public,Other non-passerine bird
+1918.png,Private,Nocturnal bird
+1919.png,Public,Water-associated bird
+1920.png,Private,Other non-passerine bird
+1921.png,Public,Flycatcher
+1922.png,Private,Flycatcher
+1923.png,Private,Parrot
+1924.png,Public,Flycatcher
+1925.png,Public,Ground bird
+1926.png,Private,Bird of prey
+1927.png,Public,Other non-passerine bird
+1928.png,Public,Antbird
+1929.png,Public,Nocturnal bird
+1930.png,Public,Flycatcher
+1931.png,Private,Nocturnal bird
+1932.png,Public,Antbird
+1933.png,Private,Flycatcher
+1934.png,Public,Other non-passerine bird
+1935.png,Private,Parrot
+1936.png,Private,Flycatcher
+1937.png,Public,Antbird
+1938.png,Public,Nocturnal bird
+1939.png,Public,Water-associated bird
+1940.png,Private,Other non-passerine bird
+1941.png,Private,Tanager
+1942.png,Private,Nocturnal bird
+1943.png,Private,Nocturnal bird
+1944.png,Public,Nocturnal bird
+1945.png,Public,Antbird
+1946.png,Public,Flycatcher
+1947.png,Public,Flycatcher
+1948.png,Public,Bird of prey
+1949.png,Private,Bird of prey
+1950.png,Public,Nocturnal bird
+1951.png,Private,Nocturnal bird
+1952.png,Public,Flycatcher
+1953.png,Private,Nocturnal bird
+1954.png,Private,Nocturnal bird
+1955.png,Private,Other non-passerine bird
+1956.png,Private,Flycatcher
+1957.png,Private,Flycatcher
+1958.png,Private,Tanager
+1959.png,Public,Nocturnal bird
+1960.png,Public,Antbird
+1961.png,Public,Nocturnal bird
+1962.png,Public,Water-associated bird
+1963.png,Private,Other non-passerine bird
+1964.png,Public,Other non-passerine bird
+1965.png,Public,Bird of prey
+1966.png,Private,Other non-passerine bird
+1967.png,Public,Other non-passerine bird
+1968.png,Public,Flycatcher
+1969.png,Public,Flycatcher
+1970.png,Private,Flycatcher
+1971.png,Private,Parrot
+1972.png,Private,Water-associated bird
+1973.png,Private,Flycatcher
+1974.png,Public,Parrot
+1975.png,Public,Antbird
+1976.png,Private,Nocturnal bird
+1977.png,Public,Ground bird
+1978.png,Public,Flycatcher
+1979.png,Private,Flycatcher
+1980.png,Private,Water-associated bird
+1981.png,Private,Flycatcher
+1982.png,Private,Water-associated bird
+1983.png,Private,Other non-passerine bird
+1984.png,Private,Other non-passerine bird
+1985.png,Public,Nocturnal bird
+1986.png,Public,Antbird
+1987.png,Public,Tanager
+1988.png,Public,Parrot
+1989.png,Public,Nocturnal bird
+1990.png,Private,Water-associated bird
+1991.png,Private,Water-associated bird
+1992.png,Private,Tanager
+1993.png,Public,Tanager
+1994.png,Private,Tanager
+1995.png,Private,Other non-passerine bird
+1996.png,Public,Other non-passerine bird
+1997.png,Public,Other non-passerine bird
+1998.png,Public,Other non-passerine bird
+1999.png,Private,Other non-passerine bird
+2000.png,Public,Other non-passerine bird
+2001.png,Public,Other non-passerine bird
+2002.png,Private,Tanager
+2003.png,Private,Flycatcher
+2004.png,Private,Flycatcher
+2005.png,Public,Flycatcher
+2006.png,Public,Other non-passerine bird
+2007.png,Public,Water-associated bird
+2008.png,Private,Flycatcher
+2009.png,Private,Ground bird
+2010.png,Private,Antbird
+2011.png,Public,Nocturnal bird
+2012.png,Private,Other non-passerine bird
+2013.png,Public,Nocturnal bird
+2014.png,Private,Flycatcher
+2015.png,Public,Bird of prey
+2016.png,Public,Bird of prey
+2017.png,Public,Other non-passerine bird
+2018.png,Public,Water-associated bird
+2019.png,Public,Water-associated bird
+2020.png,Public,Flycatcher
+2021.png,Public,Flycatcher
+2022.png,Public,Water-associated bird
+2023.png,Public,Flycatcher
+2024.png,Public,Ground bird
+2025.png,Private,Flycatcher
+2026.png,Private,Bird of prey
+2027.png,Private,Other non-passerine bird
+2028.png,Public,Water-associated bird
+2029.png,Private,Parrot
+2030.png,Private,Parrot
+2031.png,Private,Parrot
+2032.png,Private,Other non-passerine bird
+2033.png,Public,Nocturnal bird
+2034.png,Public,Nocturnal bird
+2035.png,Private,Nocturnal bird
+2036.png,Public,Water-associated bird
+2037.png,Public,Water-associated bird
+2038.png,Public,Tanager
+2039.png,Public,Bird of prey
+2040.png,Public,Antbird
+2041.png,Public,Water-associated bird
+2042.png,Public,Parrot
+2043.png,Public,Other non-passerine bird
+2044.png,Public,Other non-passerine bird
+2045.png,Private,Nocturnal bird
+2046.png,Public,Flycatcher
+2047.png,Public,Tanager
+2048.png,Public,Tanager
+2049.png,Public,Antbird
+2050.png,Public,Antbird
+2051.png,Private,Nocturnal bird
+2052.png,Private,Flycatcher
+2053.png,Private,Other non-passerine bird
+2054.png,Public,Other non-passerine bird
+2055.png,Private,Antbird
+2056.png,Private,Flycatcher
+2057.png,Private,Nocturnal bird
+2058.png,Private,Flycatcher
+2059.png,Private,Other non-passerine bird
+2060.png,Public,Tanager
+2061.png,Public,Flycatcher
+2062.png,Public,Ground bird
+2063.png,Public,Flycatcher
+2064.png,Private,Flycatcher
+2065.png,Private,Nocturnal bird
+2066.png,Private,Nocturnal bird
+2067.png,Private,Water-associated bird
+2068.png,Public,Flycatcher
+2069.png,Private,Parrot
+2070.png,Private,Other non-passerine bird
+2071.png,Public,Other non-passerine bird
+2072.png,Private,Other non-passerine bird
+2073.png,Public,Water-associated bird
+2074.png,Private,Other non-passerine bird
+2075.png,Public,Water-associated bird
+2076.png,Public,Antbird
+2077.png,Private,Tanager
+2078.png,Private,Water-associated bird
+2079.png,Private,Flycatcher
+2080.png,Private,Other non-passerine bird
+2081.png,Public,Other non-passerine bird
+2082.png,Public,Other non-passerine bird
+2083.png,Private,Parrot
+2084.png,Private,Other non-passerine bird
+2085.png,Private,Water-associated bird
+2086.png,Private,Antbird
+2087.png,Public,Water-associated bird
+2088.png,Private,Antbird
+2089.png,Private,Antbird
+2090.png,Private,Nocturnal bird
+2091.png,Private,Nocturnal bird
+2092.png,Public,Flycatcher
+2093.png,Public,Other non-passerine bird
+2094.png,Public,Nocturnal bird
+2095.png,Private,Nocturnal bird
+2096.png,Private,Antbird
+2097.png,Private,Other non-passerine bird
+2098.png,Public,Other non-passerine bird
+2099.png,Public,Nocturnal bird
+2100.png,Private,Other non-passerine bird
+2101.png,Public,Water-associated bird
+2102.png,Public,Bird of prey
+2103.png,Public,Flycatcher
+2104.png,Private,Flycatcher
+2105.png,Public,Other non-passerine bird
+2106.png,Private,Bird of prey
+2107.png,Private,Flycatcher
+2108.png,Public,Other non-passerine bird
+2109.png,Private,Nocturnal bird
+2110.png,Public,Other non-passerine bird
+2111.png,Private,Flycatcher
+2112.png,Private,Water-associated bird
+2113.png,Public,Other non-passerine bird
+2114.png,Public,Other non-passerine bird
+2115.png,Public,Other non-passerine bird
+2116.png,Private,Nocturnal bird
+2117.png,Public,Other non-passerine bird
+2118.png,Public,Other non-passerine bird
+2119.png,Private,Tanager
+2120.png,Public,Nocturnal bird
+2121.png,Public,Flycatcher
+2122.png,Private,Water-associated bird
+2123.png,Public,Tanager
+2124.png,Public,Water-associated bird
+2125.png,Public,Antbird
+2126.png,Private,Bird of prey
+2127.png,Public,Flycatcher
+2128.png,Private,Water-associated bird
+2129.png,Private,Nocturnal bird
+2130.png,Private,Other non-passerine bird
+2131.png,Public,Other non-passerine bird
+2132.png,Public,Other non-passerine bird
+2133.png,Private,Water-associated bird
+2134.png,Private,Flycatcher
+2135.png,Private,Other non-passerine bird
+2136.png,Public,Nocturnal bird
+2137.png,Public,Flycatcher
+2138.png,Private,Flycatcher
+2139.png,Public,Flycatcher
+2140.png,Public,Other non-passerine bird
+2141.png,Private,Nocturnal bird
+2142.png,Public,Antbird
+2143.png,Private,Nocturnal bird
+2144.png,Private,Other non-passerine bird
+2145.png,Public,Other non-passerine bird
+2146.png,Public,Parrot
+2147.png,Public,Bird of prey
+2148.png,Private,Antbird
+2149.png,Private,Flycatcher
+2150.png,Public,Other non-passerine bird
+2151.png,Public,Nocturnal bird
+2152.png,Private,Parrot
+2153.png,Private,Flycatcher
+2154.png,Private,Nocturnal bird
+2155.png,Public,Nocturnal bird
+2156.png,Public,Flycatcher
+2157.png,Private,Nocturnal bird
+2158.png,Private,Bird of prey
+2159.png,Private,Other non-passerine bird
+2160.png,Public,Flycatcher
+2161.png,Private,Antbird
+2162.png,Private,Antbird
+2163.png,Public,Antbird
+2164.png,Public,Flycatcher
+2165.png,Public,Flycatcher
+2166.png,Private,Flycatcher
+2167.png,Private,Flycatcher
+2168.png,Private,Antbird
+2169.png,Public,Flycatcher
+2170.png,Private,Tanager
+2171.png,Private,Other non-passerine bird
+2172.png,Private,Tanager
+2173.png,Private,Flycatcher
+2174.png,Private,Flycatcher
+2175.png,Private,Other non-passerine bird
+2176.png,Public,Other non-passerine bird
+2177.png,Public,Water-associated bird
+2178.png,Public,Flycatcher
+2179.png,Public,Nocturnal bird
+2180.png,Public,Tanager
+2181.png,Public,Tanager
+2182.png,Private,Parrot
+2183.png,Public,Tanager
+2184.png,Private,Bird of prey
+2185.png,Private,Flycatcher
+2186.png,Public,Bird of prey
+2187.png,Public,Tanager
+2188.png,Public,Ground bird
+2189.png,Public,Tanager
+2190.png,Private,Other non-passerine bird
+2191.png,Private,Tanager
+2192.png,Private,Tanager
+2193.png,Public,Tanager
+2194.png,Public,Water-associated bird
+2195.png,Public,Flycatcher
+2196.png,Private,Antbird
+2197.png,Private,Nocturnal bird
+2198.png,Public,Other non-passerine bird
+2199.png,Public,Water-associated bird
+2200.png,Private,Other non-passerine bird
+2201.png,Public,Tanager
+2202.png,Private,Water-associated bird
+2203.png,Private,Tanager
+2204.png,Private,Nocturnal bird
+2205.png,Public,Flycatcher
+2206.png,Public,Other non-passerine bird
+2207.png,Public,Bird of prey
+2208.png,Private,Flycatcher
+2209.png,Public,Bird of prey
+2210.png,Private,Water-associated bird
+2211.png,Private,Tanager
+2212.png,Private,Flycatcher
+2213.png,Public,Flycatcher
+2214.png,Public,Flycatcher
+2215.png,Private,Other non-passerine bird
+2216.png,Public,Nocturnal bird
+2217.png,Public,Antbird
+2218.png,Public,Other non-passerine bird
+2219.png,Public,Other non-passerine bird
+2220.png,Public,Flycatcher
+2221.png,Public,Flycatcher
+2222.png,Private,Water-associated bird
+2223.png,Public,Flycatcher
+2224.png,Private,Flycatcher
+2225.png,Private,Flycatcher
+2226.png,Public,Other non-passerine bird
+2227.png,Public,Flycatcher
+2228.png,Public,Flycatcher
+2229.png,Public,Flycatcher
+2230.png,Public,Flycatcher
+2231.png,Private,Nocturnal bird
+2232.png,Private,Tanager
+2233.png,Public,Other non-passerine bird
+2234.png,Private,Water-associated bird
+2235.png,Public,Bird of prey
+2236.png,Private,Nocturnal bird
+2237.png,Public,Bird of prey
+2238.png,Private,Other non-passerine bird
+2239.png,Private,Flycatcher
+2240.png,Private,Flycatcher
+2241.png,Public,Tanager
+2242.png,Private,Water-associated bird
+2243.png,Private,Flycatcher
+2244.png,Public,Antbird
+2245.png,Private,Flycatcher
+2246.png,Private,Water-associated bird
+2247.png,Private,Other non-passerine bird
+2248.png,Public,Flycatcher
+2249.png,Public,Nocturnal bird
+2250.png,Private,Tanager
+2251.png,Private,Nocturnal bird
+2252.png,Private,Tanager
+2253.png,Private,Flycatcher
+2254.png,Private,Nocturnal bird
+2255.png,Public,Other non-passerine bird
+2256.png,Private,Flycatcher
+2257.png,Private,Flycatcher
+2258.png,Public,Bird of prey
+2259.png,Public,Antbird
+2260.png,Public,Flycatcher
+2261.png,Public,Other non-passerine bird
+2262.png,Public,Other non-passerine bird
+2263.png,Public,Flycatcher
+2264.png,Public,Other non-passerine bird
+2265.png,Private,Other non-passerine bird
+2266.png,Private,Ground bird
+2267.png,Public,Other non-passerine bird
+2268.png,Public,Water-associated bird
+2269.png,Private,Parrot
+2270.png,Private,Antbird
+2271.png,Public,Antbird
+2272.png,Private,Flycatcher
+2273.png,Private,Tanager
+2274.png,Private,Antbird
+2275.png,Private,Antbird
+2276.png,Public,Flycatcher
+2277.png,Private,Other non-passerine bird
+2278.png,Public,Bird of prey
+2279.png,Private,Flycatcher
+2280.png,Public,Bird of prey
+2281.png,Public,Flycatcher
+2282.png,Private,Water-associated bird
+2283.png,Public,Water-associated bird
+2284.png,Public,Nocturnal bird
+2285.png,Public,Flycatcher
+2286.png,Public,Antbird
+2287.png,Private,Bird of prey
+2288.png,Public,Other non-passerine bird
+2289.png,Public,Antbird
+2290.png,Private,Bird of prey
+2291.png,Public,Bird of prey
+2292.png,Public,Nocturnal bird
+2293.png,Private,Tanager
+2294.png,Public,Flycatcher
+2295.png,Public,Flycatcher
+2296.png,Public,Bird of prey
+2297.png,Public,Other non-passerine bird
+2298.png,Private,Flycatcher
+2299.png,Private,Bird of prey
+2300.png,Public,Flycatcher
+2301.png,Private,Water-associated bird
+2302.png,Private,Water-associated bird
+2303.png,Private,Flycatcher
+2304.png,Private,Flycatcher
+2305.png,Public,Other non-passerine bird
+2306.png,Public,Water-associated bird
+2307.png,Public,Antbird
+2308.png,Private,Water-associated bird
+2309.png,Public,Antbird
+2310.png,Public,Bird of prey
+2311.png,Private,Flycatcher
+2312.png,Private,Tanager
+2313.png,Private,Flycatcher
+2314.png,Private,Flycatcher
+2315.png,Private,Water-associated bird
+2316.png,Private,Flycatcher
+2317.png,Private,Nocturnal bird
+2318.png,Private,Flycatcher
+2319.png,Public,Flycatcher
+2320.png,Public,Flycatcher
+2321.png,Private,Ground bird
+2322.png,Private,Tanager
+2323.png,Private,Tanager
+2324.png,Public,Flycatcher
+2325.png,Private,Tanager
+2326.png,Public,Bird of prey
+2327.png,Private,Flycatcher
+2328.png,Private,Nocturnal bird
+2329.png,Public,Other non-passerine bird
+2330.png,Public,Other non-passerine bird
+2331.png,Private,Water-associated bird
+2332.png,Private,Other non-passerine bird
+2333.png,Public,Nocturnal bird
+2334.png,Private,Nocturnal bird
+2335.png,Public,Tanager
+2336.png,Private,Nocturnal bird
+2337.png,Public,Tanager
+2338.png,Public,Other non-passerine bird
+2339.png,Public,Water-associated bird
+2340.png,Private,Flycatcher
+2341.png,Public,Other non-passerine bird
+2342.png,Private,Flycatcher
+2343.png,Public,Tanager
+2344.png,Public,Ground bird
+2345.png,Public,Parrot
+2346.png,Private,Flycatcher
+2347.png,Private,Tanager
+2348.png,Public,Flycatcher
+2349.png,Public,Tanager
+2350.png,Private,Tanager
+2351.png,Public,Tanager
+2352.png,Private,Flycatcher
+2353.png,Private,Ground bird
+2354.png,Public,Other non-passerine bird
+2355.png,Public,Other non-passerine bird
+2356.png,Public,Other non-passerine bird
+2357.png,Private,Other non-passerine bird
+2358.png,Public,Other non-passerine bird
+2359.png,Public,Water-associated bird
+2360.png,Private,Flycatcher
+2361.png,Private,Bird of prey
+2362.png,Public,Tanager
+2363.png,Public,Parrot
+2364.png,Private,Other non-passerine bird
+2365.png,Private,Flycatcher
+2366.png,Public,Antbird
+2367.png,Private,Flycatcher
+2368.png,Private,Flycatcher
+2369.png,Public,Tanager
+2370.png,Private,Ground bird
+2371.png,Public,Parrot
+2372.png,Public,Nocturnal bird
+2373.png,Public,Flycatcher
+2374.png,Private,Other non-passerine bird
+2375.png,Public,Parrot
+2376.png,Private,Flycatcher
+2377.png,Public,Flycatcher
+2378.png,Public,Other non-passerine bird
+2379.png,Private,Parrot
+2380.png,Public,Antbird
+2381.png,Private,Bird of prey
+2382.png,Public,Bird of prey
+2383.png,Private,Antbird
+2384.png,Public,Other non-passerine bird
+2385.png,Private,Flycatcher
+2386.png,Public,Nocturnal bird
+2387.png,Public,Flycatcher
+2388.png,Private,Bird of prey
+2389.png,Public,Other non-passerine bird
+2390.png,Private,Flycatcher
+2391.png,Private,Antbird
+2392.png,Private,Flycatcher
+2393.png,Public,Other non-passerine bird
+2394.png,Private,Flycatcher
+2395.png,Public,Flycatcher
+2396.png,Public,Nocturnal bird
+2397.png,Private,Flycatcher
+2398.png,Public,Flycatcher
+2399.png,Public,Bird of prey
+2400.png,Public,Water-associated bird
+2401.png,Public,Nocturnal bird
+2402.png,Public,Ground bird
+2403.png,Private,Flycatcher
+2404.png,Private,Flycatcher
+2405.png,Private,Nocturnal bird
+2406.png,Private,Tanager
+2407.png,Public,Other non-passerine bird
+2408.png,Private,Nocturnal bird
+2409.png,Private,Flycatcher
+2410.png,Private,Other non-passerine bird
+2411.png,Private,Flycatcher
+2412.png,Public,Other non-passerine bird
+2413.png,Private,Water-associated bird
+2414.png,Public,Water-associated bird
+2415.png,Private,Other non-passerine bird
+2416.png,Public,Bird of prey
+2417.png,Public,Bird of prey
+2418.png,Private,Nocturnal bird
+2419.png,Private,Bird of prey
+2420.png,Public,Tanager
+2421.png,Private,Parrot
+2422.png,Public,Water-associated bird
+2423.png,Private,Flycatcher
+2424.png,Private,Bird of prey
+2425.png,Public,Flycatcher
+2426.png,Private,Nocturnal bird
+2427.png,Private,Other non-passerine bird
+2428.png,Private,Other non-passerine bird
+2429.png,Private,Tanager
+2430.png,Private,Tanager
+2431.png,Private,Tanager
+2432.png,Public,Other non-passerine bird
+2433.png,Public,Nocturnal bird
+2434.png,Public,Flycatcher
+2435.png,Public,Antbird
+2436.png,Public,Nocturnal bird
+2437.png,Public,Flycatcher
+2438.png,Private,Antbird
+2439.png,Private,Parrot
+2440.png,Private,Flycatcher
+2441.png,Public,Other non-passerine bird
+2442.png,Public,Other non-passerine bird
+2443.png,Private,Nocturnal bird
+2444.png,Private,Other non-passerine bird
+2445.png,Private,Ground bird
+2446.png,Private,Antbird
+2447.png,Public,Flycatcher
+2448.png,Public,Water-associated bird
+2449.png,Private,Nocturnal bird
+2450.png,Private,Nocturnal bird
+2451.png,Public,Antbird
+2452.png,Public,Nocturnal bird
+2453.png,Public,Tanager
+2454.png,Private,Flycatcher
+2455.png,Private,Parrot
+2456.png,Private,Parrot
+2457.png,Private,Flycatcher
+2458.png,Private,Tanager
+2459.png,Private,Bird of prey
+2460.png,Public,Parrot
+2461.png,Private,Parrot
+2462.png,Private,Other non-passerine bird
+2463.png,Private,Flycatcher
+2464.png,Public,Nocturnal bird
+2465.png,Public,Flycatcher
+2466.png,Public,Ground bird
+2467.png,Private,Ground bird
+2468.png,Public,Flycatcher
+2469.png,Private,Flycatcher
+2470.png,Private,Antbird
+2471.png,Private,Flycatcher
+2472.png,Private,Flycatcher
+2473.png,Public,Other non-passerine bird
+2474.png,Private,Other non-passerine bird
+2475.png,Public,Antbird
+2476.png,Public,Water-associated bird
+2477.png,Public,Other non-passerine bird
+2478.png,Private,Antbird
+2479.png,Public,Bird of prey
+2480.png,Private,Flycatcher
+2481.png,Public,Flycatcher
+2482.png,Private,Other non-passerine bird
+2483.png,Public,Other non-passerine bird
+2484.png,Private,Other non-passerine bird
+2485.png,Public,Other non-passerine bird
+2486.png,Public,Other non-passerine bird
+2487.png,Public,Nocturnal bird
+2488.png,Public,Other non-passerine bird
+2489.png,Private,Other non-passerine bird
+2490.png,Public,Ground bird
+2491.png,Private,Tanager
+2492.png,Public,Other non-passerine bird
+2493.png,Public,Other non-passerine bird
+2494.png,Public,Tanager
+2495.png,Private,Water-associated bird
+2496.png,Public,Bird of prey
+2497.png,Public,Tanager
+2498.png,Public,Flycatcher
+2499.png,Private,Tanager
+2500.png,Public,Flycatcher
+2501.png,Private,Bird of prey
+2502.png,Private,Other non-passerine bird
+2503.png,Private,Water-associated bird
+2504.png,Private,Flycatcher
+2505.png,Public,Ground bird
+2506.png,Public,Other non-passerine bird
+2507.png,Public,Water-associated bird
+2508.png,Private,Other non-passerine bird
+2509.png,Public,Bird of prey
+2510.png,Public,Nocturnal bird
+2511.png,Private,Flycatcher
+2512.png,Private,Flycatcher
+2513.png,Public,Flycatcher
+2514.png,Public,Bird of prey
+2515.png,Public,Tanager
+2516.png,Private,Flycatcher
+2517.png,Public,Flycatcher
+2518.png,Public,Flycatcher
+2519.png,Public,Other non-passerine bird
+2520.png,Private,Antbird
+2521.png,Private,Flycatcher
+2522.png,Public,Ground bird
+2523.png,Private,Flycatcher
+2524.png,Private,Water-associated bird
+2525.png,Private,Flycatcher
+2526.png,Public,Tanager
+2527.png,Public,Nocturnal bird
+2528.png,Private,Bird of prey
+2529.png,Private,Parrot
+2530.png,Public,Other non-passerine bird
+2531.png,Public,Other non-passerine bird
+2532.png,Private,Tanager
+2533.png,Private,Other non-passerine bird
+2534.png,Public,Nocturnal bird
+2535.png,Public,Nocturnal bird
+2536.png,Private,Flycatcher
+2537.png,Private,Bird of prey
+2538.png,Private,Flycatcher
+2539.png,Private,Nocturnal bird
+2540.png,Private,Other non-passerine bird
+2541.png,Public,Flycatcher
+2542.png,Private,Flycatcher
+2543.png,Private,Ground bird
+2544.png,Private,Other non-passerine bird
+2545.png,Public,Nocturnal bird
+2546.png,Private,Tanager
+2547.png,Private,Nocturnal bird
+2548.png,Private,Nocturnal bird
+2549.png,Public,Water-associated bird
+2550.png,Public,Flycatcher
+2551.png,Public,Tanager
+2552.png,Public,Water-associated bird
+2553.png,Private,Flycatcher
+2554.png,Public,Flycatcher
+2555.png,Public,Antbird
+2556.png,Private,Nocturnal bird
+2557.png,Private,Other non-passerine bird
+2558.png,Public,Other non-passerine bird
+2559.png,Public,Flycatcher
+2560.png,Private,Flycatcher
+2561.png,Private,Flycatcher
+2562.png,Private,Other non-passerine bird
+2563.png,Private,Flycatcher
+2564.png,Public,Flycatcher
+2565.png,Private,Antbird
+2566.png,Private,Antbird
+2567.png,Public,Other non-passerine bird
+2568.png,Private,Tanager
+2569.png,Public,Other non-passerine bird
+2570.png,Private,Flycatcher
+2571.png,Private,Flycatcher
+2572.png,Public,Parrot
+2573.png,Public,Tanager
+2574.png,Public,Flycatcher
+2575.png,Private,Flycatcher
+2576.png,Private,Flycatcher
+2577.png,Private,Tanager
+2578.png,Private,Ground bird
+2579.png,Private,Flycatcher
+2580.png,Private,Flycatcher
+2581.png,Private,Tanager
+2582.png,Private,Flycatcher
+2583.png,Private,Bird of prey
+2584.png,Private,Other non-passerine bird
+2585.png,Public,Tanager
+2586.png,Private,Water-associated bird
+2587.png,Private,Water-associated bird
+2588.png,Public,Antbird
+2589.png,Public,Water-associated bird
+2590.png,Public,Other non-passerine bird
+2591.png,Private,Other non-passerine bird
+2592.png,Private,Tanager
+2593.png,Private,Antbird
+2594.png,Private,Antbird
+2595.png,Private,Other non-passerine bird
+2596.png,Private,Parrot
+2597.png,Public,Other non-passerine bird
+2598.png,Private,Tanager
+2599.png,Public,Bird of prey
+2600.png,Private,Other non-passerine bird
+2601.png,Private,Water-associated bird
+2602.png,Public,Water-associated bird
+2603.png,Public,Other non-passerine bird
+2604.png,Public,Water-associated bird
+2605.png,Private,Flycatcher
+2606.png,Public,Ground bird
+2607.png,Private,Tanager
+2608.png,Public,Parrot
+2609.png,Public,Other non-passerine bird
+2610.png,Private,Flycatcher
+2611.png,Public,Bird of prey
+2612.png,Public,Other non-passerine bird
+2613.png,Public,Water-associated bird
+2614.png,Public,Flycatcher
+2615.png,Private,Flycatcher
+2616.png,Public,Nocturnal bird
+2617.png,Private,Parrot
+2618.png,Public,Water-associated bird
+2619.png,Private,Other non-passerine bird
+2620.png,Private,Antbird
+2621.png,Private,Water-associated bird
+2622.png,Public,Parrot
+2623.png,Public,Flycatcher
+2624.png,Public,Other non-passerine bird
+2625.png,Private,Flycatcher
+2626.png,Private,Other non-passerine bird
+2627.png,Private,Flycatcher
+2628.png,Public,Parrot
+2629.png,Public,Nocturnal bird
+2630.png,Private,Flycatcher
+2631.png,Public,Flycatcher
+2632.png,Public,Water-associated bird
+2633.png,Private,Flycatcher
+2634.png,Public,Nocturnal bird
+2635.png,Private,Antbird
+2636.png,Public,Flycatcher
+2637.png,Private,Flycatcher
+2638.png,Private,Flycatcher
+2639.png,Public,Flycatcher
+2640.png,Private,Nocturnal bird
+2641.png,Public,Bird of prey
+2642.png,Private,Flycatcher
+2643.png,Private,Ground bird
+2644.png,Public,Ground bird
+2645.png,Public,Flycatcher
+2646.png,Private,Nocturnal bird
+2647.png,Private,Flycatcher
+2648.png,Public,Tanager
+2649.png,Public,Nocturnal bird
+2650.png,Private,Flycatcher
+2651.png,Private,Antbird
+2652.png,Private,Antbird
+2653.png,Public,Other non-passerine bird
+2654.png,Public,Flycatcher
+2655.png,Private,Water-associated bird
+2656.png,Private,Other non-passerine bird
+2657.png,Private,Nocturnal bird
+2658.png,Private,Nocturnal bird
+2659.png,Private,Other non-passerine bird
+2660.png,Public,Ground bird
+2661.png,Public,Flycatcher
+2662.png,Public,Tanager
+2663.png,Private,Water-associated bird
+2664.png,Public,Water-associated bird
+2665.png,Private,Other non-passerine bird
+2666.png,Public,Water-associated bird
+2667.png,Private,Other non-passerine bird
+2668.png,Public,Flycatcher
+2669.png,Public,Other non-passerine bird
+2670.png,Public,Flycatcher
+2671.png,Private,Flycatcher
+2672.png,Private,Antbird
+2673.png,Public,Nocturnal bird
+2674.png,Public,Tanager
+2675.png,Private,Parrot
+2676.png,Public,Other non-passerine bird
+2677.png,Private,Other non-passerine bird
+2678.png,Public,Antbird
+2679.png,Private,Water-associated bird
+2680.png,Public,Water-associated bird
+2681.png,Public,Water-associated bird
+2682.png,Public,Water-associated bird
+2683.png,Public,Other non-passerine bird
+2684.png,Private,Other non-passerine bird
+2685.png,Public,Other non-passerine bird
+2686.png,Private,Other non-passerine bird
+2687.png,Private,Other non-passerine bird
+2688.png,Private,Antbird
+2689.png,Public,Antbird
+2690.png,Public,Flycatcher
+2691.png,Public,Flycatcher
+2692.png,Public,Flycatcher
+2693.png,Private,Flycatcher
+2694.png,Public,Flycatcher
+2695.png,Public,Flycatcher
+2696.png,Public,Bird of prey
+2697.png,Public,Flycatcher
+2698.png,Private,Other non-passerine bird
+2699.png,Private,Other non-passerine bird
+2700.png,Public,Flycatcher
+2701.png,Private,Nocturnal bird
+2702.png,Public,Other non-passerine bird
+2703.png,Public,Tanager
+2704.png,Private,Other non-passerine bird
+2705.png,Public,Other non-passerine bird
+2706.png,Public,Water-associated bird
+2707.png,Public,Water-associated bird
+2708.png,Public,Water-associated bird
+2709.png,Private,Other non-passerine bird
+2710.png,Public,Parrot
+2711.png,Private,Antbird
+2712.png,Private,Tanager
+2713.png,Private,Tanager
+2714.png,Private,Parrot
+2715.png,Public,Water-associated bird
+2716.png,Private,Water-associated bird
+2717.png,Public,Other non-passerine bird
+2718.png,Public,Parrot
+2719.png,Public,Parrot
+2720.png,Public,Other non-passerine bird
+2721.png,Public,Parrot
+2722.png,Private,Water-associated bird
+2723.png,Private,Other non-passerine bird
+2724.png,Public,Ground bird
+2725.png,Private,Antbird
+2726.png,Public,Flycatcher
+2727.png,Private,Water-associated bird
+2728.png,Public,Parrot
+2729.png,Private,Parrot
+2730.png,Public,Parrot
+2731.png,Private,Water-associated bird
+2732.png,Private,Flycatcher
+2733.png,Private,Flycatcher
+2734.png,Private,Flycatcher
+2735.png,Private,Parrot
+2736.png,Private,Parrot
+2737.png,Private,Parrot
+2738.png,Private,Other non-passerine bird
+2739.png,Private,Nocturnal bird
+2740.png,Private,Flycatcher
+2741.png,Public,Antbird
+2742.png,Public,Other non-passerine bird
+2743.png,Private,Other non-passerine bird
+2744.png,Private,Nocturnal bird
+2745.png,Public,Antbird
+2746.png,Public,Other non-passerine bird
+2747.png,Public,Other non-passerine bird
+2748.png,Public,Tanager
+2749.png,Public,Tanager
+2750.png,Private,Tanager
+2751.png,Private,Tanager
+2752.png,Public,Water-associated bird
+2753.png,Private,Water-associated bird
+2754.png,Private,Flycatcher
+2755.png,Public,Flycatcher
+2756.png,Public,Bird of prey
+2757.png,Private,Water-associated bird
+2758.png,Public,Parrot
+2759.png,Private,Flycatcher
+2760.png,Public,Water-associated bird
+2761.png,Private,Water-associated bird
+2762.png,Private,Parrot
+2763.png,Private,Antbird
+2764.png,Private,Other non-passerine bird
+2765.png,Private,Bird of prey
+2766.png,Public,Flycatcher
+2767.png,Private,Bird of prey
+2768.png,Public,Antbird
+2769.png,Public,Bird of prey
+2770.png,Private,Nocturnal bird
+2771.png,Private,Water-associated bird
+2772.png,Public,Other non-passerine bird
+2773.png,Public,Water-associated bird
+2774.png,Private,Flycatcher
+2775.png,Private,Antbird
+2776.png,Public,Flycatcher
+2777.png,Public,Nocturnal bird
+2778.png,Private,Bird of prey
+2779.png,Private,Flycatcher
+2780.png,Private,Nocturnal bird
+2781.png,Public,Antbird
+2782.png,Public,Water-associated bird
+2783.png,Public,Nocturnal bird
+2784.png,Private,Antbird
+2785.png,Private,Bird of prey
+2786.png,Public,Other non-passerine bird
+2787.png,Public,Other non-passerine bird
+2788.png,Private,Other non-passerine bird
+2789.png,Public,Flycatcher
+2790.png,Private,Nocturnal bird
+2791.png,Public,Water-associated bird
+2792.png,Public,Flycatcher
+2793.png,Private,Water-associated bird
+2794.png,Public,Other non-passerine bird
+2795.png,Private,Antbird
+2796.png,Private,Water-associated bird
+2797.png,Public,Parrot
+2798.png,Public,Flycatcher
+2799.png,Private,Antbird
+2800.png,Public,Other non-passerine bird
+2801.png,Public,Flycatcher
+2802.png,Public,Flycatcher
+2803.png,Private,Tanager
+2804.png,Public,Flycatcher
+2805.png,Public,Other non-passerine bird
+2806.png,Public,Parrot
+2807.png,Public,Other non-passerine bird
+2808.png,Public,Nocturnal bird
+2809.png,Private,Other non-passerine bird
+2810.png,Private,Other non-passerine bird
+2811.png,Private,Parrot
+2812.png,Private,Other non-passerine bird
+2813.png,Private,Tanager
+2814.png,Public,Water-associated bird
+2815.png,Private,Antbird
+2816.png,Public,Flycatcher
+2817.png,Private,Water-associated bird
+2818.png,Public,Ground bird
+2819.png,Public,Other non-passerine bird
+2820.png,Public,Water-associated bird
+2821.png,Public,Nocturnal bird
+2822.png,Private,Water-associated bird
+2823.png,Public,Other non-passerine bird
+2824.png,Public,Flycatcher
+2825.png,Private,Other non-passerine bird
+2826.png,Private,Parrot
+2827.png,Private,Flycatcher
+2828.png,Private,Nocturnal bird
+2829.png,Public,Flycatcher
+2830.png,Public,Other non-passerine bird
+2831.png,Private,Nocturnal bird
+2832.png,Private,Flycatcher
+2833.png,Public,Parrot
+2834.png,Public,Flycatcher
+2835.png,Public,Other non-passerine bird
+2836.png,Public,Other non-passerine bird
+2837.png,Private,Other non-passerine bird
+2838.png,Public,Other non-passerine bird
+2839.png,Public,Parrot
+2840.png,Private,Other non-passerine bird
+2841.png,Private,Flycatcher
+2842.png,Private,Flycatcher
+2843.png,Public,Other non-passerine bird
+2844.png,Public,Other non-passerine bird
+2845.png,Public,Bird of prey
+2846.png,Private,Other non-passerine bird
+2847.png,Public,Flycatcher
+2848.png,Private,Parrot
+2849.png,Private,Other non-passerine bird
+2850.png,Private,Other non-passerine bird
+2851.png,Public,Nocturnal bird
+2852.png,Private,Other non-passerine bird
+2853.png,Private,Other non-passerine bird
+2854.png,Public,Flycatcher
+2855.png,Private,Flycatcher
+2856.png,Private,Other non-passerine bird
+2857.png,Public,Other non-passerine bird
+2858.png,Private,Flycatcher
+2859.png,Public,Other non-passerine bird
+2860.png,Public,Other non-passerine bird
+2861.png,Private,Nocturnal bird
+2862.png,Public,Tanager
+2863.png,Public,Tanager
+2864.png,Public,Water-associated bird
+2865.png,Public,Other non-passerine bird
+2866.png,Private,Flycatcher
+2867.png,Public,Tanager
+2868.png,Public,Parrot
+2869.png,Private,Flycatcher
+2870.png,Private,Nocturnal bird
+2871.png,Public,Other non-passerine bird
+2872.png,Public,Parrot
+2873.png,Public,Water-associated bird
+2874.png,Public,Bird of prey
+2875.png,Public,Flycatcher
+2876.png,Public,Antbird
+2877.png,Public,Ground bird
+2878.png,Private,Flycatcher
+2879.png,Private,Tanager
+2880.png,Private,Flycatcher
+2881.png,Public,Tanager
+2882.png,Public,Flycatcher
+2883.png,Private,Bird of prey
+2884.png,Private,Nocturnal bird
+2885.png,Public,Ground bird
+2886.png,Public,Other non-passerine bird
+2887.png,Public,Other non-passerine bird
+2888.png,Private,Nocturnal bird
+2889.png,Public,Nocturnal bird
+2890.png,Private,Tanager
+2891.png,Private,Flycatcher
+2892.png,Private,Flycatcher
+2893.png,Public,Water-associated bird
+2894.png,Public,Other non-passerine bird
+2895.png,Private,Flycatcher
+2896.png,Public,Flycatcher
+2897.png,Private,Other non-passerine bird
+2898.png,Public,Antbird
+2899.png,Public,Water-associated bird
+2900.png,Private,Flycatcher
+2901.png,Public,Nocturnal bird
+2902.png,Private,Flycatcher
+2903.png,Public,Other non-passerine bird
+2904.png,Private,Flycatcher
+2905.png,Public,Other non-passerine bird
+2906.png,Public,Other non-passerine bird
+2907.png,Public,Other non-passerine bird
+2908.png,Private,Flycatcher
+2909.png,Private,Ground bird
+2910.png,Private,Other non-passerine bird
+2911.png,Public,Other non-passerine bird
+2912.png,Public,Bird of prey
+2913.png,Private,Tanager
+2914.png,Private,Parrot
+2915.png,Public,Other non-passerine bird
+2916.png,Public,Flycatcher
+2917.png,Private,Nocturnal bird
+2918.png,Private,Flycatcher
+2919.png,Public,Flycatcher
+2920.png,Private,Bird of prey
+2921.png,Public,Antbird
+2922.png,Private,Other non-passerine bird
+2923.png,Public,Nocturnal bird
+2924.png,Private,Nocturnal bird
+2925.png,Private,Flycatcher
+2926.png,Public,Flycatcher
+2927.png,Public,Flycatcher
+2928.png,Public,Tanager
+2929.png,Private,Nocturnal bird
+2930.png,Public,Other non-passerine bird
+2931.png,Public,Other non-passerine bird
+2932.png,Public,Other non-passerine bird
+2933.png,Public,Flycatcher
+2934.png,Private,Other non-passerine bird
+2935.png,Public,Other non-passerine bird
+2936.png,Private,Ground bird
+2937.png,Private,Tanager
+2938.png,Public,Nocturnal bird
+2939.png,Private,Parrot
+2940.png,Private,Flycatcher
+2941.png,Public,Flycatcher
+2942.png,Private,Flycatcher
+2943.png,Public,Ground bird
+2944.png,Public,Other non-passerine bird
+2945.png,Public,Ground bird
+2946.png,Private,Water-associated bird
+2947.png,Public,Other non-passerine bird
+2948.png,Public,Tanager
+2949.png,Public,Antbird
+2950.png,Public,Bird of prey
+2951.png,Public,Other non-passerine bird
+2952.png,Private,Flycatcher
+2953.png,Public,Parrot
+2954.png,Private,Ground bird
+2955.png,Private,Flycatcher
+2956.png,Private,Flycatcher
+2957.png,Private,Tanager
+2958.png,Private,Bird of prey
+2959.png,Public,Bird of prey
+2960.png,Private,Flycatcher
+2961.png,Public,Antbird
+2962.png,Private,Other non-passerine bird
+2963.png,Public,Tanager
+2964.png,Private,Nocturnal bird
+2965.png,Public,Other non-passerine bird
+2966.png,Private,Flycatcher
+2967.png,Public,Bird of prey
+2968.png,Private,Antbird
+2969.png,Public,Other non-passerine bird
+2970.png,Public,Bird of prey
+2971.png,Public,Other non-passerine bird
+2972.png,Private,Water-associated bird
+2973.png,Public,Bird of prey
+2974.png,Private,Water-associated bird
+2975.png,Private,Antbird
+2976.png,Public,Flycatcher
+2977.png,Public,Water-associated bird
+2978.png,Private,Flycatcher
+2979.png,Private,Ground bird
+2980.png,Public,Ground bird
+2981.png,Private,Flycatcher
+2982.png,Private,Other non-passerine bird
+2983.png,Private,Other non-passerine bird
+2984.png,Public,Other non-passerine bird
+2985.png,Private,Tanager
+2986.png,Private,Antbird
+2987.png,Public,Tanager
+2988.png,Private,Other non-passerine bird
+2989.png,Private,Other non-passerine bird
+2990.png,Public,Water-associated bird
+2991.png,Private,Bird of prey
+2992.png,Private,Parrot
+2993.png,Public,Flycatcher
+2994.png,Private,Other non-passerine bird
+2995.png,Private,Flycatcher
+2996.png,Public,Antbird
+2997.png,Private,Antbird
+2998.png,Public,Nocturnal bird
+2999.png,Public,Antbird
+3000.png,Private,Flycatcher
+3001.png,Private,Other non-passerine bird
+3002.png,Public,Flycatcher
+3003.png,Public,Other non-passerine bird
+3004.png,Private,Tanager
+3005.png,Private,Antbird
+3006.png,Private,Antbird
+3007.png,Public,Other non-passerine bird
+3008.png,Public,Antbird
+3009.png,Public,Flycatcher
+3010.png,Public,Flycatcher
+3011.png,Public,Water-associated bird
+3012.png,Public,Flycatcher
+3013.png,Private,Parrot
+3014.png,Private,Tanager
+3015.png,Public,Other non-passerine bird
+3016.png,Public,Other non-passerine bird
+3017.png,Public,Flycatcher
+3018.png,Private,Other non-passerine bird
+3019.png,Public,Bird of prey
+3020.png,Public,Bird of prey
+3021.png,Public,Flycatcher
+3022.png,Public,Nocturnal bird
+3023.png,Public,Flycatcher
+3024.png,Private,Flycatcher
+3025.png,Public,Flycatcher
+3026.png,Private,Antbird
+3027.png,Public,Other non-passerine bird
+3028.png,Private,Other non-passerine bird
+3029.png,Private,Nocturnal bird
+3030.png,Public,Flycatcher
+3031.png,Private,Antbird
+3032.png,Public,Flycatcher
+3033.png,Public,Other non-passerine bird
+3034.png,Public,Other non-passerine bird
+3035.png,Public,Water-associated bird
+3036.png,Public,Other non-passerine bird
+3037.png,Public,Antbird
+3038.png,Private,Water-associated bird
+3039.png,Public,Flycatcher
+3040.png,Private,Flycatcher
+3041.png,Private,Antbird
+3042.png,Public,Antbird
+3043.png,Private,Antbird
+3044.png,Private,Antbird
+3045.png,Public,Antbird
+3046.png,Public,Antbird
+3047.png,Public,Tanager
+3048.png,Public,Antbird
+3049.png,Public,Flycatcher
+3050.png,Public,Nocturnal bird
+3051.png,Private,Flycatcher
+3052.png,Public,Tanager
+3053.png,Public,Other non-passerine bird
+3054.png,Public,Antbird
+3055.png,Public,Other non-passerine bird
+3056.png,Private,Flycatcher
+3057.png,Public,Other non-passerine bird
+3058.png,Public,Water-associated bird
+3059.png,Private,Bird of prey
+3060.png,Private,Flycatcher
+3061.png,Public,Tanager
+3062.png,Private,Other non-passerine bird
+3063.png,Private,Bird of prey
+3064.png,Private,Flycatcher
+3065.png,Private,Antbird
+3066.png,Private,Nocturnal bird
+3067.png,Private,Other non-passerine bird
+3068.png,Private,Other non-passerine bird
+3069.png,Private,Flycatcher
+3070.png,Private,Flycatcher
+3071.png,Public,Nocturnal bird
+3072.png,Public,Other non-passerine bird
+3073.png,Private,Antbird
+3074.png,Public,Antbird
+3075.png,Public,Other non-passerine bird
+3076.png,Private,Other non-passerine bird
+3077.png,Public,Flycatcher
+3078.png,Private,Flycatcher
+3079.png,Public,Antbird
+3080.png,Public,Flycatcher
+3081.png,Public,Flycatcher
+3082.png,Public,Water-associated bird
+3083.png,Public,Flycatcher
+3084.png,Public,Flycatcher
+3085.png,Public,Flycatcher
+3086.png,Public,Other non-passerine bird
+3087.png,Private,Other non-passerine bird
+3088.png,Private,Flycatcher
+3089.png,Private,Other non-passerine bird
+3090.png,Private,Other non-passerine bird
+3091.png,Public,Flycatcher
+3092.png,Public,Nocturnal bird
+3093.png,Public,Other non-passerine bird
+3094.png,Private,Ground bird
+3095.png,Private,Flycatcher
+3096.png,Private,Flycatcher
+3097.png,Public,Antbird
+3098.png,Private,Bird of prey
+3099.png,Public,Bird of prey
+3100.png,Public,Flycatcher
+3101.png,Private,Water-associated bird
+3102.png,Public,Other non-passerine bird
+3103.png,Private,Flycatcher
+3104.png,Public,Water-associated bird
+3105.png,Private,Other non-passerine bird
+3106.png,Public,Flycatcher
+3107.png,Public,Flycatcher
+3108.png,Public,Other non-passerine bird
+3109.png,Private,Flycatcher
+3110.png,Public,Flycatcher
+3111.png,Public,Flycatcher
+3112.png,Private,Parrot
+3113.png,Public,Flycatcher
+3114.png,Private,Flycatcher
+3115.png,Private,Flycatcher
+3116.png,Private,Water-associated bird
+3117.png,Public,Water-associated bird
+3118.png,Public,Bird of prey
+3119.png,Private,Other non-passerine bird
+3120.png,Public,Parrot
+3121.png,Private,Bird of prey
+3122.png,Public,Bird of prey
+3123.png,Public,Other non-passerine bird
+3124.png,Private,Other non-passerine bird
+3125.png,Public,Water-associated bird
+3126.png,Public,Water-associated bird
+3127.png,Public,Water-associated bird
+3128.png,Private,Flycatcher
+3129.png,Private,Bird of prey
+3130.png,Public,Antbird
+3131.png,Public,Flycatcher
+3132.png,Public,Flycatcher
+3133.png,Public,Ground bird
+3134.png,Public,Water-associated bird
+3135.png,Public,Tanager
+3136.png,Private,Bird of prey
+3137.png,Private,Water-associated bird
+3138.png,Public,Flycatcher
+3139.png,Public,Water-associated bird
+3140.png,Private,Water-associated bird
+3141.png,Private,Flycatcher
+3142.png,Public,Antbird
+3143.png,Private,Tanager
+3144.png,Public,Tanager
+3145.png,Public,Other non-passerine bird
+3146.png,Private,Nocturnal bird
+3147.png,Public,Other non-passerine bird
+3148.png,Public,Other non-passerine bird
+3149.png,Public,Other non-passerine bird
+3150.png,Public,Other non-passerine bird
+3151.png,Private,Other non-passerine bird
+3152.png,Private,Water-associated bird
+3153.png,Public,Water-associated bird
+3154.png,Private,Parrot
+3155.png,Public,Flycatcher
+3156.png,Private,Water-associated bird
+3157.png,Private,Flycatcher
+3158.png,Private,Flycatcher
+3159.png,Private,Flycatcher
+3160.png,Public,Parrot
+3161.png,Private,Water-associated bird
+3162.png,Public,Nocturnal bird
+3163.png,Private,Water-associated bird
+3164.png,Public,Water-associated bird
+3165.png,Private,Other non-passerine bird
+3166.png,Public,Other non-passerine bird
+3167.png,Private,Parrot
+3168.png,Public,Flycatcher
+3169.png,Private,Other non-passerine bird
+3170.png,Private,Ground bird
+3171.png,Public,Water-associated bird
+3172.png,Public,Other non-passerine bird
+3173.png,Public,Other non-passerine bird
+3174.png,Public,Other non-passerine bird
+3175.png,Public,Tanager
+3176.png,Private,Nocturnal bird
+3177.png,Public,Tanager
+3178.png,Public,Antbird
+3179.png,Private,Tanager
+3180.png,Public,Tanager
+3181.png,Public,Tanager
+3182.png,Private,Parrot
+3183.png,Public,Tanager
+3184.png,Private,Flycatcher
+3185.png,Public,Other non-passerine bird
+3186.png,Public,Antbird
+3187.png,Public,Water-associated bird
+3188.png,Public,Tanager
+3189.png,Public,Flycatcher
+3190.png,Public,Flycatcher
+3191.png,Public,Water-associated bird
+3192.png,Public,Bird of prey
+3193.png,Public,Flycatcher
+3194.png,Private,Bird of prey
+3195.png,Private,Water-associated bird
+3196.png,Public,Tanager
+3197.png,Public,Tanager
+3198.png,Public,Other non-passerine bird
+3199.png,Private,Other non-passerine bird
+3200.png,Private,Antbird
+3201.png,Private,Other non-passerine bird
+3202.png,Public,Parrot
+3203.png,Public,Flycatcher
+3204.png,Public,Ground bird
+3205.png,Private,Flycatcher
+3206.png,Public,Antbird
+3207.png,Public,Tanager
+3208.png,Public,Bird of prey
+3209.png,Private,Antbird
+3210.png,Private,Tanager
+3211.png,Public,Ground bird
+3212.png,Private,Tanager
+3213.png,Private,Tanager
+3214.png,Public,Other non-passerine bird
+3215.png,Private,Tanager
+3216.png,Public,Nocturnal bird
+3217.png,Public,Tanager
+3218.png,Private,Tanager
+3219.png,Private,Tanager
+3220.png,Public,Parrot
+3221.png,Public,Parrot
+3222.png,Private,Parrot
+3223.png,Public,Parrot
+3224.png,Private,Water-associated bird
+3225.png,Public,Water-associated bird
+3226.png,Private,Nocturnal bird
+3227.png,Private,Parrot
+3228.png,Private,Water-associated bird
+3229.png,Private,Other non-passerine bird
+3230.png,Private,Ground bird
+3231.png,Public,Ground bird
+3232.png,Public,Water-associated bird
+3233.png,Public,Water-associated bird
+3234.png,Private,Other non-passerine bird
+3235.png,Private,Other non-passerine bird
+3236.png,Public,Other non-passerine bird
+3237.png,Public,Other non-passerine bird
+3238.png,Private,Bird of prey
+3239.png,Public,Nocturnal bird
+3240.png,Private,Other non-passerine bird
+3241.png,Private,Other non-passerine bird
+3242.png,Private,Other non-passerine bird
+3243.png,Public,Other non-passerine bird
+3244.png,Private,Parrot
+3245.png,Public,Parrot
+3246.png,Public,Bird of prey
+3247.png,Public,Parrot
+3248.png,Private,Parrot
+3249.png,Private,Parrot
+3250.png,Public,Bird of prey
+3251.png,Public,Other non-passerine bird
+3252.png,Private,Other non-passerine bird
+3253.png,Public,Water-associated bird
+3254.png,Private,Water-associated bird
+3255.png,Private,Water-associated bird
+3256.png,Private,Water-associated bird
+3257.png,Public,Nocturnal bird
+3258.png,Private,Other non-passerine bird
+3259.png,Public,Parrot
+3260.png,Private,Flycatcher
+3261.png,Public,Flycatcher
+3262.png,Private,Tanager
+3263.png,Public,Flycatcher
+3264.png,Public,Parrot
+3265.png,Public,Parrot
+3266.png,Private,Antbird
+3267.png,Public,Tanager
+3268.png,Public,Ground bird
+3269.png,Public,Water-associated bird
+3270.png,Private,Flycatcher
+3271.png,Public,Parrot
+3272.png,Private,Flycatcher
+3273.png,Public,Ground bird
+3274.png,Public,Flycatcher
+3275.png,Public,Tanager
+3276.png,Private,Other non-passerine bird
+3277.png,Private,Bird of prey
+3278.png,Public,Other non-passerine bird
+3279.png,Public,Other non-passerine bird
+3280.png,Public,Antbird
+3281.png,Private,Other non-passerine bird
+3282.png,Public,Flycatcher
+3283.png,Public,Flycatcher
+3284.png,Private,Flycatcher
+3285.png,Private,Bird of prey
+3286.png,Private,Other non-passerine bird
+3287.png,Public,Parrot
+3288.png,Private,Parrot
+3289.png,Private,Parrot
+3290.png,Public,Parrot
+3291.png,Private,Parrot
+3292.png,Private,Antbird
+3293.png,Public,Antbird
+3294.png,Private,Nocturnal bird
+3295.png,Private,Other non-passerine bird
+3296.png,Public,Ground bird
+3297.png,Private,Bird of prey
+3298.png,Public,Other non-passerine bird
+3299.png,Private,Tanager
+3300.png,Private,Other non-passerine bird
+3301.png,Private,Tanager
+3302.png,Private,Nocturnal bird
+3303.png,Public,Parrot
+3304.png,Private,Tanager
+3305.png,Public,Tanager
+3306.png,Public,Flycatcher
+3307.png,Public,Other non-passerine bird
+3308.png,Private,Ground bird
+3309.png,Private,Other non-passerine bird
+3310.png,Public,Other non-passerine bird
+3311.png,Private,Other non-passerine bird
+3312.png,Private,Flycatcher
+3313.png,Public,Tanager
+3314.png,Private,Other non-passerine bird
+3315.png,Private,Flycatcher
+3316.png,Private,Tanager
+3317.png,Private,Nocturnal bird
+3318.png,Public,Flycatcher
+3319.png,Public,Other non-passerine bird
+3320.png,Public,Water-associated bird
+3321.png,Private,Water-associated bird
+3322.png,Public,Other non-passerine bird
+3323.png,Public,Nocturnal bird
+3324.png,Private,Nocturnal bird
+3325.png,Private,Parrot
+3326.png,Private,Flycatcher
+3327.png,Public,Tanager
+3328.png,Public,Water-associated bird
+3329.png,Private,Antbird
+3330.png,Public,Antbird
+3331.png,Public,Other non-passerine bird
+3332.png,Public,Ground bird
+3333.png,Public,Flycatcher
+3334.png,Public,Antbird
+3335.png,Private,Tanager
+3336.png,Private,Nocturnal bird
+3337.png,Private,Nocturnal bird
+3338.png,Private,Ground bird
+3339.png,Private,Bird of prey
+3340.png,Public,Tanager
+3341.png,Private,Flycatcher
+3342.png,Public,Other non-passerine bird
+3343.png,Public,Nocturnal bird
+3344.png,Private,Tanager
+3345.png,Public,Antbird
+3346.png,Public,Flycatcher
+3347.png,Private,Nocturnal bird
+3348.png,Public,Ground bird
+3349.png,Public,Parrot
+3350.png,Private,Other non-passerine bird
+3351.png,Private,Water-associated bird
+3352.png,Public,Flycatcher
+3353.png,Public,Flycatcher
+3354.png,Private,Ground bird
+3355.png,Public,Tanager
+3356.png,Private,Water-associated bird
+3357.png,Private,Ground bird
+3358.png,Public,Bird of prey
+3359.png,Public,Other non-passerine bird
+3360.png,Public,Other non-passerine bird
+3361.png,Public,Ground bird
+3362.png,Public,Flycatcher
+3363.png,Public,Antbird
+3364.png,Public,Flycatcher
+3365.png,Private,Other non-passerine bird
+3366.png,Private,Nocturnal bird
+3367.png,Public,Antbird
+3368.png,Public,Other non-passerine bird
+3369.png,Public,Ground bird
+3370.png,Public,Nocturnal bird
+3371.png,Public,Antbird
+3372.png,Public,Parrot
+3373.png,Public,Other non-passerine bird
+3374.png,Private,Other non-passerine bird
+3375.png,Public,Other non-passerine bird
+3376.png,Private,Tanager
+3377.png,Public,Flycatcher
+3378.png,Private,Water-associated bird
+3379.png,Private,Water-associated bird
+3380.png,Public,Bird of prey
+3381.png,Private,Flycatcher
+3382.png,Private,Flycatcher
+3383.png,Private,Tanager
+3384.png,Private,Other non-passerine bird
+3385.png,Public,Other non-passerine bird
+3386.png,Private,Flycatcher
+3387.png,Public,Other non-passerine bird
+3388.png,Private,Flycatcher
+3389.png,Public,Parrot
+3390.png,Public,Tanager
+3391.png,Private,Water-associated bird
+3392.png,Private,Ground bird
+3393.png,Private,Flycatcher
+3394.png,Private,Water-associated bird
+3395.png,Public,Other non-passerine bird
+3396.png,Public,Parrot
+3397.png,Private,Flycatcher
+3398.png,Public,Other non-passerine bird
+3399.png,Public,Other non-passerine bird
+3400.png,Public,Other non-passerine bird
+3401.png,Private,Water-associated bird
+3402.png,Private,Nocturnal bird
+3403.png,Public,Other non-passerine bird
+3404.png,Private,Other non-passerine bird
+3405.png,Private,Other non-passerine bird
+3406.png,Private,Bird of prey
+3407.png,Public,Tanager
+3408.png,Private,Other non-passerine bird
+3409.png,Public,Flycatcher
+3410.png,Private,Parrot
+3411.png,Public,Other non-passerine bird
+3412.png,Public,Antbird
+3413.png,Private,Water-associated bird
+3414.png,Private,Bird of prey
+3415.png,Public,Flycatcher
+3416.png,Private,Other non-passerine bird
+3417.png,Public,Nocturnal bird
+3418.png,Private,Water-associated bird
+3419.png,Private,Parrot
+3420.png,Public,Flycatcher
+3421.png,Public,Nocturnal bird
+3422.png,Public,Other non-passerine bird
+3423.png,Private,Other non-passerine bird
+3424.png,Private,Other non-passerine bird
+3425.png,Private,Parrot
+3426.png,Private,Antbird
+3427.png,Private,Other non-passerine bird
+3428.png,Public,Flycatcher
+3429.png,Public,Bird of prey
+3430.png,Private,Flycatcher
+3431.png,Public,Flycatcher
+3432.png,Public,Other non-passerine bird
+3433.png,Private,Flycatcher
+3434.png,Public,Tanager
+3435.png,Public,Nocturnal bird
+3436.png,Public,Other non-passerine bird
+3437.png,Public,Bird of prey
+3438.png,Private,Other non-passerine bird
+3439.png,Public,Parrot
+3440.png,Public,Water-associated bird
+3441.png,Private,Water-associated bird
+3442.png,Public,Other non-passerine bird
+3443.png,Public,Other non-passerine bird
+3444.png,Private,Other non-passerine bird
+3445.png,Public,Antbird
+3446.png,Private,Other non-passerine bird
+3447.png,Public,Flycatcher
+3448.png,Public,Nocturnal bird
+3449.png,Public,Nocturnal bird
+3450.png,Private,Antbird
+3451.png,Public,Other non-passerine bird
+3452.png,Public,Other non-passerine bird
+3453.png,Private,Nocturnal bird
+3454.png,Public,Tanager
+3455.png,Private,Nocturnal bird
+3456.png,Private,Water-associated bird
+3457.png,Private,Water-associated bird
+3458.png,Public,Water-associated bird
+3459.png,Private,Flycatcher
+3460.png,Private,Water-associated bird
+3461.png,Public,Nocturnal bird
+3462.png,Public,Bird of prey
+3463.png,Public,Tanager
+3464.png,Private,Water-associated bird
+3465.png,Private,Water-associated bird
+3466.png,Private,Flycatcher
+3467.png,Public,Nocturnal bird
+3468.png,Private,Other non-passerine bird
+3469.png,Private,Water-associated bird
+3470.png,Private,Tanager
+3471.png,Private,Tanager
+3472.png,Public,Parrot
+3473.png,Public,Bird of prey
+3474.png,Private,Bird of prey
+3475.png,Private,Other non-passerine bird
+3476.png,Public,Parrot
+3477.png,Private,Parrot
+3478.png,Private,Antbird
+3479.png,Private,Nocturnal bird
+3480.png,Public,Other non-passerine bird
+3481.png,Private,Nocturnal bird
+3482.png,Public,Bird of prey
+3483.png,Private,Flycatcher
+3484.png,Public,Flycatcher
+3485.png,Private,Flycatcher
+3486.png,Private,Flycatcher
+3487.png,Public,Flycatcher
+3488.png,Private,Antbird
+3489.png,Private,Flycatcher
+3490.png,Private,Flycatcher
+3491.png,Public,Other non-passerine bird
+3492.png,Private,Flycatcher
+3493.png,Private,Ground bird
+3494.png,Public,Tanager
+3495.png,Public,Parrot
+3496.png,Private,Flycatcher
+3497.png,Public,Antbird
+3498.png,Private,Other non-passerine bird
+3499.png,Public,Bird of prey
+3500.png,Public,Other non-passerine bird
+3501.png,Public,Other non-passerine bird
+3502.png,Private,Water-associated bird
+3503.png,Public,Water-associated bird
+3504.png,Private,Other non-passerine bird
+3505.png,Private,Flycatcher
+3506.png,Private,Water-associated bird
+3507.png,Public,Flycatcher
+3508.png,Public,Flycatcher
+3509.png,Private,Flycatcher
+3510.png,Private,Tanager
+3511.png,Private,Water-associated bird
+3512.png,Public,Nocturnal bird
+3513.png,Public,Nocturnal bird
+3514.png,Public,Flycatcher
+3515.png,Public,Tanager
+3516.png,Public,Other non-passerine bird
+3517.png,Public,Parrot
+3518.png,Private,Parrot
+3519.png,Public,Other non-passerine bird
+3520.png,Private,Flycatcher
+3521.png,Private,Nocturnal bird
+3522.png,Public,Ground bird
+3523.png,Public,Nocturnal bird
+3524.png,Private,Other non-passerine bird
+3525.png,Public,Ground bird
+3526.png,Private,Ground bird
+3527.png,Private,Flycatcher
+3528.png,Public,Tanager
+3529.png,Private,Parrot
+3530.png,Private,Water-associated bird
+3531.png,Private,Ground bird
+3532.png,Public,Flycatcher
+3533.png,Private,Other non-passerine bird
+3534.png,Private,Water-associated bird
+3535.png,Private,Flycatcher
+3536.png,Public,Parrot
+3537.png,Private,Flycatcher
+3538.png,Private,Water-associated bird
+3539.png,Private,Flycatcher
+3540.png,Public,Tanager
+3541.png,Public,Ground bird
+3542.png,Public,Flycatcher
+3543.png,Private,Flycatcher
+3544.png,Private,Nocturnal bird
+3545.png,Private,Other non-passerine bird
+3546.png,Public,Flycatcher
+3547.png,Private,Tanager
+3548.png,Public,Other non-passerine bird
+3549.png,Private,Water-associated bird
+3550.png,Public,Antbird
+3551.png,Private,Water-associated bird
+3552.png,Public,Nocturnal bird
+3553.png,Public,Antbird
+3554.png,Private,Parrot
+3555.png,Public,Antbird
+3556.png,Public,Other non-passerine bird
+3557.png,Public,Tanager
+3558.png,Public,Other non-passerine bird
+3559.png,Public,Tanager
+3560.png,Private,Antbird
+3561.png,Private,Other non-passerine bird
+3562.png,Public,Bird of prey
+3563.png,Public,Ground bird
+3564.png,Private,Ground bird
+3565.png,Public,Bird of prey
+3566.png,Public,Water-associated bird
+3567.png,Private,Bird of prey
+3568.png,Private,Water-associated bird
+3569.png,Public,Antbird
+3570.png,Private,Antbird
+3571.png,Public,Antbird
+3572.png,Public,Parrot
+3573.png,Public,Parrot
+3574.png,Private,Flycatcher
+3575.png,Public,Flycatcher
+3576.png,Private,Water-associated bird
+3577.png,Public,Water-associated bird
+3578.png,Public,Nocturnal bird
+3579.png,Public,Flycatcher
+3580.png,Public,Water-associated bird
+3581.png,Private,Bird of prey
+3582.png,Private,Bird of prey
+3583.png,Public,Bird of prey
+3584.png,Private,Water-associated bird
+3585.png,Public,Bird of prey
+3586.png,Private,Water-associated bird
+3587.png,Public,Water-associated bird
+3588.png,Public,Flycatcher
+3589.png,Private,Tanager
+3590.png,Public,Nocturnal bird
+3591.png,Public,Nocturnal bird
+3592.png,Private,Flycatcher
+3593.png,Private,Antbird
+3594.png,Public,Antbird
+3595.png,Private,Tanager
+3596.png,Private,Other non-passerine bird
+3597.png,Private,Flycatcher
+3598.png,Private,Flycatcher
+3599.png,Public,Flycatcher
+3600.png,Public,Tanager
+3601.png,Private,Flycatcher
+3602.png,Public,Nocturnal bird
+3603.png,Private,Flycatcher
+3604.png,Private,Ground bird
+3605.png,Private,Parrot
+3606.png,Public,Bird of prey
+3607.png,Public,Tanager
+3608.png,Public,Flycatcher
+3609.png,Public,Parrot
+3610.png,Private,Water-associated bird
+3611.png,Public,Other non-passerine bird
+3612.png,Private,Bird of prey
+3613.png,Public,Antbird
+3614.png,Private,Bird of prey
+3615.png,Private,Flycatcher
+3616.png,Public,Flycatcher
+3617.png,Public,Parrot
+3618.png,Private,Tanager
+3619.png,Public,Water-associated bird
+3620.png,Private,Flycatcher
+3621.png,Public,Nocturnal bird
+3622.png,Private,Flycatcher
+3623.png,Private,Bird of prey
+3624.png,Private,Other non-passerine bird
+3625.png,Private,Other non-passerine bird
+3626.png,Private,Flycatcher
+3627.png,Public,Water-associated bird
+3628.png,Private,Nocturnal bird
+3629.png,Private,Flycatcher
+3630.png,Private,Nocturnal bird
+3631.png,Private,Nocturnal bird
+3632.png,Public,Antbird
+3633.png,Private,Nocturnal bird
+3634.png,Private,Flycatcher
+3635.png,Private,Water-associated bird
+3636.png,Private,Flycatcher
+3637.png,Private,Flycatcher
+3638.png,Public,Other non-passerine bird
+3639.png,Public,Water-associated bird
+3640.png,Public,Nocturnal bird
+3641.png,Private,Nocturnal bird
+3642.png,Private,Bird of prey
+3643.png,Private,Flycatcher
+3644.png,Private,Tanager
+3645.png,Private,Flycatcher
+3646.png,Private,Water-associated bird
+3647.png,Private,Parrot
+3648.png,Public,Nocturnal bird
+3649.png,Private,Nocturnal bird
+3650.png,Public,Water-associated bird
+3651.png,Public,Flycatcher
+3652.png,Public,Nocturnal bird
+3653.png,Public,Water-associated bird
+3654.png,Private,Parrot
+3655.png,Public,Nocturnal bird
+3656.png,Public,Other non-passerine bird
+3657.png,Public,Nocturnal bird
+3658.png,Public,Bird of prey
+3659.png,Public,Nocturnal bird
+3660.png,Private,Parrot
+3661.png,Private,Flycatcher
+3662.png,Public,Bird of prey
+3663.png,Private,Nocturnal bird
+3664.png,Private,Bird of prey
+3665.png,Private,Flycatcher
+3666.png,Private,Other non-passerine bird
+3667.png,Public,Flycatcher
+3668.png,Public,Tanager
+3669.png,Public,Parrot
+3670.png,Public,Other non-passerine bird
+3671.png,Public,Antbird
+3672.png,Private,Flycatcher
+3673.png,Private,Nocturnal bird
+3674.png,Private,Antbird
+3675.png,Private,Nocturnal bird
+3676.png,Private,Nocturnal bird
+3677.png,Public,Flycatcher
+3678.png,Private,Other non-passerine bird
+3679.png,Private,Bird of prey
+3680.png,Private,Flycatcher
+3681.png,Private,Antbird
+3682.png,Public,Water-associated bird
+3683.png,Private,Other non-passerine bird
+3684.png,Private,Water-associated bird
+3685.png,Private,Bird of prey
+3686.png,Private,Other non-passerine bird
+3687.png,Public,Nocturnal bird
+3688.png,Public,Flycatcher
+3689.png,Public,Nocturnal bird
+3690.png,Private,Nocturnal bird
+3691.png,Private,Bird of prey
+3692.png,Private,Water-associated bird
+3693.png,Public,Other non-passerine bird
+3694.png,Private,Water-associated bird
+3695.png,Public,Tanager
+3696.png,Public,Water-associated bird
+3697.png,Public,Water-associated bird
+3698.png,Public,Parrot
+3699.png,Private,Parrot
+3700.png,Public,Nocturnal bird
+3701.png,Private,Nocturnal bird
+3702.png,Private,Other non-passerine bird
+3703.png,Public,Flycatcher
+3704.png,Public,Water-associated bird
+3705.png,Public,Bird of prey
+3706.png,Private,Parrot
+3707.png,Public,Nocturnal bird
+3708.png,Private,Nocturnal bird
+3709.png,Private,Parrot
+3710.png,Public,Water-associated bird
+3711.png,Private,Other non-passerine bird
+3712.png,Private,Nocturnal bird
+3713.png,Private,Nocturnal bird
+3714.png,Private,Nocturnal bird
+3715.png,Private,Nocturnal bird
+3716.png,Public,Nocturnal bird
+3717.png,Public,Bird of prey
+3718.png,Public,Water-associated bird
+3719.png,Public,Nocturnal bird
+3720.png,Public,Bird of prey
+3721.png,Public,Nocturnal bird
+3722.png,Private,Nocturnal bird
+3723.png,Public,Nocturnal bird
+3724.png,Public,Nocturnal bird
+3725.png,Public,Bird of prey
+3726.png,Private,Bird of prey
+3727.png,Public,Parrot
+3728.png,Private,Flycatcher
+3729.png,Public,Flycatcher
+3730.png,Private,Flycatcher
+3731.png,Public,Water-associated bird
+3732.png,Public,Tanager
+3733.png,Public,Water-associated bird
+3734.png,Public,Flycatcher
+3735.png,Public,Parrot
+3736.png,Public,Water-associated bird
+3737.png,Private,Tanager
+3738.png,Public,Parrot
+3739.png,Public,Flycatcher
+3740.png,Private,Water-associated bird
+3741.png,Private,Nocturnal bird
+3742.png,Public,Water-associated bird
+3743.png,Private,Parrot
+3744.png,Public,Flycatcher
+3745.png,Public,Antbird
+3746.png,Private,Water-associated bird
+3747.png,Private,Antbird
+3748.png,Private,Nocturnal bird
+3749.png,Private,Water-associated bird
+3750.png,Public,Nocturnal bird
+3751.png,Public,Nocturnal bird
+3752.png,Private,Nocturnal bird
+3753.png,Private,Flycatcher
+3754.png,Public,Bird of prey
+3755.png,Private,Nocturnal bird
+3756.png,Public,Water-associated bird
+3757.png,Private,Flycatcher
+3758.png,Public,Other non-passerine bird
+3759.png,Public,Parrot
+3760.png,Public,Parrot
+3761.png,Public,Water-associated bird
+3762.png,Public,Antbird
+3763.png,Private,Ground bird
+3764.png,Private,Nocturnal bird
+3765.png,Public,Tanager
+3766.png,Public,Bird of prey
+3767.png,Private,Flycatcher
+3768.png,Public,Water-associated bird
+3769.png,Public,Water-associated bird
+3770.png,Private,Flycatcher
+3771.png,Public,Flycatcher
+3772.png,Public,Parrot
+3773.png,Private,Nocturnal bird
+3774.png,Private,Nocturnal bird
+3775.png,Private,Nocturnal bird
+3776.png,Private,Nocturnal bird
+3777.png,Private,Nocturnal bird
+3778.png,Private,Nocturnal bird
+3779.png,Private,Nocturnal bird
+3780.png,Private,Nocturnal bird
+3781.png,Public,Water-associated bird
+3782.png,Public,Nocturnal bird
+3783.png,Private,Nocturnal bird
+3784.png,Private,Nocturnal bird
+3785.png,Public,Nocturnal bird
+3786.png,Private,Nocturnal bird
+3787.png,Public,Other non-passerine bird
+3788.png,Public,Other non-passerine bird
+3789.png,Public,Nocturnal bird
+3790.png,Private,Ground bird
+3791.png,Private,Flycatcher
+3792.png,Private,Flycatcher
+3793.png,Private,Flycatcher
+3794.png,Private,Water-associated bird
+3795.png,Public,Flycatcher
+3796.png,Public,Nocturnal bird
+3797.png,Private,Bird of prey
+3798.png,Public,Nocturnal bird
+3799.png,Public,Water-associated bird
+3800.png,Private,Other non-passerine bird
+3801.png,Public,Other non-passerine bird
+3802.png,Private,Water-associated bird
+3803.png,Public,Flycatcher
+3804.png,Public,Water-associated bird
+3805.png,Private,Antbird
+3806.png,Public,Flycatcher
+3807.png,Public,Water-associated bird
+3808.png,Public,Antbird
+3809.png,Private,Nocturnal bird
+3810.png,Public,Antbird
+3811.png,Private,Nocturnal bird
+3812.png,Private,Nocturnal bird
+3813.png,Public,Other non-passerine bird
+3814.png,Public,Flycatcher
+3815.png,Private,Flycatcher
+3816.png,Public,Ground bird
+3817.png,Private,Ground bird
+3818.png,Private,Ground bird
+3819.png,Private,Water-associated bird
+3820.png,Private,Nocturnal bird
+3821.png,Private,Other non-passerine bird
+3822.png,Public,Other non-passerine bird
+3823.png,Private,Water-associated bird
+3824.png,Public,Water-associated bird
+3825.png,Private,Nocturnal bird
+3826.png,Public,Water-associated bird
+3827.png,Public,Bird of prey
+3828.png,Public,Water-associated bird
+3829.png,Public,Water-associated bird
+3830.png,Private,Antbird
+3831.png,Private,Other non-passerine bird
+3832.png,Private,Nocturnal bird
+3833.png,Public,Flycatcher
+3834.png,Public,Bird of prey
+3835.png,Private,Water-associated bird
+3836.png,Public,Water-associated bird
+3837.png,Public,Nocturnal bird
+3838.png,Private,Nocturnal bird
+3839.png,Public,Nocturnal bird
+3840.png,Public,Flycatcher
+3841.png,Public,Flycatcher
+3842.png,Public,Other non-passerine bird
+3843.png,Private,Flycatcher
+3844.png,Public,Tanager
+3845.png,Public,Tanager
+3846.png,Public,Nocturnal bird
+3847.png,Private,Flycatcher
+3848.png,Private,Flycatcher
+3849.png,Private,Other non-passerine bird
+3850.png,Private,Flycatcher
+3851.png,Public,Water-associated bird
+3852.png,Private,Flycatcher
+3853.png,Public,Nocturnal bird
+3854.png,Private,Nocturnal bird
+3855.png,Private,Flycatcher
+3856.png,Private,Tanager
+3857.png,Private,Tanager
+3858.png,Public,Tanager
+3859.png,Public,Nocturnal bird
+3860.png,Public,Nocturnal bird
+3861.png,Public,Parrot
+3862.png,Private,Nocturnal bird
+3863.png,Public,Bird of prey
+3864.png,Private,Bird of prey
+3865.png,Public,Other non-passerine bird
+3866.png,Private,Water-associated bird
+3867.png,Public,Flycatcher
+3868.png,Public,Other non-passerine bird
+3869.png,Public,Other non-passerine bird
+3870.png,Private,Antbird
+3871.png,Private,Nocturnal bird
+3872.png,Private,Nocturnal bird
+3873.png,Private,Flycatcher
+3874.png,Private,Water-associated bird
+3875.png,Public,Parrot
+3876.png,Public,Nocturnal bird
+3877.png,Private,Nocturnal bird
+3878.png,Private,Flycatcher
+3879.png,Private,Bird of prey
+3880.png,Private,Flycatcher
+3881.png,Private,Parrot
+3882.png,Public,Parrot
+3883.png,Public,Flycatcher
+3884.png,Public,Other non-passerine bird
+3885.png,Private,Tanager
+3886.png,Private,Other non-passerine bird
+3887.png,Private,Flycatcher
+3888.png,Private,Other non-passerine bird
+3889.png,Public,Water-associated bird
+3890.png,Private,Water-associated bird
+3891.png,Public,Parrot
+3892.png,Public,Antbird
+3893.png,Private,Tanager
+3894.png,Private,Water-associated bird
+3895.png,Private,Flycatcher
+3896.png,Private,Flycatcher
+3897.png,Public,Water-associated bird
+3898.png,Private,Flycatcher
+3899.png,Private,Other non-passerine bird
+3900.png,Private,Antbird
+3901.png,Public,Nocturnal bird
+3902.png,Private,Tanager
+3903.png,Public,Tanager
+3904.png,Public,Water-associated bird
+3905.png,Private,Water-associated bird
+3906.png,Private,Nocturnal bird
+3907.png,Public,Water-associated bird
+3908.png,Private,Water-associated bird
+3909.png,Private,Flycatcher
+3910.png,Public,Tanager
+3911.png,Private,Bird of prey
+3912.png,Private,Other non-passerine bird
+3913.png,Public,Other non-passerine bird
+3914.png,Public,Water-associated bird
+3915.png,Public,Bird of prey
+3916.png,Public,Flycatcher
+3917.png,Public,Other non-passerine bird
+3918.png,Public,Other non-passerine bird
+3919.png,Private,Parrot
+3920.png,Public,Water-associated bird
+3921.png,Public,Antbird
+3922.png,Private,Flycatcher
+3923.png,Public,Antbird
+3924.png,Private,Nocturnal bird
+3925.png,Private,Tanager
+3926.png,Private,Bird of prey
+3927.png,Private,Parrot
+3928.png,Public,Flycatcher
+3929.png,Public,Flycatcher
+3930.png,Public,Ground bird
+3931.png,Private,Tanager
+3932.png,Private,Flycatcher
+3933.png,Private,Tanager
+3934.png,Private,Tanager
+3935.png,Private,Ground bird
+3936.png,Public,Nocturnal bird
+3937.png,Private,Nocturnal bird
+3938.png,Public,Parrot
+3939.png,Public,Flycatcher
+3940.png,Public,Flycatcher
+3941.png,Private,Bird of prey
+3942.png,Public,Flycatcher
+3943.png,Private,Water-associated bird
+3944.png,Private,Water-associated bird
+3945.png,Public,Ground bird
+3946.png,Public,Flycatcher
+3947.png,Public,Other non-passerine bird
+3948.png,Private,Flycatcher
+3949.png,Public,Other non-passerine bird
+3950.png,Public,Other non-passerine bird
+3951.png,Private,Other non-passerine bird
+3952.png,Private,Nocturnal bird
+3953.png,Private,Flycatcher
+3954.png,Private,Flycatcher
+3955.png,Private,Nocturnal bird
+3956.png,Public,Tanager
+3957.png,Public,Water-associated bird
+3958.png,Public,Nocturnal bird
+3959.png,Private,Water-associated bird
+3960.png,Public,Flycatcher
+3961.png,Public,Flycatcher
+3962.png,Public,Water-associated bird
+3963.png,Private,Parrot
+3964.png,Public,Water-associated bird
+3965.png,Public,Other non-passerine bird
+3966.png,Private,Water-associated bird
+3967.png,Public,Bird of prey
+3968.png,Private,Flycatcher
+3969.png,Public,Other non-passerine bird
+3970.png,Private,Antbird
+3971.png,Public,Other non-passerine bird
+3972.png,Public,Other non-passerine bird
+3973.png,Public,Flycatcher
+3974.png,Private,Bird of prey
+3975.png,Public,Flycatcher
+3976.png,Private,Flycatcher
+3977.png,Public,Flycatcher
+3978.png,Private,Flycatcher
+3979.png,Public,Antbird
+3980.png,Private,Nocturnal bird
+3981.png,Public,Other non-passerine bird
+3982.png,Public,Nocturnal bird
+3983.png,Public,Ground bird
+3984.png,Public,Flycatcher
+3985.png,Public,Water-associated bird
+3986.png,Private,Nocturnal bird
+3987.png,Public,Ground bird
+3988.png,Public,Parrot
+3989.png,Private,Parrot
+3990.png,Private,Water-associated bird
+3991.png,Private,Water-associated bird
+3992.png,Private,Flycatcher
+3993.png,Public,Other non-passerine bird
+3994.png,Private,Flycatcher
+3995.png,Public,Antbird
+3996.png,Public,Water-associated bird
+3997.png,Public,Flycatcher
+3998.png,Public,Parrot
+3999.png,Private,Nocturnal bird
+4000.png,Private,Bird of prey
+4001.png,Private,Bird of prey
+4002.png,Private,Ground bird
+4003.png,Public,Nocturnal bird
+4004.png,Public,Water-associated bird
+4005.png,Private,Bird of prey
+4006.png,Public,Flycatcher
+4007.png,Private,Nocturnal bird
+4008.png,Public,Ground bird
+4009.png,Private,Ground bird
+4010.png,Public,Bird of prey
+4011.png,Public,Water-associated bird
+4012.png,Private,Bird of prey
+4013.png,Public,Other non-passerine bird
+4014.png,Private,Water-associated bird
+4015.png,Private,Antbird
+4016.png,Public,Flycatcher
+4017.png,Private,Antbird
+4018.png,Private,Ground bird
+4019.png,Public,Flycatcher
+4020.png,Private,Water-associated bird
+4021.png,Public,Flycatcher
+4022.png,Public,Water-associated bird
+4023.png,Private,Nocturnal bird
+4024.png,Public,Flycatcher
+4025.png,Private,Nocturnal bird
+4026.png,Public,Flycatcher
+4027.png,Private,Bird of prey
+4028.png,Private,Other non-passerine bird
+4029.png,Private,Flycatcher
+4030.png,Private,Flycatcher
+4031.png,Private,Bird of prey
+4032.png,Public,Flycatcher
+4033.png,Public,Other non-passerine bird
+4034.png,Private,Water-associated bird
+4035.png,Public,Flycatcher
+4036.png,Private,Flycatcher
+4037.png,Private,Flycatcher
+4038.png,Private,Ground bird
+4039.png,Private,Water-associated bird
+4040.png,Public,Other non-passerine bird
+4041.png,Private,Water-associated bird
+4042.png,Private,Nocturnal bird
+4043.png,Public,Nocturnal bird
+4044.png,Private,Nocturnal bird
+4045.png,Public,Nocturnal bird
+4046.png,Public,Flycatcher
+4047.png,Public,Flycatcher
+4048.png,Public,Tanager
+4049.png,Public,Bird of prey
+4050.png,Public,Ground bird
+4051.png,Private,Nocturnal bird
+4052.png,Private,Water-associated bird
+4053.png,Public,Nocturnal bird
+4054.png,Public,Flycatcher
+4055.png,Public,Flycatcher
+4056.png,Private,Antbird
+4057.png,Private,Parrot
+4058.png,Private,Water-associated bird
+4059.png,Public,Water-associated bird
+4060.png,Public,Tanager
+4061.png,Private,Nocturnal bird
+4062.png,Private,Tanager
+4063.png,Public,Other non-passerine bird
+4064.png,Public,Antbird
+4065.png,Private,Water-associated bird
+4066.png,Public,Nocturnal bird
+4067.png,Public,Water-associated bird
+4068.png,Private,Other non-passerine bird
+4069.png,Private,Water-associated bird
+4070.png,Private,Flycatcher
+4071.png,Private,Flycatcher
+4072.png,Private,Other non-passerine bird
+4073.png,Public,Tanager
+4074.png,Public,Flycatcher
+4075.png,Public,Other non-passerine bird
+4076.png,Public,Other non-passerine bird
+4077.png,Private,Tanager
+4078.png,Private,Other non-passerine bird
+4079.png,Private,Other non-passerine bird
+4080.png,Private,Water-associated bird
+4081.png,Public,Flycatcher
+4082.png,Private,Parrot
+4083.png,Public,Other non-passerine bird
+4084.png,Private,Flycatcher
+4085.png,Private,Parrot
+4086.png,Private,Nocturnal bird
+4087.png,Private,Antbird
+4088.png,Public,Water-associated bird
+4089.png,Public,Water-associated bird
+4090.png,Public,Bird of prey
+4091.png,Private,Nocturnal bird
+4092.png,Private,Nocturnal bird
+4093.png,Private,Nocturnal bird
+4094.png,Private,Other non-passerine bird
+4095.png,Private,Other non-passerine bird
+4096.png,Private,Other non-passerine bird
+4097.png,Private,Tanager
+4098.png,Public,Other non-passerine bird
+4099.png,Private,Tanager
+4100.png,Public,Antbird
+4101.png,Public,Nocturnal bird
+4102.png,Private,Parrot
+4103.png,Private,Other non-passerine bird
+4104.png,Public,Water-associated bird
+4105.png,Private,Flycatcher
+4106.png,Private,Antbird
+4107.png,Public,Parrot
+4108.png,Private,Water-associated bird
+4109.png,Private,Flycatcher
+4110.png,Public,Tanager
+4111.png,Private,Tanager
+4112.png,Public,Nocturnal bird
+4113.png,Public,Flycatcher
+4114.png,Public,Other non-passerine bird
+4115.png,Public,Other non-passerine bird
+4116.png,Public,Parrot
+4117.png,Public,Other non-passerine bird
+4118.png,Private,Flycatcher
+4119.png,Public,Tanager
+4120.png,Private,Water-associated bird
+4121.png,Private,Bird of prey
+4122.png,Private,Antbird
+4123.png,Private,Nocturnal bird
+4124.png,Private,Nocturnal bird
+4125.png,Public,Flycatcher
+4126.png,Private,Antbird
+4127.png,Public,Flycatcher
+4128.png,Private,Bird of prey
+4129.png,Private,Other non-passerine bird
+4130.png,Private,Water-associated bird
+4131.png,Public,Flycatcher
+4132.png,Public,Water-associated bird
+4133.png,Private,Other non-passerine bird
+4134.png,Public,Water-associated bird
+4135.png,Private,Flycatcher
+4136.png,Private,Tanager
+4137.png,Private,Nocturnal bird
+4138.png,Private,Water-associated bird
+4139.png,Public,Water-associated bird
+4140.png,Public,Bird of prey
+4141.png,Public,Other non-passerine bird
+4142.png,Private,Bird of prey
+4143.png,Public,Water-associated bird
+4144.png,Public,Flycatcher
+4145.png,Public,Parrot
+4146.png,Public,Flycatcher
+4147.png,Private,Tanager
+4148.png,Public,Tanager
+4149.png,Private,Other non-passerine bird
+4150.png,Private,Water-associated bird
+4151.png,Public,Nocturnal bird
+4152.png,Public,Other non-passerine bird
+4153.png,Private,Antbird
+4154.png,Public,Flycatcher
+4155.png,Public,Bird of prey
+4156.png,Private,Nocturnal bird
+4157.png,Public,Flycatcher
+4158.png,Public,Tanager
+4159.png,Public,Other non-passerine bird
+4160.png,Public,Antbird
+4161.png,Public,Flycatcher
+4162.png,Private,Bird of prey
+4163.png,Private,Bird of prey
+4164.png,Private,Nocturnal bird
+4165.png,Public,Other non-passerine bird
+4166.png,Private,Antbird
+4167.png,Private,Other non-passerine bird
+4168.png,Public,Other non-passerine bird
+4169.png,Private,Flycatcher
+4170.png,Private,Flycatcher
+4171.png,Public,Bird of prey
+4172.png,Public,Water-associated bird
+4173.png,Private,Bird of prey
+4174.png,Private,Other non-passerine bird
+4175.png,Public,Ground bird
+4176.png,Public,Tanager
+4177.png,Public,Tanager
+4178.png,Private,Flycatcher
+4179.png,Private,Flycatcher
+4180.png,Private,Flycatcher
+4181.png,Private,Other non-passerine bird
+4182.png,Private,Parrot
+4183.png,Private,Flycatcher
+4184.png,Public,Nocturnal bird
+4185.png,Public,Nocturnal bird
+4186.png,Public,Water-associated bird
+4187.png,Private,Flycatcher
+4188.png,Private,Water-associated bird
+4189.png,Private,Bird of prey
+4190.png,Public,Flycatcher
+4191.png,Private,Water-associated bird
+4192.png,Private,Nocturnal bird
+4193.png,Private,Water-associated bird
+4194.png,Public,Bird of prey
+4195.png,Public,Flycatcher
+4196.png,Public,Flycatcher
+4197.png,Public,Parrot
+4198.png,Private,Nocturnal bird
+4199.png,Private,Nocturnal bird
+4200.png,Public,Tanager
+4201.png,Private,Water-associated bird
+4202.png,Private,Flycatcher
+4203.png,Public,Tanager
+4204.png,Private,Bird of prey
+4205.png,Private,Nocturnal bird
+4206.png,Private,Bird of prey
+4207.png,Private,Bird of prey
+4208.png,Private,Water-associated bird
+4209.png,Private,Other non-passerine bird
+4210.png,Private,Nocturnal bird
+4211.png,Public,Other non-passerine bird
+4212.png,Public,Other non-passerine bird
+4213.png,Public,Bird of prey
+4214.png,Private,Flycatcher
+4215.png,Public,Bird of prey
+4216.png,Private,Other non-passerine bird
+4217.png,Private,Water-associated bird
+4218.png,Private,Tanager
+4219.png,Public,Bird of prey
+4220.png,Public,Water-associated bird
+4221.png,Public,Flycatcher
+4222.png,Private,Water-associated bird
+4223.png,Private,Bird of prey
+4224.png,Public,Nocturnal bird
+4225.png,Public,Flycatcher
+4226.png,Public,Other non-passerine bird
+4227.png,Private,Flycatcher
+4228.png,Private,Water-associated bird
+4229.png,Public,Water-associated bird
+4230.png,Private,Water-associated bird
+4231.png,Public,Bird of prey
+4232.png,Private,Nocturnal bird
+4233.png,Private,Parrot
+4234.png,Private,Flycatcher
+4235.png,Public,Water-associated bird
+4236.png,Private,Flycatcher
+4237.png,Private,Bird of prey
+4238.png,Public,Nocturnal bird
+4239.png,Public,Nocturnal bird
+4240.png,Public,Bird of prey
+4241.png,Public,Bird of prey
+4242.png,Private,Other non-passerine bird
+4243.png,Public,Other non-passerine bird
+4244.png,Public,Nocturnal bird
+4245.png,Private,Nocturnal bird
+4246.png,Public,Parrot
+4247.png,Private,Nocturnal bird
+4248.png,Public,Other non-passerine bird
+4249.png,Public,Bird of prey
+4250.png,Public,Flycatcher
+4251.png,Public,Parrot
+4252.png,Public,Antbird
+4253.png,Public,Nocturnal bird
+4254.png,Public,Bird of prey
+4255.png,Public,Antbird
+4256.png,Private,Parrot
+4257.png,Private,Flycatcher
+4258.png,Public,Tanager
+4259.png,Public,Nocturnal bird
+4260.png,Private,Antbird
+4261.png,Public,Nocturnal bird
+4262.png,Public,Bird of prey
+4263.png,Public,Nocturnal bird
+4264.png,Private,Other non-passerine bird
+4265.png,Private,Other non-passerine bird
+4266.png,Public,Nocturnal bird
+4267.png,Private,Other non-passerine bird
+4268.png,Public,Flycatcher
+4269.png,Public,Other non-passerine bird
+4270.png,Public,Nocturnal bird
+4271.png,Private,Other non-passerine bird
+4272.png,Public,Nocturnal bird
+4273.png,Private,Bird of prey
+4274.png,Public,Water-associated bird
+4275.png,Private,Water-associated bird
+4276.png,Private,Water-associated bird
+4277.png,Private,Tanager
+4278.png,Private,Flycatcher
+4279.png,Public,Bird of prey
+4280.png,Public,Nocturnal bird
+4281.png,Public,Flycatcher
+4282.png,Public,Flycatcher
+4283.png,Private,Antbird
+4284.png,Public,Parrot
+4285.png,Private,Flycatcher
+4286.png,Public,Antbird
+4287.png,Private,Bird of prey
+4288.png,Private,Bird of prey
+4289.png,Public,Flycatcher
+4290.png,Private,Bird of prey
+4291.png,Public,Bird of prey
+4292.png,Private,Nocturnal bird
+4293.png,Private,Nocturnal bird
+4294.png,Private,Bird of prey
+4295.png,Private,Nocturnal bird
+4296.png,Private,Flycatcher
+4297.png,Private,Parrot
+4298.png,Private,Nocturnal bird
+4299.png,Private,Nocturnal bird
+4300.png,Public,Tanager
+4301.png,Private,Tanager
+4302.png,Private,Nocturnal bird
+4303.png,Private,Nocturnal bird
+4304.png,Private,Flycatcher
+4305.png,Private,Water-associated bird
+4306.png,Private,Other non-passerine bird
+4307.png,Public,Tanager
+4308.png,Public,Nocturnal bird
+4309.png,Private,Ground bird
+4310.png,Private,Nocturnal bird
+4311.png,Private,Flycatcher
+4312.png,Public,Water-associated bird
+4313.png,Public,Tanager
+4314.png,Private,Other non-passerine bird
+4315.png,Public,Other non-passerine bird
+4316.png,Private,Ground bird
+4317.png,Public,Flycatcher
+4318.png,Private,Other non-passerine bird
+4319.png,Private,Nocturnal bird
+4320.png,Private,Nocturnal bird
+4321.png,Private,Flycatcher
+4322.png,Private,Flycatcher
+4323.png,Private,Other non-passerine bird
+4324.png,Public,Parrot
+4325.png,Public,Water-associated bird
+4326.png,Private,Nocturnal bird
+4327.png,Private,Nocturnal bird
+4328.png,Public,Flycatcher
+4329.png,Private,Other non-passerine bird
+4330.png,Public,Flycatcher
+4331.png,Public,Nocturnal bird
+4332.png,Public,Other non-passerine bird
+4333.png,Public,Other non-passerine bird
+4334.png,Private,Flycatcher
+4335.png,Public,Antbird
+4336.png,Public,Flycatcher
+4337.png,Private,Nocturnal bird
+4338.png,Private,Nocturnal bird
+4339.png,Private,Nocturnal bird
+4340.png,Private,Nocturnal bird
+4341.png,Private,Bird of prey
+4342.png,Private,Other non-passerine bird
+4343.png,Private,Bird of prey
+4344.png,Public,Bird of prey
+4345.png,Private,Water-associated bird
+4346.png,Public,Nocturnal bird
+4347.png,Private,Flycatcher
+4348.png,Private,Tanager
+4349.png,Private,Flycatcher
+4350.png,Private,Other non-passerine bird
+4351.png,Public,Nocturnal bird
+4352.png,Private,Flycatcher
+4353.png,Private,Tanager
+4354.png,Public,Tanager
+4355.png,Private,Other non-passerine bird
+4356.png,Private,Tanager
+4357.png,Private,Other non-passerine bird
+4358.png,Private,Water-associated bird
+4359.png,Public,Water-associated bird
+4360.png,Private,Flycatcher
+4361.png,Private,Flycatcher
+4362.png,Private,Nocturnal bird
+4363.png,Private,Flycatcher
+4364.png,Public,Flycatcher
+4365.png,Private,Tanager
+4366.png,Private,Water-associated bird
+4367.png,Private,Water-associated bird
+4368.png,Public,Flycatcher
+4369.png,Private,Tanager
+4370.png,Private,Water-associated bird
+4371.png,Public,Nocturnal bird
+4372.png,Public,Other non-passerine bird
+4373.png,Public,Water-associated bird
+4374.png,Private,Flycatcher
+4375.png,Private,Other non-passerine bird
+4376.png,Public,Flycatcher
+4377.png,Public,Tanager
+4378.png,Public,Other non-passerine bird
+4379.png,Public,Bird of prey
+4380.png,Public,Bird of prey
+4381.png,Public,Tanager
+4382.png,Public,Other non-passerine bird
+4383.png,Public,Nocturnal bird
+4384.png,Private,Flycatcher
+4385.png,Public,Nocturnal bird
+4386.png,Public,Bird of prey
+4387.png,Private,Flycatcher
+4388.png,Private,Flycatcher
+4389.png,Private,Nocturnal bird
+4390.png,Private,Flycatcher
+4391.png,Private,Flycatcher
+4392.png,Private,Other non-passerine bird
+4393.png,Public,Nocturnal bird
+4394.png,Public,Flycatcher
+4395.png,Private,Other non-passerine bird
+4396.png,Public,Flycatcher
+4397.png,Public,Other non-passerine bird
+4398.png,Public,Nocturnal bird
+4399.png,Private,Water-associated bird
+4400.png,Public,Other non-passerine bird
+4401.png,Private,Flycatcher
+4402.png,Public,Parrot
+4403.png,Public,Bird of prey
+4404.png,Public,Bird of prey
+4405.png,Public,Parrot
+4406.png,Private,Flycatcher
+4407.png,Private,Parrot
+4408.png,Private,Nocturnal bird
+4409.png,Private,Antbird
+4410.png,Public,Flycatcher
+4411.png,Private,Flycatcher
+4412.png,Private,Nocturnal bird
+4413.png,Public,Bird of prey
+4414.png,Private,Flycatcher
+4415.png,Private,Nocturnal bird
+4416.png,Public,Nocturnal bird
+4417.png,Public,Flycatcher
+4418.png,Public,Bird of prey
+4419.png,Private,Bird of prey
+4420.png,Private,Bird of prey
+4421.png,Public,Parrot
+4422.png,Private,Flycatcher
+4423.png,Public,Flycatcher
+4424.png,Private,Other non-passerine bird
+4425.png,Private,Nocturnal bird
+4426.png,Public,Tanager
+4427.png,Private,Flycatcher
+4428.png,Public,Flycatcher
+4429.png,Private,Flycatcher
+4430.png,Private,Parrot
+4431.png,Public,Nocturnal bird
+4432.png,Private,Bird of prey
+4433.png,Private,Water-associated bird
+4434.png,Private,Bird of prey
+4435.png,Private,Water-associated bird
+4436.png,Public,Nocturnal bird
+4437.png,Private,Water-associated bird
+4438.png,Public,Water-associated bird
+4439.png,Private,Other non-passerine bird
+4440.png,Public,Bird of prey
+4441.png,Private,Bird of prey
+4442.png,Public,Tanager
+4443.png,Private,Flycatcher
+4444.png,Private,Other non-passerine bird
+4445.png,Private,Antbird
+4446.png,Public,Tanager
+4447.png,Public,Bird of prey
+4448.png,Private,Ground bird
+4449.png,Public,Other non-passerine bird
+4450.png,Private,Bird of prey
+4451.png,Public,Water-associated bird
+4452.png,Public,Water-associated bird
+4453.png,Private,Nocturnal bird
+4454.png,Private,Nocturnal bird
+4455.png,Public,Other non-passerine bird
+4456.png,Public,Other non-passerine bird
+4457.png,Public,Other non-passerine bird
+4458.png,Private,Nocturnal bird
+4459.png,Public,Nocturnal bird
+4460.png,Private,Ground bird
+4461.png,Public,Other non-passerine bird
+4462.png,Private,Antbird
+4463.png,Private,Flycatcher
+4464.png,Private,Antbird
+4465.png,Private,Water-associated bird
+4466.png,Private,Antbird
+4467.png,Private,Nocturnal bird
+4468.png,Private,Nocturnal bird
+4469.png,Public,Other non-passerine bird
+4470.png,Public,Tanager
+4471.png,Public,Parrot
+4472.png,Private,Flycatcher
+4473.png,Private,Other non-passerine bird
+4474.png,Public,Other non-passerine bird
+4475.png,Public,Nocturnal bird
+4476.png,Public,Parrot
+4477.png,Public,Water-associated bird
+4478.png,Private,Flycatcher
+4479.png,Public,Water-associated bird
+4480.png,Public,Parrot
+4481.png,Public,Water-associated bird
+4482.png,Public,Water-associated bird
+4483.png,Private,Antbird
+4484.png,Public,Water-associated bird
+4485.png,Public,Antbird
+4486.png,Public,Water-associated bird
+4487.png,Private,Water-associated bird
+4488.png,Public,Flycatcher
+4489.png,Private,Nocturnal bird
+4490.png,Public,Other non-passerine bird
+4491.png,Private,Water-associated bird
+4492.png,Public,Other non-passerine bird
+4493.png,Private,Nocturnal bird
+4494.png,Private,Other non-passerine bird
+4495.png,Public,Bird of prey
+4496.png,Private,Flycatcher
+4497.png,Private,Water-associated bird
+4498.png,Public,Water-associated bird
+4499.png,Private,Water-associated bird
+4500.png,Private,Bird of prey
+4501.png,Public,Other non-passerine bird
+4502.png,Public,Tanager
+4503.png,Private,Flycatcher
+4504.png,Private,Antbird
+4505.png,Public,Other non-passerine bird
+4506.png,Private,Antbird
+4507.png,Private,Flycatcher
+4508.png,Public,Flycatcher
+4509.png,Private,Flycatcher
+4510.png,Public,Water-associated bird
+4511.png,Private,Water-associated bird
+4512.png,Private,Flycatcher
+4513.png,Private,Nocturnal bird
+4514.png,Public,Water-associated bird
+4515.png,Public,Flycatcher
+4516.png,Private,Tanager
+4517.png,Private,Flycatcher
+4518.png,Public,Flycatcher
+4519.png,Private,Antbird
+4520.png,Public,Nocturnal bird
+4521.png,Private,Flycatcher
+4522.png,Public,Antbird
+4523.png,Public,Flycatcher
+4524.png,Public,Nocturnal bird
+4525.png,Public,Nocturnal bird
+4526.png,Public,Bird of prey
+4527.png,Private,Water-associated bird
+4528.png,Public,Flycatcher
+4529.png,Private,Tanager
+4530.png,Private,Water-associated bird
+4531.png,Public,Flycatcher
+4532.png,Private,Water-associated bird
+4533.png,Public,Nocturnal bird
+4534.png,Private,Bird of prey
+4535.png,Public,Water-associated bird
+4536.png,Public,Water-associated bird
+4537.png,Public,Flycatcher
+4538.png,Public,Nocturnal bird
+4539.png,Private,Bird of prey
+4540.png,Public,Flycatcher
+4541.png,Private,Bird of prey
+4542.png,Public,Water-associated bird
+4543.png,Public,Water-associated bird
+4544.png,Public,Other non-passerine bird
+4545.png,Public,Bird of prey
+4546.png,Public,Nocturnal bird
+4547.png,Public,Nocturnal bird
+4548.png,Public,Parrot
+4549.png,Private,Water-associated bird
+4550.png,Public,Nocturnal bird
+4551.png,Public,Other non-passerine bird
+4552.png,Public,Other non-passerine bird
+4553.png,Private,Water-associated bird
+4554.png,Private,Nocturnal bird
+4555.png,Public,Nocturnal bird
+4556.png,Private,Flycatcher
+4557.png,Private,Flycatcher
+4558.png,Public,Nocturnal bird
+4559.png,Public,Bird of prey
+4560.png,Public,Antbird
+4561.png,Public,Water-associated bird
+4562.png,Public,Nocturnal bird
+4563.png,Private,Bird of prey
+4564.png,Private,Antbird
+4565.png,Public,Nocturnal bird
+4566.png,Public,Nocturnal bird
+4567.png,Private,Nocturnal bird
+4568.png,Private,Antbird
+4569.png,Private,Water-associated bird
+4570.png,Public,Other non-passerine bird
+4571.png,Public,Parrot
+4572.png,Public,Parrot
+4573.png,Public,Other non-passerine bird
+4574.png,Public,Flycatcher
+4575.png,Public,Flycatcher
+4576.png,Private,Water-associated bird
+4577.png,Public,Water-associated bird
+4578.png,Private,Flycatcher
+4579.png,Private,Tanager
+4580.png,Public,Tanager
+4581.png,Public,Nocturnal bird
+4582.png,Private,Parrot
+4583.png,Public,Tanager
+4584.png,Private,Tanager
+4585.png,Private,Nocturnal bird
+4586.png,Public,Antbird
+4587.png,Private,Flycatcher
+4588.png,Private,Bird of prey
+4589.png,Private,Flycatcher
+4590.png,Private,Tanager
+4591.png,Public,Nocturnal bird
+4592.png,Private,Other non-passerine bird
+4593.png,Public,Bird of prey
+4594.png,Private,Water-associated bird
+4595.png,Public,Tanager
+4596.png,Private,Flycatcher
+4597.png,Public,Antbird
+4598.png,Private,Other non-passerine bird
+4599.png,Public,Bird of prey
+4600.png,Private,Bird of prey
+4601.png,Public,Nocturnal bird
+4602.png,Public,Nocturnal bird
+4603.png,Private,Nocturnal bird
+4604.png,Private,Antbird
+4605.png,Public,Flycatcher
+4606.png,Private,Other non-passerine bird
+4607.png,Private,Flycatcher
+4608.png,Public,Tanager
+4609.png,Private,Tanager
+4610.png,Private,Other non-passerine bird
+4611.png,Public,Other non-passerine bird
+4612.png,Private,Nocturnal bird
+4613.png,Public,Other non-passerine bird
+4614.png,Public,Nocturnal bird
+4615.png,Public,Flycatcher
+4616.png,Public,Flycatcher
+4617.png,Private,Tanager
+4618.png,Private,Flycatcher
+4619.png,Public,Other non-passerine bird
+4620.png,Private,Nocturnal bird
+4621.png,Private,Bird of prey
+4622.png,Private,Parrot
+4623.png,Private,Flycatcher
+4624.png,Private,Tanager
+4625.png,Private,Bird of prey
+4626.png,Private,Other non-passerine bird
+4627.png,Public,Nocturnal bird
+4628.png,Private,Nocturnal bird
+4629.png,Public,Other non-passerine bird
+4630.png,Private,Nocturnal bird
+4631.png,Private,Bird of prey
+4632.png,Private,Flycatcher
+4633.png,Public,Nocturnal bird
+4634.png,Private,Water-associated bird
+4635.png,Public,Other non-passerine bird
+4636.png,Public,Nocturnal bird
+4637.png,Private,Flycatcher
+4638.png,Private,Nocturnal bird
+4639.png,Private,Flycatcher
+4640.png,Public,Flycatcher
+4641.png,Private,Water-associated bird
+4642.png,Private,Nocturnal bird
+4643.png,Private,Flycatcher
+4644.png,Private,Water-associated bird
+4645.png,Private,Nocturnal bird
+4646.png,Public,Nocturnal bird
+4647.png,Public,Other non-passerine bird
+4648.png,Private,Antbird
+4649.png,Public,Water-associated bird
+4650.png,Public,Nocturnal bird
+4651.png,Public,Flycatcher
+4652.png,Private,Tanager
+4653.png,Public,Nocturnal bird
+4654.png,Private,Nocturnal bird
+4655.png,Public,Antbird
+4656.png,Private,Antbird
+4657.png,Public,Other non-passerine bird
+4658.png,Public,Nocturnal bird
+4659.png,Public,Nocturnal bird
+4660.png,Public,Antbird
+4661.png,Public,Antbird
+4662.png,Private,Parrot
+4663.png,Public,Nocturnal bird
+4664.png,Public,Other non-passerine bird
+4665.png,Private,Tanager
+4666.png,Private,Bird of prey
+4667.png,Public,Flycatcher
+4668.png,Public,Nocturnal bird
+4669.png,Private,Water-associated bird
+4670.png,Private,Flycatcher
+4671.png,Public,Nocturnal bird
+4672.png,Private,Nocturnal bird
+4673.png,Public,Nocturnal bird
+4674.png,Private,Nocturnal bird
+4675.png,Private,Flycatcher
+4676.png,Private,Nocturnal bird
+4677.png,Public,Other non-passerine bird
+4678.png,Private,Other non-passerine bird
+4679.png,Public,Flycatcher
+4680.png,Private,Bird of prey
+4681.png,Public,Flycatcher
+4682.png,Public,Water-associated bird
+4683.png,Public,Other non-passerine bird
+4684.png,Public,Nocturnal bird
+4685.png,Public,Flycatcher
+4686.png,Private,Bird of prey
+4687.png,Private,Flycatcher
+4688.png,Private,Flycatcher
+4689.png,Public,Bird of prey
+4690.png,Public,Flycatcher
+4691.png,Public,Other non-passerine bird
+4692.png,Private,Tanager
+4693.png,Public,Other non-passerine bird
+4694.png,Public,Bird of prey
+4695.png,Public,Water-associated bird
+4696.png,Public,Bird of prey
+4697.png,Public,Flycatcher
+4698.png,Public,Water-associated bird
+4699.png,Private,Bird of prey
+4700.png,Private,Nocturnal bird
+4701.png,Private,Water-associated bird
+4702.png,Private,Nocturnal bird
+4703.png,Public,Nocturnal bird
+4704.png,Public,Ground bird
+4705.png,Private,Water-associated bird
+4706.png,Private,Water-associated bird
+4707.png,Public,Nocturnal bird
+4708.png,Public,Flycatcher
+4709.png,Public,Water-associated bird
+4710.png,Public,Water-associated bird
+4711.png,Public,Other non-passerine bird
+4712.png,Public,Flycatcher
+4713.png,Public,Flycatcher
+4714.png,Public,Other non-passerine bird
+4715.png,Public,Flycatcher
+4716.png,Private,Tanager
+4717.png,Public,Other non-passerine bird
+4718.png,Public,Other non-passerine bird
+4719.png,Private,Flycatcher
+4720.png,Public,Bird of prey
+4721.png,Private,Other non-passerine bird
+4722.png,Private,Other non-passerine bird
+4723.png,Private,Other non-passerine bird
+4724.png,Private,Flycatcher
+4725.png,Private,Bird of prey
+4726.png,Public,Flycatcher
+4727.png,Private,Flycatcher
+4728.png,Private,Parrot
+4729.png,Public,Other non-passerine bird
+4730.png,Public,Flycatcher
+4731.png,Public,Tanager
+4732.png,Private,Ground bird
+4733.png,Public,Other non-passerine bird
+4734.png,Private,Bird of prey
+4735.png,Public,Parrot
+4736.png,Public,Nocturnal bird
+4737.png,Private,Water-associated bird
+4738.png,Public,Nocturnal bird
+4739.png,Private,Bird of prey
+4740.png,Public,Antbird
+4741.png,Private,Other non-passerine bird
+4742.png,Public,Water-associated bird
+4743.png,Private,Nocturnal bird
+4744.png,Public,Other non-passerine bird
+4745.png,Public,Other non-passerine bird
+4746.png,Public,Water-associated bird
+4747.png,Private,Flycatcher
+4748.png,Public,Bird of prey
+4749.png,Private,Other non-passerine bird
+4750.png,Private,Flycatcher
+4751.png,Public,Parrot
+4752.png,Public,Flycatcher
+4753.png,Public,Other non-passerine bird
+4754.png,Public,Other non-passerine bird
+4755.png,Private,Water-associated bird
+4756.png,Private,Other non-passerine bird
+4757.png,Private,Water-associated bird
+4758.png,Public,Flycatcher
+4759.png,Public,Other non-passerine bird
+4760.png,Public,Antbird
+4761.png,Public,Bird of prey
+4762.png,Private,Bird of prey
+4763.png,Private,Nocturnal bird
+4764.png,Public,Water-associated bird
+4765.png,Public,Nocturnal bird
+4766.png,Private,Flycatcher
+4767.png,Public,Flycatcher
+4768.png,Public,Water-associated bird
+4769.png,Private,Other non-passerine bird
+4770.png,Public,Ground bird
+4771.png,Private,Nocturnal bird
+4772.png,Public,Bird of prey
+4773.png,Public,Flycatcher
+4774.png,Private,Flycatcher
+4775.png,Public,Flycatcher
+4776.png,Private,Other non-passerine bird
+4777.png,Private,Antbird
+4778.png,Public,Tanager
+4779.png,Public,Water-associated bird
+4780.png,Private,Flycatcher
+4781.png,Private,Other non-passerine bird
+4782.png,Public,Parrot
+4783.png,Private,Nocturnal bird
+4784.png,Private,Other non-passerine bird
+4785.png,Private,Flycatcher
+4786.png,Public,Nocturnal bird
+4787.png,Public,Nocturnal bird
+4788.png,Public,Other non-passerine bird
+4789.png,Public,Water-associated bird
+4790.png,Public,Flycatcher
+4791.png,Private,Bird of prey
+4792.png,Public,Flycatcher
+4793.png,Public,Parrot
+4794.png,Public,Flycatcher
+4795.png,Private,Flycatcher
+4796.png,Public,Flycatcher
+4797.png,Public,Bird of prey
+4798.png,Private,Bird of prey
+4799.png,Public,Flycatcher
+4800.png,Private,Other non-passerine bird
+4801.png,Public,Water-associated bird
+4802.png,Private,Nocturnal bird
+4803.png,Public,Water-associated bird
+4804.png,Public,Bird of prey
+4805.png,Private,Water-associated bird
+4806.png,Private,Other non-passerine bird
+4807.png,Private,Water-associated bird
+4808.png,Public,Flycatcher
+4809.png,Private,Flycatcher
+4810.png,Public,Flycatcher
+4811.png,Private,Parrot
+4812.png,Private,Nocturnal bird
+4813.png,Public,Nocturnal bird
+4814.png,Public,Bird of prey
+4815.png,Public,Antbird
+4816.png,Private,Water-associated bird
+4817.png,Public,Bird of prey
+4818.png,Private,Flycatcher
+4819.png,Private,Tanager
+4820.png,Public,Bird of prey
+4821.png,Public,Antbird
+4822.png,Private,Parrot
+4823.png,Private,Flycatcher
+4824.png,Private,Bird of prey
+4825.png,Private,Tanager
+4826.png,Private,Tanager
+4827.png,Private,Water-associated bird
+4828.png,Public,Other non-passerine bird
+4829.png,Private,Parrot
+4830.png,Private,Nocturnal bird
+4831.png,Public,Other non-passerine bird
+4832.png,Private,Flycatcher
+4833.png,Private,Nocturnal bird
+4834.png,Public,Other non-passerine bird
+4835.png,Private,Water-associated bird
+4836.png,Public,Flycatcher
+4837.png,Private,Other non-passerine bird
+4838.png,Private,Ground bird
+4839.png,Private,Flycatcher
+4840.png,Public,Nocturnal bird
+4841.png,Private,Nocturnal bird
+4842.png,Public,Other non-passerine bird
+4843.png,Private,Nocturnal bird
+4844.png,Private,Water-associated bird
+4845.png,Private,Water-associated bird
+4846.png,Private,Water-associated bird
+4847.png,Private,Water-associated bird
+4848.png,Public,Water-associated bird
+4849.png,Public,Water-associated bird
+4850.png,Public,Nocturnal bird
+4851.png,Private,Bird of prey
+4852.png,Private,Flycatcher
+4853.png,Public,Bird of prey
+4854.png,Public,Water-associated bird
+4855.png,Private,Flycatcher
+4856.png,Public,Parrot
+4857.png,Private,Flycatcher
+4858.png,Public,Water-associated bird
+4859.png,Public,Other non-passerine bird
+4860.png,Private,Parrot
+4861.png,Private,Other non-passerine bird
+4862.png,Public,Other non-passerine bird
+4863.png,Private,Other non-passerine bird
+4864.png,Private,Other non-passerine bird
+4865.png,Public,Flycatcher
+4866.png,Public,Flycatcher
+4867.png,Public,Flycatcher
+4868.png,Private,Other non-passerine bird
+4869.png,Private,Water-associated bird
+4870.png,Public,Flycatcher
+4871.png,Private,Flycatcher
+4872.png,Public,Nocturnal bird
+4873.png,Public,Ground bird
+4874.png,Public,Other non-passerine bird
+4875.png,Public,Other non-passerine bird
+4876.png,Private,Flycatcher
+4877.png,Private,Water-associated bird
+4878.png,Private,Tanager
+4879.png,Public,Water-associated bird
+4880.png,Private,Flycatcher
+4881.png,Private,Flycatcher
+4882.png,Private,Nocturnal bird
+4883.png,Private,Water-associated bird
+4884.png,Public,Parrot
+4885.png,Private,Tanager
+4886.png,Private,Parrot
+4887.png,Public,Nocturnal bird
+4888.png,Private,Flycatcher
+4889.png,Private,Water-associated bird
+4890.png,Private,Nocturnal bird
+4891.png,Private,Water-associated bird
+4892.png,Private,Flycatcher
+4893.png,Private,Bird of prey
+4894.png,Private,Flycatcher
+4895.png,Public,Bird of prey
+4896.png,Private,Bird of prey
+4897.png,Private,Water-associated bird
+4898.png,Public,Antbird
+4899.png,Public,Nocturnal bird
+4900.png,Public,Bird of prey
+4901.png,Private,Nocturnal bird
+4902.png,Private,Ground bird
+4903.png,Private,Other non-passerine bird
+4904.png,Public,Flycatcher
+4905.png,Public,Tanager
+4906.png,Private,Bird of prey
+4907.png,Public,Other non-passerine bird
+4908.png,Public,Tanager
+4909.png,Public,Other non-passerine bird
+4910.png,Private,Nocturnal bird
+4911.png,Public,Nocturnal bird
+4912.png,Private,Flycatcher
+4913.png,Private,Tanager
+4914.png,Public,Other non-passerine bird
+4915.png,Public,Tanager
+4916.png,Public,Flycatcher
+4917.png,Private,Bird of prey
+4918.png,Private,Ground bird
+4919.png,Public,Other non-passerine bird
+4920.png,Public,Flycatcher
+4921.png,Private,Bird of prey
+4922.png,Public,Water-associated bird
+4923.png,Public,Water-associated bird
+4924.png,Private,Other non-passerine bird
+4925.png,Private,Water-associated bird
+4926.png,Private,Bird of prey
+4927.png,Private,Nocturnal bird
+4928.png,Private,Flycatcher
+4929.png,Public,Nocturnal bird
+4930.png,Public,Antbird
+4931.png,Private,Other non-passerine bird
+4932.png,Private,Flycatcher
+4933.png,Private,Flycatcher
+4934.png,Public,Water-associated bird
+4935.png,Private,Nocturnal bird
+4936.png,Private,Nocturnal bird
+4937.png,Private,Flycatcher
+4938.png,Public,Other non-passerine bird
+4939.png,Private,Water-associated bird
+4940.png,Private,Water-associated bird
+4941.png,Private,Ground bird
+4942.png,Public,Flycatcher
+4943.png,Private,Nocturnal bird
+4944.png,Private,Flycatcher
+4945.png,Private,Tanager
+4946.png,Public,Tanager
+4947.png,Private,Nocturnal bird
+4948.png,Private,Nocturnal bird
+4949.png,Public,Water-associated bird
+4950.png,Private,Bird of prey
+4951.png,Private,Water-associated bird
+4952.png,Public,Water-associated bird
+4953.png,Public,Nocturnal bird
+4954.png,Public,Flycatcher
+4955.png,Public,Bird of prey
+4956.png,Private,Nocturnal bird
+4957.png,Private,Other non-passerine bird
+4958.png,Public,Other non-passerine bird
+4959.png,Public,Tanager
+4960.png,Private,Bird of prey
+4961.png,Public,Water-associated bird
+4962.png,Private,Flycatcher
+4963.png,Private,Flycatcher
+4964.png,Public,Other non-passerine bird
+4965.png,Public,Water-associated bird
+4966.png,Public,Flycatcher
+4967.png,Public,Parrot
+4968.png,Public,Water-associated bird
+4969.png,Private,Water-associated bird
+4970.png,Private,Other non-passerine bird
+4971.png,Public,Other non-passerine bird
+4972.png,Private,Nocturnal bird
+4973.png,Private,Parrot
+4974.png,Private,Bird of prey
+4975.png,Public,Flycatcher
+4976.png,Public,Flycatcher
+4977.png,Private,Nocturnal bird
+4978.png,Private,Bird of prey
+4979.png,Private,Bird of prey
+4980.png,Private,Tanager
+4981.png,Public,Water-associated bird
+4982.png,Public,Antbird
+4983.png,Public,Water-associated bird
+4984.png,Public,Tanager
+4985.png,Public,Flycatcher
+4986.png,Public,Water-associated bird
+4987.png,Public,Tanager
+4988.png,Private,Bird of prey
+4989.png,Private,Nocturnal bird
+4990.png,Private,Water-associated bird
+4991.png,Private,Parrot
+4992.png,Public,Flycatcher
+4993.png,Private,Nocturnal bird
+4994.png,Private,Bird of prey
+4995.png,Private,Bird of prey
+4996.png,Private,Other non-passerine bird
+4997.png,Private,Nocturnal bird
+4998.png,Public,Water-associated bird
+4999.png,Private,Parrot
+5000.png,Public,Parrot
+5001.png,Private,Parrot
+5002.png,Private,Bird of prey
+5003.png,Public,Nocturnal bird
+5004.png,Private,Water-associated bird
+5005.png,Public,Nocturnal bird
+5006.png,Public,Flycatcher
+5007.png,Public,Nocturnal bird
+5008.png,Public,Flycatcher
+5009.png,Public,Water-associated bird
+5010.png,Public,Water-associated bird
+5011.png,Public,Ground bird
+5012.png,Public,Water-associated bird
+5013.png,Public,Water-associated bird
+5014.png,Private,Nocturnal bird
+5015.png,Private,Water-associated bird
+5016.png,Public,Nocturnal bird
+5017.png,Public,Nocturnal bird
+5018.png,Private,Water-associated bird
+5019.png,Public,Water-associated bird
+5020.png,Public,Flycatcher
+5021.png,Public,Parrot
+5022.png,Private,Other non-passerine bird
+5023.png,Private,Flycatcher
+5024.png,Private,Flycatcher
+5025.png,Public,Tanager
+5026.png,Public,Other non-passerine bird
+5027.png,Private,Tanager
+5028.png,Private,Parrot
+5029.png,Private,Flycatcher
+5030.png,Private,Tanager
+5031.png,Private,Water-associated bird
+5032.png,Private,Bird of prey
+5033.png,Private,Water-associated bird
+5034.png,Private,Other non-passerine bird
+5035.png,Public,Other non-passerine bird
+5036.png,Public,Nocturnal bird
+5037.png,Private,Water-associated bird
+5038.png,Private,Other non-passerine bird
+5039.png,Public,Bird of prey
+5040.png,Private,Nocturnal bird
+5041.png,Public,Other non-passerine bird
+5042.png,Public,Nocturnal bird
+5043.png,Public,Antbird
+5044.png,Public,Water-associated bird
+5045.png,Public,Bird of prey
+5046.png,Public,Water-associated bird
+5047.png,Private,Parrot
+5048.png,Private,Nocturnal bird
+5049.png,Public,Water-associated bird
+5050.png,Private,Tanager
+5051.png,Private,Ground bird
+5052.png,Private,Tanager
+5053.png,Public,Water-associated bird
+5054.png,Private,Nocturnal bird
+5055.png,Public,Other non-passerine bird
+5056.png,Private,Water-associated bird
+5057.png,Public,Water-associated bird
+5058.png,Private,Antbird
+5059.png,Public,Flycatcher
+5060.png,Public,Nocturnal bird
+5061.png,Public,Nocturnal bird
+5062.png,Private,Water-associated bird
+5063.png,Private,Nocturnal bird
+5064.png,Public,Antbird
+5065.png,Public,Parrot
+5066.png,Public,Flycatcher
+5067.png,Private,Water-associated bird
+5068.png,Public,Nocturnal bird
+5069.png,Private,Nocturnal bird
+5070.png,Public,Bird of prey
+5071.png,Public,Nocturnal bird
+5072.png,Private,Nocturnal bird
+5073.png,Public,Flycatcher
+5074.png,Public,Flycatcher
+5075.png,Public,Nocturnal bird
+5076.png,Private,Tanager
+5077.png,Private,Water-associated bird
+5078.png,Public,Water-associated bird
+5079.png,Public,Flycatcher
+5080.png,Private,Water-associated bird
+5081.png,Public,Water-associated bird
+5082.png,Public,Water-associated bird
+5083.png,Private,Water-associated bird
+5084.png,Public,Water-associated bird
+5085.png,Public,Flycatcher
+5086.png,Private,Water-associated bird
+5087.png,Public,Parrot
+5088.png,Public,Flycatcher
+5089.png,Public,Antbird
+5090.png,Public,Nocturnal bird
+5091.png,Public,Nocturnal bird
+5092.png,Private,Tanager
+5093.png,Public,Flycatcher
+5094.png,Public,Flycatcher
+5095.png,Private,Water-associated bird
+5096.png,Public,Other non-passerine bird
+5097.png,Public,Antbird
+5098.png,Public,Other non-passerine bird
+5099.png,Private,Antbird
+5100.png,Public,Tanager
+5101.png,Public,Water-associated bird
+5102.png,Public,Water-associated bird
+5103.png,Private,Tanager
+5104.png,Public,Bird of prey
+5105.png,Public,Flycatcher
+5106.png,Public,Flycatcher
+5107.png,Public,Other non-passerine bird
+5108.png,Public,Tanager
+5109.png,Public,Bird of prey
+5110.png,Private,Flycatcher
+5111.png,Public,Bird of prey
+5112.png,Public,Other non-passerine bird
+5113.png,Private,Water-associated bird
+5114.png,Public,Water-associated bird
+5115.png,Private,Nocturnal bird
+5116.png,Private,Flycatcher
+5117.png,Private,Water-associated bird
+5118.png,Private,Nocturnal bird
+5119.png,Private,Water-associated bird
+5120.png,Public,Other non-passerine bird
+5121.png,Private,Other non-passerine bird
+5122.png,Private,Flycatcher
+5123.png,Public,Flycatcher
+5124.png,Public,Flycatcher
+5125.png,Private,Antbird
+5126.png,Private,Water-associated bird
+5127.png,Public,Other non-passerine bird
+5128.png,Private,Water-associated bird
+5129.png,Public,Nocturnal bird
+5130.png,Public,Ground bird
+5131.png,Public,Ground bird
+5132.png,Public,Ground bird
+5133.png,Private,Ground bird
+5134.png,Public,Ground bird
+5135.png,Private,Ground bird
+5136.png,Private,Other non-passerine bird
+5137.png,Private,Ground bird
+5138.png,Private,Water-associated bird
+5139.png,Private,Nocturnal bird
+5140.png,Private,Nocturnal bird
+5141.png,Public,Parrot
+5142.png,Public,Bird of prey
+5143.png,Private,Bird of prey
+5144.png,Public,Bird of prey
+5145.png,Public,Parrot
+5146.png,Private,Nocturnal bird
+5147.png,Public,Bird of prey
+5148.png,Public,Flycatcher
+5149.png,Public,Nocturnal bird
+5150.png,Private,Bird of prey
+5151.png,Public,Ground bird
+5152.png,Private,Bird of prey
+5153.png,Private,Nocturnal bird
+5154.png,Private,Flycatcher
+5155.png,Public,Water-associated bird
+5156.png,Private,Water-associated bird
+5157.png,Public,Other non-passerine bird
+5158.png,Private,Tanager
+5159.png,Public,Antbird
+5160.png,Public,Antbird
+5161.png,Private,Antbird
+5162.png,Private,Other non-passerine bird
+5163.png,Private,Other non-passerine bird
+5164.png,Private,Tanager
+5165.png,Public,Flycatcher
+5166.png,Private,Tanager
+5167.png,Public,Bird of prey
+5168.png,Private,Tanager
+5169.png,Public,Parrot
+5170.png,Public,Water-associated bird
+5171.png,Public,Nocturnal bird
+5172.png,Public,Tanager
+5173.png,Public,Flycatcher
+5174.png,Private,Flycatcher
+5175.png,Private,Tanager
+5176.png,Private,Tanager
+5177.png,Public,Flycatcher
+5178.png,Public,Flycatcher
+5179.png,Public,Other non-passerine bird
+5180.png,Private,Other non-passerine bird
+5181.png,Public,Parrot
+5182.png,Private,Flycatcher
+5183.png,Public,Tanager
+5184.png,Public,Nocturnal bird
+5185.png,Private,Tanager
+5186.png,Private,Water-associated bird
+5187.png,Public,Antbird
+5188.png,Private,Water-associated bird
+5189.png,Public,Flycatcher
+5190.png,Private,Water-associated bird
+5191.png,Private,Antbird
+5192.png,Private,Nocturnal bird
+5193.png,Private,Flycatcher
+5194.png,Private,Water-associated bird
+5195.png,Private,Bird of prey
+5196.png,Private,Bird of prey
+5197.png,Public,Water-associated bird
+5198.png,Public,Bird of prey
+5199.png,Public,Bird of prey
+5200.png,Public,Water-associated bird
+5201.png,Private,Water-associated bird
+5202.png,Public,Nocturnal bird
+5203.png,Public,Bird of prey
+5204.png,Public,Other non-passerine bird
+5205.png,Public,Flycatcher
+5206.png,Private,Water-associated bird
+5207.png,Public,Bird of prey
+5208.png,Private,Water-associated bird
+5209.png,Public,Water-associated bird
+5210.png,Private,Other non-passerine bird
+5211.png,Public,Water-associated bird
+5212.png,Private,Parrot
+5213.png,Private,Water-associated bird
+5214.png,Private,Bird of prey
+5215.png,Private,Flycatcher
+5216.png,Private,Bird of prey
+5217.png,Public,Water-associated bird
+5218.png,Private,Bird of prey
+5219.png,Private,Flycatcher
+5220.png,Public,Tanager
+5221.png,Private,Tanager
+5222.png,Private,Flycatcher
+5223.png,Private,Bird of prey
+5224.png,Public,Flycatcher
+5225.png,Public,Flycatcher
+5226.png,Public,Nocturnal bird
+5227.png,Private,Flycatcher
+5228.png,Private,Bird of prey
+5229.png,Public,Water-associated bird
+5230.png,Private,Ground bird
+5231.png,Private,Parrot
+5232.png,Private,Parrot
+5233.png,Private,Other non-passerine bird
+5234.png,Public,Other non-passerine bird
+5235.png,Public,Nocturnal bird
+5236.png,Public,Bird of prey
+5237.png,Public,Bird of prey
+5238.png,Public,Other non-passerine bird
+5239.png,Private,Water-associated bird
+5240.png,Private,Other non-passerine bird
+5241.png,Private,Water-associated bird
+5242.png,Private,Nocturnal bird
+5243.png,Private,Bird of prey
+5244.png,Public,Other non-passerine bird
+5245.png,Private,Water-associated bird
+5246.png,Private,Nocturnal bird
+5247.png,Public,Antbird
+5248.png,Private,Parrot
+5249.png,Private,Parrot
+5250.png,Private,Bird of prey
+5251.png,Public,Water-associated bird
+5252.png,Private,Nocturnal bird
+5253.png,Private,Flycatcher
+5254.png,Public,Nocturnal bird
+5255.png,Public,Bird of prey
+5256.png,Private,Water-associated bird
+5257.png,Private,Flycatcher
+5258.png,Private,Other non-passerine bird
+5259.png,Private,Other non-passerine bird
+5260.png,Private,Flycatcher
+5261.png,Public,Antbird
+5262.png,Public,Flycatcher
+5263.png,Private,Nocturnal bird
+5264.png,Private,Water-associated bird
+5265.png,Public,Water-associated bird
+5266.png,Public,Flycatcher
+5267.png,Private,Water-associated bird
+5268.png,Public,Other non-passerine bird
+5269.png,Private,Other non-passerine bird
+5270.png,Public,Nocturnal bird
+5271.png,Public,Nocturnal bird
+5272.png,Private,Water-associated bird
+5273.png,Public,Flycatcher
+5274.png,Private,Bird of prey
+5275.png,Private,Ground bird
+5276.png,Private,Other non-passerine bird
+5277.png,Public,Other non-passerine bird
+5278.png,Public,Nocturnal bird
+5279.png,Private,Nocturnal bird
+5280.png,Public,Nocturnal bird
+5281.png,Public,Flycatcher
+5282.png,Public,Flycatcher
+5283.png,Public,Antbird
+5284.png,Public,Tanager
+5285.png,Private,Tanager
+5286.png,Public,Nocturnal bird
+5287.png,Private,Other non-passerine bird
+5288.png,Public,Other non-passerine bird
+5289.png,Private,Water-associated bird
+5290.png,Private,Tanager
+5291.png,Private,Other non-passerine bird
+5292.png,Private,Nocturnal bird
+5293.png,Private,Nocturnal bird
+5294.png,Private,Water-associated bird
+5295.png,Private,Flycatcher
+5296.png,Private,Other non-passerine bird
+5297.png,Private,Tanager
+5298.png,Private,Nocturnal bird
+5299.png,Public,Tanager
+5300.png,Public,Other non-passerine bird
+5301.png,Private,Tanager
+5302.png,Private,Water-associated bird
+5303.png,Public,Nocturnal bird
+5304.png,Private,Flycatcher
+5305.png,Private,Water-associated bird
+5306.png,Private,Bird of prey
+5307.png,Public,Water-associated bird
+5308.png,Private,Flycatcher
+5309.png,Public,Water-associated bird
+5310.png,Private,Nocturnal bird
+5311.png,Private,Nocturnal bird
+5312.png,Public,Nocturnal bird
+5313.png,Public,Other non-passerine bird
+5314.png,Private,Nocturnal bird
+5315.png,Private,Water-associated bird
+5316.png,Private,Antbird
+5317.png,Public,Water-associated bird
+5318.png,Public,Flycatcher
+5319.png,Private,Flycatcher
+5320.png,Public,Ground bird
+5321.png,Private,Flycatcher
+5322.png,Private,Other non-passerine bird
+5323.png,Private,Parrot
+5324.png,Private,Parrot
+5325.png,Public,Water-associated bird
+5326.png,Private,Other non-passerine bird
+5327.png,Public,Nocturnal bird
+5328.png,Private,Flycatcher
+5329.png,Public,Flycatcher
+5330.png,Private,Water-associated bird
+5331.png,Private,Nocturnal bird
+5332.png,Public,Bird of prey
+5333.png,Private,Flycatcher
+5334.png,Public,Bird of prey
+5335.png,Public,Bird of prey
+5336.png,Private,Tanager
+5337.png,Public,Nocturnal bird
+5338.png,Public,Water-associated bird
+5339.png,Public,Tanager
+5340.png,Private,Nocturnal bird
+5341.png,Private,Water-associated bird
+5342.png,Public,Flycatcher
+5343.png,Private,Water-associated bird
+5344.png,Public,Antbird
+5345.png,Public,Ground bird
+5346.png,Public,Water-associated bird
+5347.png,Public,Nocturnal bird
+5348.png,Private,Parrot
+5349.png,Public,Tanager
+5350.png,Private,Parrot
+5351.png,Public,Water-associated bird
+5352.png,Private,Bird of prey
+5353.png,Private,Water-associated bird
+5354.png,Public,Tanager
+5355.png,Private,Tanager
+5356.png,Public,Flycatcher
+5357.png,Public,Water-associated bird
+5358.png,Public,Water-associated bird
+5359.png,Private,Water-associated bird
+5360.png,Private,Nocturnal bird
+5361.png,Private,Nocturnal bird
+5362.png,Public,Flycatcher
+5363.png,Public,Other non-passerine bird
+5364.png,Private,Flycatcher
+5365.png,Public,Flycatcher
+5366.png,Public,Parrot
+5367.png,Public,Nocturnal bird
+5368.png,Public,Nocturnal bird
+5369.png,Public,Other non-passerine bird
+5370.png,Private,Tanager
+5371.png,Private,Flycatcher
+5372.png,Private,Water-associated bird
+5373.png,Public,Nocturnal bird
+5374.png,Public,Nocturnal bird
+5375.png,Public,Water-associated bird
+5376.png,Private,Water-associated bird
+5377.png,Public,Tanager
+5378.png,Private,Nocturnal bird
+5379.png,Private,Nocturnal bird
+5380.png,Public,Parrot
+5381.png,Public,Other non-passerine bird
+5382.png,Private,Nocturnal bird
+5383.png,Public,Other non-passerine bird
+5384.png,Private,Parrot
+5385.png,Public,Nocturnal bird
+5386.png,Private,Nocturnal bird
+5387.png,Private,Nocturnal bird
+5388.png,Public,Water-associated bird
+5389.png,Public,Water-associated bird
+5390.png,Public,Nocturnal bird
+5391.png,Private,Water-associated bird
+5392.png,Public,Antbird
+5393.png,Public,Antbird
+5394.png,Private,Bird of prey
+5395.png,Private,Bird of prey
+5396.png,Public,Flycatcher
+5397.png,Private,Flycatcher
+5398.png,Private,Water-associated bird
+5399.png,Public,Antbird
+5400.png,Public,Flycatcher
+5401.png,Public,Water-associated bird
+5402.png,Public,Nocturnal bird
+5403.png,Public,Flycatcher
+5404.png,Public,Nocturnal bird
+5405.png,Public,Flycatcher
+5406.png,Private,Water-associated bird
+5407.png,Public,Water-associated bird
+5408.png,Public,Water-associated bird
+5409.png,Private,Parrot
+5410.png,Private,Nocturnal bird
+5411.png,Private,Nocturnal bird
+5412.png,Private,Parrot
+5413.png,Private,Water-associated bird
+5414.png,Public,Ground bird
+5415.png,Public,Flycatcher
+5416.png,Public,Water-associated bird
+5417.png,Private,Bird of prey
+5418.png,Private,Nocturnal bird
+5419.png,Public,Flycatcher
+5420.png,Private,Nocturnal bird
+5421.png,Public,Other non-passerine bird
+5422.png,Public,Other non-passerine bird
+5423.png,Private,Water-associated bird
+5424.png,Private,Bird of prey
+5425.png,Private,Nocturnal bird
+5426.png,Public,Bird of prey
+5427.png,Private,Flycatcher
+5428.png,Private,Water-associated bird
+5429.png,Public,Water-associated bird
+5430.png,Public,Parrot
+5431.png,Private,Parrot
+5432.png,Public,Water-associated bird
+5433.png,Private,Nocturnal bird
+5434.png,Private,Nocturnal bird
+5435.png,Public,Tanager
+5436.png,Private,Flycatcher
+5437.png,Private,Water-associated bird
+5438.png,Public,Water-associated bird
+5439.png,Private,Flycatcher
+5440.png,Public,Flycatcher
+5441.png,Public,Water-associated bird
+5442.png,Private,Flycatcher
+5443.png,Private,Bird of prey
+5444.png,Private,Tanager
+5445.png,Public,Other non-passerine bird
+5446.png,Private,Other non-passerine bird
+5447.png,Public,Other non-passerine bird
+5448.png,Private,Tanager
+5449.png,Private,Tanager
+5450.png,Private,Parrot
+5451.png,Private,Flycatcher
+5452.png,Public,Bird of prey
+5453.png,Private,Parrot
+5454.png,Public,Water-associated bird

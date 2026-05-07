@@ -1,0 +1,101 @@
+label,audio_file,image_file,width,height
+Antbird,new_train_audio_20s/Antbird/XC1054647.ogg,raw_spectrogram_images/Antbird/XC1054647.png,1996,513
+Antbird,new_train_audio_20s/Antbird/XC125527.ogg,raw_spectrogram_images/Antbird/XC125527.png,1996,513
+Antbird,new_train_audio_20s/Antbird/XC128567.ogg,raw_spectrogram_images/Antbird/XC128567.png,1997,513
+Antbird,new_train_audio_20s/Antbird/XC131600.ogg,raw_spectrogram_images/Antbird/XC131600.png,1996,513
+Antbird,new_train_audio_20s/Antbird/XC139971.ogg,raw_spectrogram_images/Antbird/XC139971.png,1997,513
+Antbird,new_train_audio_20s/Antbird/XC140004.ogg,raw_spectrogram_images/Antbird/XC140004.png,1997,513
+Antbird,new_train_audio_20s/Antbird/XC145449.ogg,raw_spectrogram_images/Antbird/XC145449.png,1997,513
+Antbird,new_train_audio_20s/Antbird/XC15004.ogg,raw_spectrogram_images/Antbird/XC15004.png,1997,513
+Antbird,new_train_audio_20s/Antbird/XC150803.ogg,raw_spectrogram_images/Antbird/XC150803.png,1997,513
+Antbird,new_train_audio_20s/Antbird/XC172124.ogg,raw_spectrogram_images/Antbird/XC172124.png,1997,513
+Bird of prey,new_train_audio_20s/Bird of prey/XC1003367.ogg,raw_spectrogram_images/Bird of prey/XC1003367.png,1997,513
+Bird of prey,new_train_audio_20s/Bird of prey/XC1012391.ogg,raw_spectrogram_images/Bird of prey/XC1012391.png,1997,513
+Bird of prey,new_train_audio_20s/Bird of prey/XC1053927.ogg,raw_spectrogram_images/Bird of prey/XC1053927.png,1997,513
+Bird of prey,new_train_audio_20s/Bird of prey/XC113948.ogg,raw_spectrogram_images/Bird of prey/XC113948.png,1997,513
+Bird of prey,new_train_audio_20s/Bird of prey/XC116247.ogg,raw_spectrogram_images/Bird of prey/XC116247.png,1996,513
+Bird of prey,new_train_audio_20s/Bird of prey/XC117517.ogg,raw_spectrogram_images/Bird of prey/XC117517.png,1997,513
+Bird of prey,new_train_audio_20s/Bird of prey/XC144163.ogg,raw_spectrogram_images/Bird of prey/XC144163.png,1997,513
+Bird of prey,new_train_audio_20s/Bird of prey/XC151949.ogg,raw_spectrogram_images/Bird of prey/XC151949.png,1997,513
+Bird of prey,new_train_audio_20s/Bird of prey/XC154300.ogg,raw_spectrogram_images/Bird of prey/XC154300.png,1996,513
+Bird of prey,new_train_audio_20s/Bird of prey/XC166393.ogg,raw_spectrogram_images/Bird of prey/XC166393.png,1997,513
+Flycatcher,new_train_audio_20s/Flycatcher/XC1035113.ogg,raw_spectrogram_images/Flycatcher/XC1035113.png,1997,513
+Flycatcher,new_train_audio_20s/Flycatcher/XC1045256.ogg,raw_spectrogram_images/Flycatcher/XC1045256.png,1997,513
+Flycatcher,new_train_audio_20s/Flycatcher/XC116106.ogg,raw_spectrogram_images/Flycatcher/XC116106.png,1997,513
+Flycatcher,new_train_audio_20s/Flycatcher/XC119808.ogg,raw_spectrogram_images/Flycatcher/XC119808.png,1997,513
+Flycatcher,new_train_audio_20s/Flycatcher/XC123561.ogg,raw_spectrogram_images/Flycatcher/XC123561.png,1997,513
+Flycatcher,new_train_audio_20s/Flycatcher/XC163778.ogg,raw_spectrogram_images/Flycatcher/XC163778.png,1997,513
+Flycatcher,new_train_audio_20s/Flycatcher/XC164576.ogg,raw_spectrogram_images/Flycatcher/XC164576.png,1997,513
+Flycatcher,new_train_audio_20s/Flycatcher/XC1773.ogg,raw_spectrogram_images/Flycatcher/XC1773.png,1997,513
+Flycatcher,new_train_audio_20s/Flycatcher/XC201966.ogg,raw_spectrogram_images/Flycatcher/XC201966.png,1997,513
+Flycatcher,new_train_audio_20s/Flycatcher/XC207185.ogg,raw_spectrogram_images/Flycatcher/XC207185.png,1997,513
+Ground bird,new_train_audio_20s/Ground bird/XC1027577.ogg,raw_spectrogram_images/Ground bird/XC1027577.png,1996,513
+Ground bird,new_train_audio_20s/Ground bird/XC1047952.ogg,raw_spectrogram_images/Ground bird/XC1047952.png,1997,513
+Ground bird,new_train_audio_20s/Ground bird/XC1054219.ogg,raw_spectrogram_images/Ground bird/XC1054219.png,1997,513
+Ground bird,new_train_audio_20s/Ground bird/XC1063150.ogg,raw_spectrogram_images/Ground bird/XC1063150.png,1996,513
+Ground bird,new_train_audio_20s/Ground bird/XC1063153.ogg,raw_spectrogram_images/Ground bird/XC1063153.png,1997,513
+Ground bird,new_train_audio_20s/Ground bird/XC1069067.ogg,raw_spectrogram_images/Ground bird/XC1069067.png,1997,513
+Ground bird,new_train_audio_20s/Ground bird/XC108668.ogg,raw_spectrogram_images/Ground bird/XC108668.png,1997,513
+Ground bird,new_train_audio_20s/Ground bird/XC117744.ogg,raw_spectrogram_images/Ground bird/XC117744.png,1997,513
+Ground bird,new_train_audio_20s/Ground bird/XC123676.ogg,raw_spectrogram_images/Ground bird/XC123676.png,1997,513
+Ground bird,new_train_audio_20s/Ground bird/XC127987.ogg,raw_spectrogram_images/Ground bird/XC127987.png,1997,513
+Nocturnal bird,new_train_audio_20s/Nocturnal bird/XC1032426.ogg,raw_spectrogram_images/Nocturnal bird/XC1032426.png,1997,513
+Nocturnal bird,new_train_audio_20s/Nocturnal bird/XC141613.ogg,raw_spectrogram_images/Nocturnal bird/XC141613.png,1997,513
+Nocturnal bird,new_train_audio_20s/Nocturnal bird/XC143782.ogg,raw_spectrogram_images/Nocturnal bird/XC143782.png,1996,513
+Nocturnal bird,new_train_audio_20s/Nocturnal bird/XC148310.ogg,raw_spectrogram_images/Nocturnal bird/XC148310.png,1997,513
+Nocturnal bird,new_train_audio_20s/Nocturnal bird/XC155788.ogg,raw_spectrogram_images/Nocturnal bird/XC155788.png,1997,513
+Nocturnal bird,new_train_audio_20s/Nocturnal bird/XC169822.ogg,raw_spectrogram_images/Nocturnal bird/XC169822.png,1997,513
+Nocturnal bird,new_train_audio_20s/Nocturnal bird/XC174656.ogg,raw_spectrogram_images/Nocturnal bird/XC174656.png,1997,513
+Nocturnal bird,new_train_audio_20s/Nocturnal bird/XC206942.ogg,raw_spectrogram_images/Nocturnal bird/XC206942.png,1997,513
+Nocturnal bird,new_train_audio_20s/Nocturnal bird/XC276168.ogg,raw_spectrogram_images/Nocturnal bird/XC276168.png,1997,513
+Nocturnal bird,new_train_audio_20s/Nocturnal bird/XC301243.ogg,raw_spectrogram_images/Nocturnal bird/XC301243.png,1996,513
+Other non-passerine bird,new_train_audio_20s/Other non-passerine bird/XC1001101.ogg,raw_spectrogram_images/Other non-passerine bird/XC1001101.png,1997,513
+Other non-passerine bird,new_train_audio_20s/Other non-passerine bird/XC120068.ogg,raw_spectrogram_images/Other non-passerine bird/XC120068.png,1997,513
+Other non-passerine bird,new_train_audio_20s/Other non-passerine bird/XC126041.ogg,raw_spectrogram_images/Other non-passerine bird/XC126041.png,1997,513
+Other non-passerine bird,new_train_audio_20s/Other non-passerine bird/XC127845.ogg,raw_spectrogram_images/Other non-passerine bird/XC127845.png,1997,513
+Other non-passerine bird,new_train_audio_20s/Other non-passerine bird/XC144339.ogg,raw_spectrogram_images/Other non-passerine bird/XC144339.png,1997,513
+Other non-passerine bird,new_train_audio_20s/Other non-passerine bird/XC151366.ogg,raw_spectrogram_images/Other non-passerine bird/XC151366.png,1997,513
+Other non-passerine bird,new_train_audio_20s/Other non-passerine bird/XC166268.ogg,raw_spectrogram_images/Other non-passerine bird/XC166268.png,1997,513
+Other non-passerine bird,new_train_audio_20s/Other non-passerine bird/XC169867.ogg,raw_spectrogram_images/Other non-passerine bird/XC169867.png,1997,513
+Other non-passerine bird,new_train_audio_20s/Other non-passerine bird/XC200615.ogg,raw_spectrogram_images/Other non-passerine bird/XC200615.png,1996,513
+Other non-passerine bird,new_train_audio_20s/Other non-passerine bird/XC201031.ogg,raw_spectrogram_images/Other non-passerine bird/XC201031.png,1997,513
+Other songbird,new_train_audio_20s/Other songbird/XC1018569.ogg,raw_spectrogram_images/Other songbird/XC1018569.png,1997,513
+Other songbird,new_train_audio_20s/Other songbird/XC1063975.ogg,raw_spectrogram_images/Other songbird/XC1063975.png,1997,513
+Other songbird,new_train_audio_20s/Other songbird/XC118886.ogg,raw_spectrogram_images/Other songbird/XC118886.png,1997,513
+Other songbird,new_train_audio_20s/Other songbird/XC119615.ogg,raw_spectrogram_images/Other songbird/XC119615.png,1997,513
+Other songbird,new_train_audio_20s/Other songbird/XC119873.ogg,raw_spectrogram_images/Other songbird/XC119873.png,1997,513
+Other songbird,new_train_audio_20s/Other songbird/XC123685.ogg,raw_spectrogram_images/Other songbird/XC123685.png,1997,513
+Other songbird,new_train_audio_20s/Other songbird/XC127164.ogg,raw_spectrogram_images/Other songbird/XC127164.png,1997,513
+Other songbird,new_train_audio_20s/Other songbird/XC131337.ogg,raw_spectrogram_images/Other songbird/XC131337.png,1997,513
+Other songbird,new_train_audio_20s/Other songbird/XC144769.ogg,raw_spectrogram_images/Other songbird/XC144769.png,1997,513
+Other songbird,new_train_audio_20s/Other songbird/XC152495.ogg,raw_spectrogram_images/Other songbird/XC152495.png,1997,513
+Parrot,new_train_audio_20s/Parrot/XC112755.ogg,raw_spectrogram_images/Parrot/XC112755.png,1997,513
+Parrot,new_train_audio_20s/Parrot/XC115384.ogg,raw_spectrogram_images/Parrot/XC115384.png,1997,513
+Parrot,new_train_audio_20s/Parrot/XC118933.ogg,raw_spectrogram_images/Parrot/XC118933.png,1997,513
+Parrot,new_train_audio_20s/Parrot/XC122304.ogg,raw_spectrogram_images/Parrot/XC122304.png,1997,513
+Parrot,new_train_audio_20s/Parrot/XC130318.ogg,raw_spectrogram_images/Parrot/XC130318.png,1997,513
+Parrot,new_train_audio_20s/Parrot/XC144930.ogg,raw_spectrogram_images/Parrot/XC144930.png,1997,513
+Parrot,new_train_audio_20s/Parrot/XC145813.ogg,raw_spectrogram_images/Parrot/XC145813.png,1997,513
+Parrot,new_train_audio_20s/Parrot/XC157481.ogg,raw_spectrogram_images/Parrot/XC157481.png,1997,513
+Parrot,new_train_audio_20s/Parrot/XC171677.ogg,raw_spectrogram_images/Parrot/XC171677.png,1997,513
+Parrot,new_train_audio_20s/Parrot/XC172972.ogg,raw_spectrogram_images/Parrot/XC172972.png,1997,513
+Tanager,new_train_audio_20s/Tanager/XC1000943.ogg,raw_spectrogram_images/Tanager/XC1000943.png,1997,513
+Tanager,new_train_audio_20s/Tanager/XC1027464.ogg,raw_spectrogram_images/Tanager/XC1027464.png,1997,513
+Tanager,new_train_audio_20s/Tanager/XC1030202.ogg,raw_spectrogram_images/Tanager/XC1030202.png,1997,513
+Tanager,new_train_audio_20s/Tanager/XC1030225.ogg,raw_spectrogram_images/Tanager/XC1030225.png,1997,513
+Tanager,new_train_audio_20s/Tanager/XC1034690.ogg,raw_spectrogram_images/Tanager/XC1034690.png,1997,513
+Tanager,new_train_audio_20s/Tanager/XC1048815.ogg,raw_spectrogram_images/Tanager/XC1048815.png,1997,513
+Tanager,new_train_audio_20s/Tanager/XC1053935.ogg,raw_spectrogram_images/Tanager/XC1053935.png,1997,513
+Tanager,new_train_audio_20s/Tanager/XC1053972.ogg,raw_spectrogram_images/Tanager/XC1053972.png,1997,513
+Tanager,new_train_audio_20s/Tanager/XC113880.ogg,raw_spectrogram_images/Tanager/XC113880.png,1996,513
+Tanager,new_train_audio_20s/Tanager/XC119415.ogg,raw_spectrogram_images/Tanager/XC119415.png,1997,513
+Water-associated bird,new_train_audio_20s/Water-associated bird/XC1002436.ogg,raw_spectrogram_images/Water-associated bird/XC1002436.png,1997,513
+Water-associated bird,new_train_audio_20s/Water-associated bird/XC1005801.ogg,raw_spectrogram_images/Water-associated bird/XC1005801.png,1997,513
+Water-associated bird,new_train_audio_20s/Water-associated bird/XC113988.ogg,raw_spectrogram_images/Water-associated bird/XC113988.png,1997,513
+Water-associated bird,new_train_audio_20s/Water-associated bird/XC123993.ogg,raw_spectrogram_images/Water-associated bird/XC123993.png,1997,513
+Water-associated bird,new_train_audio_20s/Water-associated bird/XC142536.ogg,raw_spectrogram_images/Water-associated bird/XC142536.png,1997,513
+Water-associated bird,new_train_audio_20s/Water-associated bird/XC155061.ogg,raw_spectrogram_images/Water-associated bird/XC155061.png,1997,513
+Water-associated bird,new_train_audio_20s/Water-associated bird/XC173786.ogg,raw_spectrogram_images/Water-associated bird/XC173786.png,1997,513
+Water-associated bird,new_train_audio_20s/Water-associated bird/XC174393.ogg,raw_spectrogram_images/Water-associated bird/XC174393.png,1996,513
+Water-associated bird,new_train_audio_20s/Water-associated bird/XC200376.ogg,raw_spectrogram_images/Water-associated bird/XC200376.png,1997,513
+Water-associated bird,new_train_audio_20s/Water-associated bird/XC264261.ogg,raw_spectrogram_images/Water-associated bird/XC264261.png,1997,513
