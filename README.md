@@ -1,6 +1,6 @@
 # CS3780/5780 Sp26: All about Birds
 
-Data and starter workflows for the CS3780/5780 Spring 2026 "All about Birds" Kaggle competition https://www.kaggle.com/competitions/cs-3780-5780-spring-2026-all-about-birds/leaderboard?tab=private. The task is to classify bird audio examples into broad bird groups using metadata, audio preprocessing, spectrogram features, and model training notebooks.
+Data and starter workflows for the CS3780/5780 Spring 2026 "All about Birds" Kaggle competition https://www.kaggle.com/competitions/cs-3780-5780-spring-2026-all-about-birds. The task is to classify bird audio examples into broad bird groups using metadata, audio preprocessing, spectrogram features, and model training notebooks.
 
 ## Repository Contents
 
